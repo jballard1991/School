@@ -171,3 +171,37 @@ diamond:
  * * 
   *  
 
+
+//Weekly Problem
+#include <iostream>
+#include <string>
+using namespace std;
+int main (void) {
+float score,total;
+int exs,exn;
+exn = 1;
+cout << "How many exercises to input: ";
+cin >> exs;
+for (exs < 0; exs--;) {
+        cout << "Score received for exercise number " << exn << ": ";
+        cin >> score;
+        cout << "Total points possible for exercise number " << exn << ": ";
+        cin >> total;
+        cout << "Score received for exercise number" << exn << ": " << score / total << endl;
+        exn++;
+};
+return 0;
+}
+//Sample Run
+
+How many exercises to input: 3
+Score received for exercise number 1: 10
+Total points possible for exercise number 1: 15
+Score received for exercise number1: 0.666667
+Score received for exercise number 2: 13
+Total points possible for exercise number 2: 15
+Score received for exercise number2: 0.866667
+Score received for exercise number 3: 14
+Total points possible for exercise number 3: 15
+Score received for exercise number3: 0.933333
+

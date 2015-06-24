@@ -1,0 +1,483 @@
+//John Ballard
+
+//q1
+
+#include <iostream>
+using namespace std;
+int main (void) {
+cout << "****** " << endl;
+cout << "**   **" << endl;
+cout << "**   **" << endl;
+cout << "*******" << endl;
+cout << "**   **" << endl;
+cout << "**   **" << endl;
+cout << "****** " << endl;
+}
+
+//Sample run
+
+
+****** 
+**   **
+**   **
+*******
+**   **
+**   **
+******
+
+//q1
+
+ 
+#include <iostream>
+using namespace std;
+int main (void) {
+cout << "Shall I compare thee to a summer's day?" << endl << "Thou art more lovely and more temperate" << endl << "Rough Winds do shake the darling buds of May," << endl << "And summer's lease hath all to short a date." << endl;
+}
+
+//Sample run
+
+Shall I compare thee to a summer's day?
+Thou art more lovely and more temperate
+Rough Winds do shake the darling buds of May,
+And summer's lease hath all to short a date.
+
+//q3
+
+
+#include <iostream>
+using namespace std;
+int main (void) {
+int n;
+cout << n << endl;
+}
+
+//Sample Run
+
+0
+
+//q4
+
+#include <iostream>
+using namespace std;
+int main (void) {
+	char num = 1;
+	while (num)  {
+		cout << num << endl;
+		num++;
+	} 
+}
+
+//Sample Run
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+!
+"
+#
+$
+%
+&
+'
+(
+)
+*
++
+,
+-
+.
+/
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+:
+;
+<
+=
+>
+?
+@
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+[
+\
+]
+^
+_
+`
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+{
+|
+}
+~
+
+€
+
+‚
+ƒ
+„
+…
+†
+‡
+ˆ
+‰
+Š
+‹
+Œ
+
+
+
+
+‘
+’
+“
+”
+•
+–
+—
+˜
+™
+š
+›
+œ
+
+
+Ÿ
+ 
+¡
+¢
+£
+¤
+¥
+¦
+§
+¨
+©
+ª
+«
+¬
+­
+®
+¯
+°
+±
+²
+³
+´
+µ
+¶
+·
+¸
+¹
+º
+»
+¼
+½
+¾
+¿
+À
+Á
+Â
+Ã
+Ä
+Å
+Æ
+Ç
+È
+É
+Ê
+Ë
+Ì
+Í
+Î
+Ï
+Ğ
+Ñ
+Ò
+Ó
+Ô
+Õ
+Ö
+×
+Ø
+Ù
+Ú
+Û
+Ü
+İ
+Ş
+ß
+à
+á
+â
+ã
+ä
+å
+æ
+ç
+è
+é
+ê
+ë
+ì
+í
+î
+ï
+ğ
+ñ
+ò
+ó
+ô
+õ
+ö
+÷
+ø
+ù
+ú
+û
+ü
+ı
+ş
+ÿ
+
+//q5
+
+
+#include <iostream>
+using namespace std;
+int main (void) {
+char * letters = "0123456789vwxyz";  // create character array
+int ich = 0;	// initialize integer ich for casting of chars
+for (char * ptr = letters; *ptr != 0; ++ptr) {	// for loop to increment through char array using ptr
+	char ch = *ptr; 
+	ich = ch;	// cast from char to int
+	cout << ch << " = " << ich << endl;
+}
+
+}
+
+//Sample Run
+
+
+0 = 48
+1 = 49
+2 = 50
+3 = 51
+4 = 52
+5 = 53
+6 = 54
+7 = 55
+8 = 56
+9 = 57
+v = 118
+w = 119
+x = 120
+y = 121
+z = 122
+
+//q6
+
+
+#include <iostream>
+using namespace std;
+int main (void) {
+char * letters = "aeiouAEIOU";  // create character array
+int ich = 0;	// initialize integer ich for casting of chars
+for (char * ptr = letters; *ptr != 0; ++ptr) {	// for loop to increment through char array using ptr
+	char ch = *ptr; 
+	ich = ch;	// cast from char to int
+	cout << ch << " = " << ich << endl;
+}
+
+}
+
+//Sample Run
+
+
+a = 97
+e = 101
+i = 105
+o = 111
+u = 117
+A = 65
+E = 69
+I = 73
+O = 79
+U = 85
+
+//q7
+
+
+#include <iostream>
+using namespace std;
+int main (void) {
+int num,count = 0;
+cout << "Number: " ;
+cin >> num ;
+	while (count <= num) {
+		cout << count * count << endl;
+		count++;
+	}
+
+}
+
+//Sample Run
+
+Number: 12
+0
+1
+4
+9
+16
+25
+36
+49
+64
+81
+100
+121
+144
+
+
+//q8
+
+
+#include <iostream>
+using namespace std;
+int main (void) {
+int num,factorial = 1;
+cout << "Number: " ;
+cin >> num ;
+	for (int count = 1; count <= num; count++) {
+		factorial=factorial*count;
+	}
+cout << "factorial is: " << factorial << endl;
+}
+
+//Sample Run
+
+
+Number: 5
+factorial is: 120
+
+//q9
+
+
+
+#include <iostream>
+#include <string>
+using namespace std;
+int main (void) {
+string letter,a,e,i,o,u;
+a="a";
+e="e";
+i="i";
+o="o";
+u="u";
+cout << "Letter: ";
+cin >> letter;
+if (letter == a or letter == e or letter == i or letter == o or letter == u) {
+	cout << letter << " is a vowel" << endl;
+	return 0;
+} else {
+	cout << letter << " is not a vowel" << endl;
+	return 0;
+}
+}
+
+//Sample Run
+
+Letter: d
+d is not a vowel
+
+
+Letter: o
+o is a vowel
+

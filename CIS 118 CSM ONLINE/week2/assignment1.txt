@@ -1,0 +1,47 @@
+1) What is the percentage of usage for each of the top 6 Operation systems ?
+	Windows 7 58.39%
+	Windows XP 15.93%
+	Windows 8.1 11.16%
+	Mac OS X 10.10 4.23%
+	Windows 8 3.50%
+	Windows Vista 1.95%
+2) Which OS will you use for this class ?
+	Linux
+3) What is a Hierarchical Directory Structure ?
+	Data is stored in a tree of folders.
+Which is the name and year of the Operating System first to use a ‘Hierarchical’ Directory Structure ?
+	Bell Labrotories Multics introducted the idea at the 1965 Fall Joint Computer Conference.
+
+4) What is the Name of the BIOS in your computer ?
+	Apple EFI Bootloader
+What utility did you run on your computer to get info about your computers BIOS
+	Wikipedia
+
+5) Which line command clears the screen in the:
+a. DOS CLI
+	cls
+b. Linux CLI
+	clear / control+l
+c. Mac CLI
+	clear / control+l
+6) What does it mean to be a 64 bit Operating System ?
+	Memory can be addressed in a 64 bit range, allowing use of more RAM.
+7) Do you have 32 or 64 bit CPU ?
+	64 bit
+What is the exact brand/model of your CPU ?
+	Intel Core2 Duo P7550
+8) Do you use a 32 or 64 bit OS ?
+	64-bit
+How did you discover this ?
+	$ file /bin/bash
+	/bin/bash: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked (uses shared libs), for GNU/Linux 2.6.32, BuildID[sha1]=76f84d606b53a358a1d9bffe3a383075d1b5d7ca, stripped 
+9) How many Operating Systems are listed in the website:
+http://en.wikipedia.org/wiki/Comparison_of_operating_systems
+	30
+10) Why does understanding how an OS works help you as a programmer ?
+Look at what the different OS managers do to answer this question correctly.
+	Without knowing how the underlying operating system functions it becomes more difficult to write simple and effiecient code, use operating system features and interact with data.
+
+11) What was the first computer OS ever used ?
+Lyons Electronic Office in 1951
+

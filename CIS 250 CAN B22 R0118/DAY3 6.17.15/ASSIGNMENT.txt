@@ -1,0 +1,173 @@
+//John Ballard 6.20.15
+
+//Problem 2.18
+
+#include <iostream>
+using namespace std;
+int main (void) {
+    int val1,val2;
+    cout << "Input 2 numbers: ";
+    cin >> val1;
+    cout << endl;
+    cin >> val2;
+    cout << endl;
+    if (val1 > val2) {
+        cout << val1 << " Is greater than " << val2 <<  endl;
+    }
+    if (val1 < val2) {
+        cout << val2 << " Is greater than " << val1 <<  endl;
+    }
+    else {
+        cout << val1 << " Is equal to " << val2 << endl;
+    }
+}
+
+
+//Sample Run
+
+Input 2 numbers: 5
+
+7
+
+7 Is greater than 5
+
+
+//Problem 2.19
+
+#include <iostream>
+using namespace std;
+int main (void) {
+int val1, val2, val3, small, large;
+cout << "Please input 3 values: ";
+cin >> val1;
+cout << " ";
+cin >> val2;
+cout << " " ;
+cin >> val3;
+cout << " " << endl;
+
+if (val1 > val2 and val1 > val3) {
+    large = val1;
+}
+
+if (val2 > val1 and val2 > val3) {
+    large = val2;
+}
+
+if (val3 > val2 and val3 > val1) {
+    large = val3;
+}
+
+
+if (val1 < val2 and val1 < val3) {
+    small = val1;
+}
+
+
+if (val2 < val1 and val2 < val3) {
+    large = val2;
+}
+
+if (val3 < val2 and val3 < val1) {
+    small = val3;
+}
+
+cout << "Sum: " << val1 + val2 + val3 << endl;
+cout << "Average: " << (val1 + val2 + val3) / 3 << endl;
+cout << "Product: " << val1 * val2 * val3 << endl;
+cout << "Smallest: " << small << endl;
+cout << "Largest: " << large << endl;
+
+}
+
+
+//Sample Run
+
+Please input 3 values: 6
+ 4
+ 9
+ 
+Sum: 19
+Average: 6
+Product: 216
+Smallest: 4197472
+Largest: 4
+
+
+//Problem 2.20
+
+#include <iostream>
+using namespace std;
+int main (void) {
+float radius, dia, cir, area;
+cout << "Radius: ";
+cin >> radius;
+cout << "Circumference: " << 2 * 3.14159 * radius << endl;
+cout << "Diameter: " << radius * 2 << endl;
+cout << "Area: " << 3.14159 * (radius * radius ) << endl;
+return 0;
+}
+
+//Sample Run
+
+Radius: 5
+Circumference: 31.4159
+Diameter: 10
+Area: 78.5397
+
+//Problem 2.21
+
+#include <iostream>
+using namespace std;
+int main (void) {
+cout << "box:" << endl;
+cout << "*****" << endl;
+cout << "*****" << endl;
+cout << "*****" << endl;
+cout << "*****" << endl << endl;
+cout << "oval:" << endl;
+cout << " *** " << endl;
+cout << "** **" << endl;
+cout << "** **" << endl;
+cout << " *** " << endl;
+cout << "arrow:" << endl;
+cout << "  *  " << endl;
+cout << " *** " << endl;
+cout << "* * *" << endl;
+cout << "  *  " << endl;
+cout << "  *  " << endl;
+cout << "diamond:" << endl;
+cout << "  *  " << endl;
+cout << " * * " << endl;
+cout << "*   *" << endl;
+cout << " * * " << endl;
+cout << "  *  " << endl;
+}
+
+
+//Sample Run
+
+box:
+*****
+*****
+*****
+*****
+
+oval:
+ *** 
+** **
+** **
+ *** 
+arrow:
+  *  
+ *** 
+* * *
+  *  
+  *  
+diamond:
+  *  
+ * * 
+*   *
+ * * 
+  *  
+

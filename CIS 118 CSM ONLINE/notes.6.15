@@ -1,0 +1,159 @@
+CIS 118 Online Course
+https://smccd.mrooms.net/course/view.php?id=18075
+Professor: Bill Schwarz, PHD.
+DUE DATES: LECTURES/QUIZES/DISCUSSIONS 1, 2, 3 BY: SUNDAY 6/21 11:30 PM PST
+
+"This is an introductory course. We cover Coding, Hardware, Operating Systems and Procedural Programming in C++."
+"There are lecture notes, code examples and videos links referenced for each week."
+
+Lecture 1: 6/15/2015 - CAN Library
+
+Focused on mastering Concepts in Computer Science
+
+First lession: The Crow
+
+Crows suck and their memory sucks. They can only remember 3 people in an arbitrary, non scientific test.
+
+Assignment 1:
+
+* How many blocks can I visualize in my minds eye at once? About 4. Wow, i'm a crow. How objective.
+
+Lecture continues to conjecture about metaphorical phychological pedantry, to explain programming is the same as learning new languages or concepts... how novel.
+
+Professor defines some phrases and concepts, such as the word concept. 
+
+Conceptual Hirearchy:
+
+A tree of properties, with each node below the last.
+
+Assignment 2:
+
+* 1) The first level, or lowest level concept is a physical observable thing. 
+	(A) In the chart it is a table. 
+	(B) The highest level concept in the chart is Existent, if I can read it right.
+* 2) Draw a conceptual hierarchy of my choosing:
+1st	Cell Phone+ Tablet/Computer/Smartwatch
+2nd	          +->Electronic Device+
+3rd		                      +->Machine+
+4th					        +-> Complex Tool
+
+TODO: Reread lesson, create formal assignment submission
+
+ASSIGNMENT 1 TEXT:
+************************************************************************************
+* Read Lecture 1 - Answer Questions found in Lecture 1.
+* Format:  MS Word File, use file name Lecture1AnswersYourNameDate
+* Format:  Write full question, write full answer.
+* ===================
+* Lecture 1 - The Crow - Teach me how to think
+* Lecture: Download the lecture for this module, read and study it.
+* Assignments: There are two assignments for this module found in the Crow Lecture Notes.
+* Assignment 1 - Your Crow
+* Assignment 2 - Conceptual Hierarchy
+* Be sure to submit the completed assignment before or by the Sunday 11:30PM due date. (graded)
+* Quiz: Take the quiz for this module, between the dates specified (graded)
+* Online Discussions - The Crow: Participate in the online discussions, between the specified dates. (graded) by Sunday Evening.
+
+**BREAK OCCURS HERE**
+
+Digits come from india
+
+They kick ass, and fuck shit up heavyhardcore compared to numerals. Digits use a single character to symbolize multiple items, a solution to the crow problem.
+
+|||||||||  |||||||| |||||||
+   9	      8		7
+
+ETC ->->->
+
+* Babylon used base60
+* Mayans used base20
+* hex base16
+* decimal base10
+* octal base8
+* binary base2
+
+--> POISTIONAL NOTATION:
+
+base10:
+----	---	--	-
+1000s	100s	10s	1s
+
+binary:
+----	---	--	-
+8s	4s	2s	1s
+
+1011 in binary
+
+*		*	*
+8		2	1	= base10: 11
+
+
+
+morse code looks a lot like base 5? bizzare
+ 
+* 0 	− − − − −		
+* 1 	• − − − −		
+* 2 	• • − − −		
+* 3 	• • • − −		
+* 4 	• • • • −		
+* 5 	• • • • • 	
+* 6 	− • • • • 	
+* 7 	− − • • • 	
+* 8 	− − − • • 	
+* 9 	− − − − • 	
+
+Ascii table:
+DEC 	OCT 	HEX 	BIN 		Symbol 	HTML Number 
+48	060	30	00110000	0	&#48;	 	Zero
+49	061	31	00110001	1	&#49;	 	One
+50	062	32	00110010	2	&#50;	 	Two
+51	063	33	00110011	3	&#51;	 	Three
+52	064	34	00110100	4	&#52;	 	Four
+53	065	35	00110101	5	&#53;	 	Five
+54	066	36	00110110	6	&#54;	 	Six
+55	067	37	00110111	7	&#55;	 	Seven
+56	070	38	00111000	8	&#56;	 	Eight
+57	071	39	00111001	9	&#57;	 	Nine
+
+
+ASSIGNMENT:
+
+> Explain how the base 8, Octal numbering systems work.
+	Octal is a number system that uses a positional notation based on 8. The symbol set includes the characters 01234567, with 8 being represented as one and then zero, meaning an increment of the position. 
+	For example, the number 123 in octal is represented 173. Broken down by place:
+base10:
+---	--	-
+1	2	3 =	100 + 20 + 3 = 123 
+
+base8:
+---	--	-
+1	7	3 =	100(64 in base10) + 70(56 in base10) + 3(also 3 in base10) = 	173(base8) 123(base10)
+
+> Convert Octal 7777 to binary, decimal and Hexadecimal.
+
+	-----------	----------	---------	--------	-------	------	-----	----	---	--	-
+bin	1		1		1		1		1	1	1	1	1	1	1 
+oct												7	7	7	7
+dec												4	0	9	5
+hex													f	f	f
+	
+
+4095 decimal
+111111111111 binary
+FFF hex
+
+> What really are the 1’s and 0’s of digital devices ?
+Transistors representing on and off states
+
+> What is the history of the base 60 number system ?
+Base60 was used by the ancient Babylonians 
+
+> How do you use the base 60 number system today ?
+To represent time, minutes in an hour.
+
+> Who used the binary number system first ?
+A french man named Gottfried Leibniz published the first known use of binary in 1679
+
+> Why are digital electronic designs used more commonly then analog electronic designs ?
+It is much quicker and easier to design, prototype and produce models digitally than to rely on analog design, especially when the costs to manufacture are so low these days.
+

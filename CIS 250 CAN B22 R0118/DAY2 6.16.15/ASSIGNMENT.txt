@@ -1,0 +1,94 @@
+//John Ballard 6.20.15
+
+//Problem 1
+
+#include <iostream>
+using namespace std;
+int main (void) {
+float weight, ton, boxes;
+ton = 3527392.0;
+cout << "Input the weight: ";
+cin >> weight;
+cout << endl;
+cout << "Weight of box in tonnes: " << weight / ton << endl;
+cout << "Number of boxes to make a tonne: " << ton / weight << endl;
+return 0;
+}
+
+
+//Sample Run:
+
+Input the weight: 345
+
+Weight of box in tonnes: 9.7806e-05
+Number of boxes to make a tonne: 10224.3
+
+
+//Problem 2
+
+#include <iostream>
+using namespace std;
+
+int main (void) {
+float salary, sal2, retropay, newsal, newmsal;
+cout << "Salary: ";
+cin >> salary;
+cout << endl;
+sal2 = salary /2.0;
+retropay = sal2 * 0.076;
+newsal = salary * 1.076;
+newmsal = newsal / 12;
+cout << "Retropay: " << retropay << endl;
+cout << "New Salary: " << newsal << endl;
+cout << "New Monthly: " << newmsal << endl;
+return 0;
+}
+
+
+//Sample Run
+
+Salary: 243
+
+Retropay: 9.234
+New Salary: 261.468
+New Monthly: 21.789
+
+
+//Problem 3
+
+#include <iostream>
+using namespace std;
+int main ()
+{
+int coupons, candy, gumballs, candyamount, gumballamount;
+candy = 10;
+gumballs = 3;
+candyamount = 0;
+gumballamount = 0;
+cout << "Please input your tokens! ";
+cin >> coupons;
+cout << endl;
+while (coupons >= candy) {
+    coupons = coupons - candy;
+    candyamount++;
+}
+while (coupons >= gumballs) {
+    coupons = coupons - gumballs;
+    gumballamount++;
+}
+cout << "Amount of candies: " << candyamount << endl;
+cout << "Amount of gumballs: " << gumballamount << endl;
+cout << "Amount of Coupons Remaining: " << coupons << endl;
+return 0;
+
+
+//Sample Run
+
+Please input your tokens! 123
+
+Amount of candies: 12
+Amount of gumballs: 1
+Amount of Coupons Remaining: 0
+
+
+

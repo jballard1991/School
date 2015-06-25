@@ -1,0 +1,121 @@
+﻿// Week7InclassA.cpp : Defines the entry point for the console application.
+//
+
+#include "stdafx.h"
+#include <string>
+#include <iostream>
+using namespace std;
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+
+	// statement - syntax, symbols, keywords
+
+	// declaration statement -  allocate some RAM.
+	//  Left       Right
+	//  DataType   VariableName
+	//  #bytes     Alias of address
+
+	 int x;
+	 char c;
+	 string s;
+	 float f;
+	 double d;
+	 bool b;
+
+         // Use sizeof function to query the OS for the #of bytes each datatype uses..
+	 cout <<  sizeof(int) << endl;
+	 cout <<  sizeof(char) << endl;
+	 cout <<  sizeof(string) << endl;
+	 cout <<  sizeof(float) << endl;
+	 cout <<  sizeof(double) << endl;
+	 cout <<  sizeof(bool) << endl;
+
+	 // Assignment syntax
+         //                  left  =  Right;
+	 //                Bucket  = Content to put in bucket
+	 //                VarName = Expression; 
+
+	 x = 42;
+	 c = 'A';
+	 s = "Ulysses";
+	 f = 3.14;
+	 d = 2.71;
+	 b = 0;
+	       
+	 // Assignment - User input...
+	 // Three parts - User Friendly input.
+	 //1st) Declare variable
+	 //2nd) Message
+	 //3rd) input response
+
+// statement definition - syntax, symbols, keywords
+
+	// declaration statement -  allocate some RAM.
+	//  Left       Right
+	//  DataType   VariableName
+	//  #bytes     Alias of address
+
+	 int x;
+	 char c;
+	 string s;
+	 float f;
+	 double d;
+	 bool b;
+
+	 //cout <<  sizeof(int) << endl;
+	 //cout <<  sizeof(char) << endl;
+	 //cout <<  sizeof(string) << endl;
+	 //cout <<  sizeof(float) << endl;
+	 //cout <<  sizeof(double) << endl;
+	 //cout <<  sizeof(bool) << endl;
+
+	 // Assignment  :     left  =  Right;
+	 //                Bucket  = Content to put in bucket
+	 //                VarName = Expression; 
+
+	 x = 42;
+	 c = 'A';
+	 s = "Ulysses Grant";
+	 f = 3.14;
+	 d = 2.71;
+	 b = 0;
+	       
+	 // Assignment - User input...
+	 // Three parts - User Friendly input.
+	 //1st) Declare variable
+	 //2nd) Message
+	 //3rd) input response
+
+	 cout << "Enter an integer: ";
+	 cin >> x;
+	 cout << x << endl;
+	 
+	 cout << "Enter a char: ";
+	 cin >> c;
+	 cout << c << endl;
+	
+	 cout << "Enter a sentence " ; // SPECIAL way to get STRING INPUT - save this
+	 cin.ignore(1000,'\n');    // pause and wait for input... continue when return pressed
+	 getline(cin, s);          // read all words and blank spaces between words
+	 cout << s << endl;        // print out value of variable s, to verify input
+
+	 cout << "Enter an float: ";
+	 cin >> f;
+         cout << f << endl; 
+
+	 cout << "Enter a decimal: ";
+	 cin >> d;
+	 cout << d << endl;
+
+	 cout << "Enter a bool value: ";
+	 cin >> b;
+	 cout << b << endl;
+
+	 system("pause");
+
+	 system("pause");
+
+	 return 0;
+}
+

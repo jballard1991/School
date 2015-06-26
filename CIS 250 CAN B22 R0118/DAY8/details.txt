@@ -1,0 +1,9 @@
+1) Create the class member function definitions in main.cpp, for class TV. Complete the components and compile and run the program with the client code provided in main.cpp.
+
+2) Change the class public member functions, to private member functions, and try to compile and run your program. Do you see any errors?
+
+3) Add the appropriate mutators and accessors for the private member variables, and change the client code to call these member functions to set/get the values, and recompile and run your code.
+
+4) When and why do you think it is a good idea to use private member variables vs. public member variables.
+
+5) Upload your completed function to assignment #6.

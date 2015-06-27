@@ -1,0 +1,365 @@
+//John Ballard Assignment 4
+
+//2.28
+
+
+#include <string>
+#include <sstream>
+#include <iostream>
+using namespace std;
+int main (void) {
+int a = 0;
+int count = 0;
+string b;
+ostringstream convert;
+cout << "Number: ";
+cin >> a;
+convert << a;
+b = convert.str();
+for (int i = b.length(); i > 0; i--) {
+	cout << b[count] << "   " ;
+	count++;
+}
+cout << endl;
+
+}
+
+
+//Sample Run
+
+Number: 13234
+1   3   2   3   4   
+
+
+//2.29
+
+
+#include <iostream>
+using namespace std;
+int main (void) {
+for (int count = 1; count <= 10; count++) {
+cout << count << "\t" << count * count << "\t" << count * count * count << endl;
+}
+return 0;
+}
+
+//Sample Run
+
+1	1	1
+2	4	8
+3	9	27
+4	16	64
+5	25	125
+6	36	216
+7	49	343
+8	64	512
+9	81	729
+10	100	1000
+
+
+//3.11.h
+
+
+
+// Fig. 3.11: GradeBook.h
+// GradeBook class definition. This file presents GradeBook's public
+// interface without revealing the implementations of GradeBook's member
+// functions, which are defined in GradeBook.cpp.
+#include <string> // class GradeBook uses C++ standard string class
+using namespace std;
+// GradeBook class definition
+class GradeBook
+{
+public:
+GradeBook( string ); // constructor that initializes courseName
+
+void setCourseName( string ); // function that sets the course name
+string getCourseName(); // function that gets the course name
+
+void setInstructorName( string );
+string getInstructorName();
+
+void displayMessage(); // function that displays a welcome message
+
+private:
+string courseName; // course name for this GradeBook
+string instructorName;
+}; // end class GradeBook
+
+
+
+//3.11.cpp
+
+
+// Fig. 3.12: GradeBook.cpp
+// GradeBook member-function definitions. This file contains
+// implementations of the member functions prototyped in GradeBook.h.
+#include <iostream>
+#include <string>
+#include "gradebook.h" // include definition of class GradeBook
+using namespace std;
+// constructor initializes courseName with string supplied as argument
+GradeBook::GradeBook( string name )
+{
+setCourseName( name ); // call set function to initialize courseName
+setInstructorName( name );
+} // end GradeBook constructor
+
+// function to set the course name
+void GradeBook::setCourseName( string name ) {
+courseName = name; // store the course name in the object
+} // end function setCourseName
+// function to get the course name
+string GradeBook::getCourseName() {
+return courseName; // return object's courseName
+} // end function getCourseName
+
+void GradeBook::setInstructorName( string name ) {
+instructorName = name;
+}
+string GradeBook::getInstructorName() {
+return instructorName;
+}
+
+// display a welcome message to the GradeBook user
+void GradeBook::displayMessage()
+{
+// call getCourseName to get the courseName
+cout << "Welcome to the grade book for " << getCourseName() << "!" << endl;
+
+cout << "This course is presented by: " <<  getInstructorName() << "!" << endl;
+
+} // end function displayMessage
+
+int main (void) {
+//GradeBook.setCourseName();
+GradeBook gb("test");
+string cname,iname;
+cout << "Course name: ";
+cin >> cname;
+cout << "Instructor name: ";
+cin >> iname;
+gb.setCourseName(cname);
+gb.setInstructorName(iname);
+gb.displayMessage();
+return 0;
+}
+
+
+//Sample Run
+
+Course name: algebra
+Instructor name: smith
+Welcome to the grade book for algebra!
+This course is presented by: smith!
+
+
+//3.12.h
+
+
+#include <string>
+using namespace std;
+class Account {
+public:
+	Account( string , int ); //constructor
+	int getAccountBalance();
+	void setAccountBalance( int );
+	void displayInfo();	
+	void creditBalance(int);
+	void debitBalance(int);
+private:
+	int balance;
+	int credit;
+	int debit;
+	string name;
+};
+
+
+//3.12.cpp
+
+
+#include <iostream>
+#include "account.h" 
+using namespace std;
+Account::Account( string name , int bal ) {
+	setAccountBalance( balance );
+}
+void Account::setAccountBalance( int bal ) {
+	balance = bal;
+}
+int Account::getAccountBalance() {
+	return balance; 
+}
+void Account::creditBalance( int credit ) {
+	balance = balance + credit;	
+}
+void Account::debitBalance( int debit ) {
+	balance = balance - debit;
+}
+ 
+void Account::displayInfo(){
+	cout << "The Account Balance Is: " << getAccountBalance() << endl;
+}
+
+int main (void) {
+Account ac("test", 0);
+int bal,cred,deb;
+cout << "Bal: ";
+cin >> bal;
+if (bal < 0) {
+	cout << "Less than zero... " << endl;
+	return 1;
+}
+ac.setAccountBalance(bal);
+cout << "Credit: ";
+cin >> cred;
+ac.creditBalance(cred);
+cout << "Debit: ";
+cin >> deb;
+ac.debitBalance(deb);
+ac.displayInfo();
+
+cout << "Account 2" << endl;
+
+Account acb("testb", 0);
+cout << "Bal: ";
+cin >> bal;
+if (bal < 0) {
+        cout << "Less than zero... " << endl;
+        return 1;
+}
+acb.setAccountBalance(bal);
+cout << "Credit: ";
+cin >> cred;
+acb.creditBalance(cred);
+cout << "Debit: ";
+cin >> deb;
+acb.debitBalance(deb);
+acb.displayInfo();
+
+
+return 0;
+}
+
+
+
+//Sample Run
+
+Bal: 123
+Credit: 12 
+Debit: 23 
+The Account Balance Is: 112
+Account 2
+Bal: 345
+Credit: 34
+Debit: 65
+The Account Balance Is: 314
+
+
+
+//3.13.h
+
+
+#include <string>
+using namespace std;
+class invoice {
+public:
+	invoice( string part, string desc, int quantity, int price); //constructor
+	string getPartNumber();
+	string getDesc();
+	int getQuantity();
+	int getPrice();
+	void setPartNumber(string part);
+	void setDesc(string desc);
+	void setQuantity(int quantity);
+	void setPrice(int price);
+	int getInvoiceAmount();
+private:
+	int price,quantity;
+	string part,desc;
+};
+
+
+
+//3.13.cpp
+
+
+#include <iostream>
+#include <string>
+#include "invoice.h"
+using namespace std;
+
+invoice::invoice(string pa, string de, int qu, int pr) {
+	setPartNumber(pa);
+        setDesc(de);
+        setQuantity(qu);
+        setPrice(pr);
+} 
+void invoice::setPartNumber(string pa) {
+	part = pa;
+}
+
+void invoice::setDesc(string de) {
+        desc = de;
+}
+void invoice::setQuantity(int qu) {
+        quantity = qu;
+}
+void invoice::setPrice(int pr) {
+        price = pr;
+}
+
+string invoice::getPartNumber() {
+	return part;
+}
+
+int invoice::getPrice() {
+        return price;
+}
+
+string invoice::getDesc() {
+        return desc;
+}
+
+int invoice::getQuantity() {
+        return quantity;
+}
+
+int invoice::getInvoiceAmount() {
+	return  price * quantity;
+}
+
+int main (void) {
+int pr,qu;
+string de,pa;
+pr = 0;
+qu = 0;
+cout << "Part Number: ";
+cin >> pa;
+cout << "Quantity: ";
+cin >> qu;
+cout << "Description: ";
+cin >> de;
+cout << "Price: ";
+cin >> pr;
+
+invoice in("","",1,1);
+in.setPrice(pr);
+in.setQuantity(qu);
+in.setDesc(de);
+in.setPartNumber(pa);
+
+
+cout << "Invoice: " << in.getQuantity() << " of " << in.getPartNumber() << " at " << in.getPrice() << " will be " << in.getInvoiceAmount() << endl;
+
+return 0;
+}
+
+//Sample Run
+
+Part Number: 23
+Quantity: 7
+Description: no
+Price: 32
+Invoice: 7 of 23 at 32 will be 224
+

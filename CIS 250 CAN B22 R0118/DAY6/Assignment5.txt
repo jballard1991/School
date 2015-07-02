@@ -1,0 +1,169 @@
+//John Ballard
+
+//4.25
+
+
+#include <iostream>
+using namespace std;
+int main (void) {
+int size;
+cout << "Size: ";
+cin >> size;
+if (size < 3){
+cout << "Too small for grid..." << endl;
+return 1;
+}
+for (int c= size; c>0; c--) {
+	cout << "*";
+}
+cout << endl; 
+	for (int b= size-2; b>0; b--) {
+		cout << "*";
+		for (int c= size-2; c>0; c--) {
+		        cout << " ";
+		}
+	cout << "*" << endl;
+}
+for (int c= size; c>0; c--) {
+        cout << "*";
+}
+cout << endl;
+
+return 0;
+}
+
+//Sample Run
+
+Size: 12
+************
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+************
+
+
+//4.26
+
+
+#include <string>
+#include <sstream>
+#include <iostream>
+using namespace std;
+int main (void) {
+int a = 0;
+int count = 0;
+string b;
+ostringstream convert;
+cout << "Number: ";
+cin >> a;
+convert << a;
+b = convert.str();
+int l = b.length();
+l--;
+//cout << "~~ " << l << endl;
+for (int i = b.length(); i > 0; i--) {
+        //cout <<" bcount: " << b[count] <<" blength: "<<l <<" which is "<<b[l]<<endl;
+	if (b[count] == b[l]) {
+	//cout << b[count] << " and " << b[l] << " match" << endl;
+	} else { 
+		cout << "No Match! " << endl;
+		return 1;
+	}       
+
+count++;
+l--;
+	 
+}
+cout << a<<" is a palindrome! " << endl;
+
+}
+
+
+//Sample Run
+
+Number: 12234
+No Match! 
+
+Number: 111131111
+111131111 is a palindrome! 
+
+
+//q3.h
+
+
+using namespace std;
+class money {
+public:
+	int d,c;
+	money(int,int);
+	void setDols(int);
+	void setCents(int);
+	int getDols();
+	int getCents();
+	float getValue();
+	
+private:
+	int dols,cent;
+};
+
+
+//q3.cpp
+
+
+#include <iostream>
+#include "q3.h"
+using namespace std;
+money::money(int d,int c) {
+	dols = d;
+	cent = c;	
+}
+
+void money:: setDols(int d) {
+	dols = d;
+}
+
+void money::setCents(int c) {
+	cent = c;
+}
+
+int money::getDols() {
+	return dols;
+}
+
+int money::getCents() {
+        return cent;
+}
+
+float money::getValue() {
+float i = dols+cent/100.0;
+return i;
+}
+
+int main (void) {
+int d,c;
+money test(0,0);
+cin >> d;
+cin >> c;
+test.setDols(d);
+test.setCents(c);
+
+cout << test.getValue();
+
+cout << endl ;
+
+}
+
+
+//Sample Run
+
+1234
+95
+1234.95
+

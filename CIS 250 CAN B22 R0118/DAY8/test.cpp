@@ -36,23 +36,58 @@ void TV::manipulateTv(int modch,int tvnum)  {
 	case 7:
 		display();
 		break;
+	case 8:
+		setVolume();
+		break;
+	case 9:
+		setChannel();
+		break;
 	}
 }
 
+void TV::setVolume() {
+	cout << "Set Volume: ";
+	cin >> setvol;
+	vol = setvol;
+}
+
+void TV::setChannel() {
+	cout << "Set Channel: ";
+	cin >> setch;
+	ch = setch;
+}
+
+
 void TV::channelUp()  {
-	ch = ch++;
+	if (ch +1 <= 0) {
+	cout <<"LIMIT REACHED. \n";
+	} else {
+	ch++; 
+	}
 }
 
 void TV::channelDown()  {
-	ch = ch--;
+	if (ch==0) {
+	cout <<"Already at 0. \n";
+	} else {
+	ch--;
+	}
 }
 
 void TV::volumeUp()  {
-	vol = vol++;
+	if (vol+1 <= 0) {
+	cout <<"LIMIT REACHED. \n";
+	} else {
+	vol++;
+	}
 }
 
 void TV::volumeDown()  {
-	vol = vol--;
+	if (vol==0) {
+	cout <<"Already at 0. \n";
+	} else {
+	vol--;
+	}
 }
 
 void TV::turnOn()  {
@@ -95,7 +130,7 @@ if (cmd == "chup") {
 else if (cmd == "chdown") {
 	tv.manipulateTv(2,0);
 } 
-else if (cmd == "voldown") {
+else if (cmd == "volup") {
         tv.manipulateTv(3,0);
 }
 else if (cmd == "voldown") {
@@ -109,8 +144,14 @@ else if (cmd == "on") {
 }
 else if (cmd == "display") {
         tv.manipulateTv(7,0);
+}
+else if (cmd == "setvol") {
+        tv.manipulateTv(8,0);
+}
+else if (cmd == "setch") {
+        tv.manipulateTv(9,0);
 } else { 
-cout << "try: chup chdown volup voldown on off display " << endl;
+cout << "try: setvol setch chup chdown volup voldown on off display " << endl;
 }
 
 

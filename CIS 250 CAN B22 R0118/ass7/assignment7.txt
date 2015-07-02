@@ -1,0 +1,21 @@
+//John Ballard
+
+//q1
+
+10 20 30
+1 2 3
+1   20   3
+
+
+// 2. Write a void function definition for a function called zeroBoth that has two call-by-reference parameters, both of which are variables of type int, and sets the values of both variables to 0.
+
+void zeroBoth(int &a,int &b) {
+	a = 0;
+	b = 0;
+}
+
+//q3 3. Write a void function definition for a function called addTax. The function addTax has two formal parameters: taxRate, which his the amount of sales tax expressed as a percentage; and cost, which is the cost of an item before tax. The function changes the value of cost so that it includes sales tax.
+
+void addTax(float taxRate, float cost) {
+	cost = cost + (cost * taxRate);
+}

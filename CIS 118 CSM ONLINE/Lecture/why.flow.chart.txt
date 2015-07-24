@@ -1,0 +1,41 @@
+Why do Flow Charting ? Read me..
+
+Hello Class
+
+In programming, your 'GOAL' is to produce programs that work.
+
+To accomplish that goal, there are methods and tools that 'increase' the likelihood that you will write programs that work.
+
+Flow charting is a method which:
+
+FORCES YOU TO STOP AND SMELL THE ROSES. In other words, to seriously look at the logic and flow of your program.
+
+Why look at the program in detail ? It is to increase your  success rate in writing programs that work.
+
+As a programmer, you will do what it takes to insure that you produce a quality 'working' product. Flow charting is a method to 'achieve' that goal.
+
+When you work in private Industry, you will find that over HALF of software projects FAIL... Yes, you read that right... HALF.
+
+Why, do they fail... there are many reasons.
+
+1) Lack of money
+
+2) Competition
+
+3) Lack of skill by workers.. Who do not doing EVERYTHING they can to insure that the product they produce is:
+
+CORRECT and COMPLETE.
+
+The choice is yours. 
+
+Increase the likelihood of success and use flowcharting.
+
+or Decrease the likelihood of success and choose not to use flowcharting.
+
+ 
+
+Simply put, you DO flowcharting or some type of charting to INCREASE the likelihood of success.
+
+Most Sincerely,
+
+Professor Schwarz 

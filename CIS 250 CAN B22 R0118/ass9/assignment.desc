@@ -1,0 +1,27 @@
+1) Write a program that prints a factorial of a given number N. Use a recursive function to do the calculation.
+
+Factorial of a number can be calculated from this equation:
+
+N! = (N)(N-1)…. (3)(2)(1)
+
+Example: For N=5
+
+N! = 5! = (5)(4)(3)(2)(1) = 120
+
+2) Write a program that calculates the sum of squares from 1 to N, where N is read from the input
+
+Sum of Squares = 12 + 22 + 32 + … + N2
+
+Note:Use recursion 
+
+3) Use a Recursive function to print the Fibonacci series for a given index in the sequence. (Read the index from the input. Note that the Fibonacci series  can be calculated by fib(N) = fib(N-1) + fib(N-2)  for N >2 where N=0, 1, 2, 3, 4, ...
+
+Hint: The Fibonacci Sequence is the series of numbers: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34,
+
+4) Switch Statement Example: This is an old assignment, use switch statement to re-do this.
+
+Write and run a program that reads a character and then prints: “It is a vowel” if it is a vowel,
+
+“It is an operator” if it is one of the five arithmetic operators, and “It is something else” if it is anything else. Use a switch statement.
+
+The program should prompt the user to enter a character and every time the character is read and analyzed and the output is printed out, it should repeat the same prompt line to “Enter a character to see whether it is a vowel or an operator … “

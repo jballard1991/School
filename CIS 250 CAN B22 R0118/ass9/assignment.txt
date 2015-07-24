@@ -1,0 +1,130 @@
+//john ballard
+
+
+==> q1.cpp <==
+#include <iostream>
+using namespace std;
+int main (void) {
+int num,count,fac = 0;
+cout << "Please input number: ";
+cin >> num;
+cout << "Factoral of " << num << " is: ";
+fac = 1;
+for (int count = 1;count <= num;count++) {
+	fac = count * fac;
+}
+cout << fac << endl;
+return 0;
+} 
+
+//sample run
+
+Please input number: 5
+Factoral of 5 is: 120
+
+
+
+==> q2.cpp <==
+#include <iostream>
+using namespace std;
+int main (void) {
+int num,tot = 0;
+cout << "Number: ";
+cin >> num;
+for (int count = 1; count <= num; count++) {
+	cout << "Square of " << count << " is: " << count * count << endl;
+	tot += count * count; 
+}
+cout << "The total is: " << tot << endl;
+return 0;
+}
+
+//sample run
+
+Number: 12
+Square of 1 is: 1
+Square of 2 is: 4
+Square of 3 is: 9
+Square of 4 is: 16
+Square of 5 is: 25
+Square of 6 is: 36
+Square of 7 is: 49
+Square of 8 is: 64
+Square of 9 is: 81
+Square of 10 is: 100
+Square of 11 is: 121
+Square of 12 is: 144
+The total is: 650
+
+
+
+==> q3.cpp <==
+#include <iostream>
+using namespace std;
+
+int fib(int n) {
+return n=n-1+n-2;
+}
+
+int main (void) {
+int index = 0;
+cout << "Print to index: ";
+cin >> index;
+index++;
+for (int count = 2; count <= index; count++) {
+	cout << fib(count) << endl;
+}
+return 0;
+}
+
+//sample run
+
+Print to index: 5
+1
+3
+5
+7
+9
+
+
+
+==> q4.cpp <==
+#include <iostream>
+using namespace std;
+int main (void) {
+char input = 'a'; 
+bool is = false;
+cout << "Please input character: ";
+cin >> input;
+switch (input) {
+	case 'a':
+		is = true;
+		break;
+	case 'e':
+		is = true;
+		break;
+        case 'i':
+                is = true;
+                break;
+        case 'o':
+                is = true;
+                break;
+        case 'u':
+                is = true;
+                break;
+
+}
+if (is == true) { 
+	cout << "Is a vowel! " << endl;
+} else { 
+	cout << "Not a vowel! " << endl;
+}
+return 0;
+}
+
+//sample run
+
+Please input character: f
+Not a vowel! 
+
+

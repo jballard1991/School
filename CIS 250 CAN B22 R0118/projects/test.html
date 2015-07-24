@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- This file was created with the aha Ansi HTML Adapter. http://ziz.delphigl.com/tool_aha.php -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="application/xml+xhtml; charset=UTF-8" />
+<title>stdin</title>
+</head>
+<body>
+<pre>
+//project3.cpp
+</pre>
+</body>
+</html>
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- This file was created with the aha Ansi HTML Adapter. http://ziz.delphigl.com/tool_aha.php -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="application/xml+xhtml; charset=UTF-8" />
+<title>stdin</title>
+</head>
+<body>
+<pre>
+     <span style="color:blue;">1</span>	<span style="text-decoration:underline;"></span><span style="color:red;text-decoration:underline;font-weight:bold;">#</span>include <span style="color:olive;">&quot;</span><span style="color:olive;">project3.h</span><span style="color:olive;">&quot;</span>
+     <span style="color:blue;">2</span>	<span style="color:blue;">using</span> <span style="color:blue;">namespace</span> std;
+     <span style="color:blue;">3</span>	pizza::pizza(<span style="color:teal;">int</span> size,<span style="color:teal;">int</span> toppings)
+     <span style="color:blue;">4</span>	{
+     <span style="color:blue;">5</span>		t = toppings;
+     <span style="color:blue;">6</span>		s = size;
+     <span style="color:blue;">7</span>	}
+       
+       
+     <span style="color:blue;">8</span>	<span style="color:teal;">int</span> pizza::getSize(<span style="color:teal;">void</span>)
+     <span style="color:blue;">9</span>	{
+    <span style="color:blue;">10</span>		<span style="color:blue;">return</span> size;
+    <span style="color:blue;">11</span>	}
+       
+       
+    <span style="color:blue;">12</span>	<span style="color:teal;">void</span> pizza::setSize(<span style="color:teal;">int</span> size)
+    <span style="color:blue;">13</span>	{
+    <span style="color:blue;">14</span>		<span style="color:blue;">switch</span> (size)
+    <span style="color:blue;">15</span>		{
+    <span style="color:blue;">16</span>			<span style="color:blue;">case</span> <span style="color:blue;">1</span>:
+    <span style="color:blue;">17</span>				s = <span style="color:blue;">10</span>;
+    <span style="color:blue;">18</span>				<span style="color:blue;">break</span>;
+       
+    <span style="color:blue;">19</span>			<span style="color:blue;">case</span> <span style="color:blue;">2</span>:
+    <span style="color:blue;">20</span>				s = <span style="color:blue;">14</span>;
+    <span style="color:blue;">21</span>				<span style="color:blue;">break</span>;
+    <span style="color:blue;">22</span>			<span style="color:blue;">case</span> <span style="color:blue;">3</span>:
+    <span style="color:blue;">23</span>				s = <span style="color:blue;">17</span>;
+    <span style="color:blue;">24</span>				<span style="color:blue;">break</span>;
+    <span style="color:blue;">25</span>		}
+    <span style="color:blue;">26</span>	}
+       
+       
+    <span style="color:blue;">27</span>	<span style="color:teal;">int</span> pizza::getToppings(<span style="color:teal;">void</span>)
+    <span style="color:blue;">28</span>	{
+    <span style="color:blue;">29</span>		<span style="color:blue;">return</span> t;
+    <span style="color:blue;">30</span>	}
+       
+       
+    <span style="color:blue;">31</span>	<span style="color:teal;">void</span> pizza::setToppings(<span style="color:teal;">int</span> toppings)
+    <span style="color:blue;">32</span>	{
+    <span style="color:blue;">33</span>		t = toppings;
+    <span style="color:blue;">34</span>	}
+       
+       
+    <span style="color:blue;">35</span>	<span style="color:teal;">void</span> pizza::computePrice(<span style="color:teal;">void</span>)
+    <span style="color:blue;">36</span>	{
+    <span style="color:blue;">37</span>		p = t*<span style="color:blue;">2</span>+s;
+    <span style="color:blue;">38</span>	}
+       
+       
+    <span style="color:blue;">39</span>	<span style="color:teal;">void</span> pizza::displayOutput(<span style="color:teal;">void</span>)
+    <span style="color:blue;">40</span>	{
+    <span style="color:blue;">41</span>		cout &lt;&lt; <span style="color:olive;">&quot;</span><span style="color:olive;">Price is </span><span style="color:olive;">&quot;</span> &lt;&lt; p &lt;&lt; endl;
+    <span style="color:blue;">42</span>	}
+       
+       
+    <span style="color:blue;">43</span>	<span style="color:teal;">int</span> main (<span style="color:teal;">void</span>)
+    <span style="color:blue;">44</span>	{
+    <span style="color:blue;">45</span>		<span style="color:teal;">int</span> toppings,size;
+    <span style="color:blue;">46</span>		pizza <span style="color:green;">p</span>(<span style="color:blue;">0</span>,<span style="color:blue;">0</span>);
+    <span style="color:blue;">47</span>		cout &lt;&lt;<span style="color:olive;">&quot;</span><span style="color:olive;">Size s/m/lg 1/2/3 :  </span><span style="color:olive;">&quot;</span>;
+    <span style="color:blue;">48</span>		cin &gt;&gt; size;
+    <span style="color:blue;">49</span>		cout &lt;&lt;<span style="color:olive;">&quot;</span><span style="color:olive;">How many toppings?  </span><span style="color:olive;">&quot;</span>;
+    <span style="color:blue;">50</span>		cin &gt;&gt; toppings;
+    <span style="color:blue;">51</span>		p.setSize(size);
+    <span style="color:blue;">52</span>		p.setToppings(toppings);
+    <span style="color:blue;">53</span>		p.computePrice();
+    <span style="color:blue;">54</span>		p.displayOutput();
+       
+    <span style="color:blue;">55</span>		<span style="color:blue;">return</span> <span style="color:blue;">0</span>;
+    <span style="color:blue;">56</span>	}
+</pre>
+</body>
+</html>
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- This file was created with the aha Ansi HTML Adapter. http://ziz.delphigl.com/tool_aha.php -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="application/xml+xhtml; charset=UTF-8" />
+<title>stdin</title>
+</head>
+<body>
+<pre>
+//project3.h
+</pre>
+</body>
+</html>
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- This file was created with the aha Ansi HTML Adapter. http://ziz.delphigl.com/tool_aha.php -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="application/xml+xhtml; charset=UTF-8" />
+<title>stdin</title>
+</head>
+<body>
+<pre>
+     <span style="color:blue;">1</span>	<span style="text-decoration:underline;"></span><span style="color:red;text-decoration:underline;font-weight:bold;">#</span>include <span style="color:olive;">&quot;</span><span style="color:olive;">project3.h</span><span style="color:olive;">&quot;</span>
+     <span style="color:blue;">2</span>	<span style="color:blue;">using</span> <span style="color:blue;">namespace</span> std;
+     <span style="color:blue;">3</span>	pizza::pizza(<span style="color:teal;">int</span> size,<span style="color:teal;">int</span> toppings)
+     <span style="color:blue;">4</span>	{
+     <span style="color:blue;">5</span>		t = toppings;
+     <span style="color:blue;">6</span>		s = size;
+     <span style="color:blue;">7</span>	}
+       
+       
+     <span style="color:blue;">8</span>	<span style="color:teal;">int</span> pizza::getSize(<span style="color:teal;">void</span>)
+     <span style="color:blue;">9</span>	{
+    <span style="color:blue;">10</span>		<span style="color:blue;">return</span> size;
+    <span style="color:blue;">11</span>	}
+       
+       
+    <span style="color:blue;">12</span>	<span style="color:teal;">void</span> pizza::setSize(<span style="color:teal;">int</span> size)
+    <span style="color:blue;">13</span>	{
+    <span style="color:blue;">14</span>		<span style="color:blue;">switch</span> (size)
+    <span style="color:blue;">15</span>		{
+    <span style="color:blue;">16</span>			<span style="color:blue;">case</span> <span style="color:blue;">1</span>:
+    <span style="color:blue;">17</span>				s = <span style="color:blue;">10</span>;
+    <span style="color:blue;">18</span>				<span style="color:blue;">break</span>;
+       
+    <span style="color:blue;">19</span>			<span style="color:blue;">case</span> <span style="color:blue;">2</span>:
+    <span style="color:blue;">20</span>				s = <span style="color:blue;">14</span>;
+    <span style="color:blue;">21</span>				<span style="color:blue;">break</span>;
+    <span style="color:blue;">22</span>			<span style="color:blue;">case</span> <span style="color:blue;">3</span>:
+    <span style="color:blue;">23</span>				s = <span style="color:blue;">17</span>;
+    <span style="color:blue;">24</span>				<span style="color:blue;">break</span>;
+    <span style="color:blue;">25</span>		}
+    <span style="color:blue;">26</span>	}
+       
+       
+    <span style="color:blue;">27</span>	<span style="color:teal;">int</span> pizza::getToppings(<span style="color:teal;">void</span>)
+    <span style="color:blue;">28</span>	{
+    <span style="color:blue;">29</span>		<span style="color:blue;">return</span> t;
+    <span style="color:blue;">30</span>	}
+       
+       
+    <span style="color:blue;">31</span>	<span style="color:teal;">void</span> pizza::setToppings(<span style="color:teal;">int</span> toppings)
+    <span style="color:blue;">32</span>	{
+    <span style="color:blue;">33</span>		t = toppings;
+    <span style="color:blue;">34</span>	}
+       
+       
+    <span style="color:blue;">35</span>	<span style="color:teal;">void</span> pizza::computePrice(<span style="color:teal;">void</span>)
+    <span style="color:blue;">36</span>	{
+    <span style="color:blue;">37</span>		p = t*<span style="color:blue;">2</span>+s;
+    <span style="color:blue;">38</span>	}
+       
+       
+    <span style="color:blue;">39</span>	<span style="color:teal;">void</span> pizza::displayOutput(<span style="color:teal;">void</span>)
+    <span style="color:blue;">40</span>	{
+    <span style="color:blue;">41</span>		cout &lt;&lt; <span style="color:olive;">&quot;</span><span style="color:olive;">Price is </span><span style="color:olive;">&quot;</span> &lt;&lt; p &lt;&lt; endl;
+    <span style="color:blue;">42</span>	}
+       
+       
+    <span style="color:blue;">43</span>	<span style="color:teal;">int</span> main (<span style="color:teal;">void</span>)
+    <span style="color:blue;">44</span>	{
+    <span style="color:blue;">45</span>		<span style="color:teal;">int</span> toppings,size;
+    <span style="color:blue;">46</span>		pizza <span style="color:green;">p</span>(<span style="color:blue;">0</span>,<span style="color:blue;">0</span>);
+    <span style="color:blue;">47</span>		cout &lt;&lt;<span style="color:olive;">&quot;</span><span style="color:olive;">Size s/m/lg 1/2/3 :  </span><span style="color:olive;">&quot;</span>;
+    <span style="color:blue;">48</span>		cin &gt;&gt; size;
+    <span style="color:blue;">49</span>		cout &lt;&lt;<span style="color:olive;">&quot;</span><span style="color:olive;">How many toppings?  </span><span style="color:olive;">&quot;</span>;
+    <span style="color:blue;">50</span>		cin &gt;&gt; toppings;
+    <span style="color:blue;">51</span>		p.setSize(size);
+    <span style="color:blue;">52</span>		p.setToppings(toppings);
+    <span style="color:blue;">53</span>		p.computePrice();
+    <span style="color:blue;">54</span>		p.displayOutput();
+       
+    <span style="color:blue;">55</span>		<span style="color:blue;">return</span> <span style="color:blue;">0</span>;
+    <span style="color:blue;">56</span>	}
+</pre>
+</body>
+</html>

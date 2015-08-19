@@ -1,0 +1,45 @@
+1. In what language is Linux written? How does that affect the success of Linux?
+From: https://github.com/torvalds/linux
+
+   48920 unique files.                                          
+    8873 files ignored.
+
+http://cloc.sourceforge.net v 1.60  T=730.96 s (56.4 files/s, 25868.2 lines/s)
+--------------------------------------------------------------------------------
+Language                      files          blank        comment           code
+--------------------------------------------------------------------------------
+C                             21607        2082933        1950461       10651324
+C/C++ Header                  16727         405099         690332        2568956
+Assembly                       1405          47231          61429         289634
+XML                             176           3468            242          51491
+make                            953           5877           5373          26890
+Perl                             44           4504           3510          23619
+Bourne Shell                    156           1549           2972           8519
+Python                           34           1084           1096           6688
+yacc                              8            639            355           4302
+lex                               8            291            289           1810
+C++                               1            209             57           1532
+Bourne Again Shell               44            289            240           1320
+awk                               8             96             88            746
+NAnt scripts                      2            119              0            438
+HTML                              2             58              0            378
+Pascal                            3             49              0            231
+Lisp                              1             63              0            218
+Objective C++                     1             55              0            189
+ASP.Net                           6              2              0            108
+m4                                1             15              1             95
+XSLT                              6             13             27             70
+vim script                        1              3             12             27
+Teamcenter def                    1              0              2              6
+--------------------------------------------------------------------------------
+SUM:                          41195        2553646        2716486       13638591
+--------------------------------------------------------------------------------
+
+As can be seen, linux is written primarily in C with various Assembly languages being the second most prominent language in the Linux project. Consequently linux is able to easily be ported to various archetectures from alpha all the way to running inside a javascript virtual machine in internet explorer.
+
+2. What is a shell? How does it work with the kernel? With the user?
+
+3. What is the difference between a multiprocessor and a multiprocessing system?
+
+4. If you make a mistake with your username or your password, the system tells you "Incorrect username or password". Why doesn't it specify which one?
+For security reasons to prevent username enumeration during a brute force style authentication attack.

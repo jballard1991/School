@@ -1,0 +1,643 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+<!--This file created 6/23/06 11:44 AM by Claris Home Page version 3.0-->
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="index_files/filelist.xml">
+<link rel=Edit-Time-Data href="index_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Danielson Faculty Page</title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PlaceName"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PlaceType"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="City"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Sandy LaFave</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>danielson</o:LastAuthor>
+  <o:Revision>25</o:Revision>
+  <o:TotalTime>33</o:TotalTime>
+  <o:Created>2006-07-05T00:57:00Z</o:Created>
+  <o:LastSaved>2008-01-21T23:08:00Z</o:LastSaved>
+  <o:Pages>3</o:Pages>
+  <o:Words>587</o:Words>
+  <o:Characters>3352</o:Characters>
+  <o:Company> </o:Company>
+  <o:Lines>27</o:Lines>
+  <o:Paragraphs>7</o:Paragraphs>
+  <o:CharactersWithSpaces>3932</o:CharactersWithSpaces>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#333333;}
+a:link, span.MsoHyperlink
+	{color:#0066FF;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#000099;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#333333;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:227231158;
+	mso-list-template-ids:1020443372;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:543760337;
+	mso-list-template-ids:210789912;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2
+	{mso-list-id:613827870;
+	mso-list-template-ids:-938966106;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3
+	{mso-list-id:626006539;
+	mso-list-template-ids:1976097192;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4
+	{mso-list-id:820657875;
+	mso-list-template-ids:-1163902332;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5
+	{mso-list-id:1997302624;
+	mso-list-template-ids:1028923128;}
+@list l5:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+.style6 {color: white}
+.style7 {color: #FFFFFF}
+.style8 {
+	font-size: 12pt;
+	font-weight: bold;
+}
+body,td,th {
+	color: #FFF;
+}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><X-CLARIS-WINDOW TOP=64 BOTTOM=593 LEFT=89 RIGHT=924><X-CLARIS-REMOTESAVE SERVER="smcweb1.smccd.net" USER=Danielson DIR="/Danielson/" FILE=""><X-CLARIS-TAGVIEW MODE=minimal><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1030"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=white background="img/bkgdcsm.gif" lang=EN-US link="#0066FF"
+vlink="#000099" style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<table class=MsoNormalTable border=0 cellpadding=0 width=768 style='width:8.0in;
+ mso-cellspacing:1.5pt;background:white;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:130.5pt'>
+  <td width=112 style='width:84.0pt;background:#330066;padding:.75pt .75pt .75pt .75pt;
+  height:130.5pt'>
+  <p><a href="http://collegeofsanmateo.edu/"><span style='text-decoration:none;
+  text-underline:none'><img border=0 width=110 height=108 id="_x0000_i1025"
+  src="img/csmsealogo.gif" align=bottom></span></a></p>
+  </td>
+  <td width=650 colspan=2 style='width:487.5pt;padding:.75pt .75pt .75pt .75pt;
+  height:130.5pt'>
+  <p align=center style='text-align:center'><a name=top></a><img border=0
+  width=265 height=27 id="_x0000_i1026" src="img/collegeofsm.gif" align=bottom>&nbsp;</p>
+  <p align=center style='text-align:center'><span style='font-size:18.0pt;
+  color:#0000CC'><o:p>&nbsp;</o:p></span></p>
+  <p align=center style='text-align:center'><span style='font-size:18.0pt;
+  color:#0000CC'>David G. Danielson M.A., Ph. D.</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=112 valign=top style='width:84.0pt;background:#330066;padding:.75pt .75pt .75pt .75pt'><p><span class="style6"><a href="#Fall"><span class="style7">Fall  Co</span></a></span><a href="#Fall"><span style='color:white'>urses</span></a>
+  </p>
+    <p><a href="#Education"><span style='color:white'>Education</span></a></p>
+  <p><a href="#Biographical"><span style='color:white'>Biographical Information</span></a></p>
+  <p><a href="#Links"><span style='color:white'>Links</span></a></p>
+  <p><a href="#Professional"><span style='color:white'>Professional
+  Organizations</span></a></p>
+  <p><a href="http://www.smccd.net/accounts/csmphilosophy/"><span
+  style='color:white'>CSM Philosophy Homepage</span></a></p>
+  </td>
+  <td width=99 style='width:74.25pt;padding:.75pt .75pt .75pt .75pt'>
+  <p align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width=549 style='width:411.75pt;padding:.75pt .75pt .75pt .75pt'>
+  <table class=MsoNormalTable border=0 cellpadding=0 width=441
+   style='width:330.9pt;mso-cellspacing:1.5pt;mso-padding-alt:1.2pt 1.2pt 1.2pt 1.2pt'
+   height=200>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:21.0pt'>
+    <td width=437 style='width:327.9pt;border:inset 1.0pt;mso-border-alt:inset windowtext .75pt;
+    background:#666666;padding:1.2pt 1.2pt 1.2pt 1.2pt;height:21.0pt'>
+    <p align=center style='text-align:center'><b><span style='font-size:13.5pt;
+    color:white'>Philosophy Department</span></b></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1;height:13.2pt'>
+    <td width=437 style='width:327.9pt;border:inset 1.0pt;mso-border-alt:inset windowtext .75pt;
+    background:white;padding:1.2pt 1.2pt 1.2pt 1.2pt;height:13.2pt'>
+    <p align=center style='text-align:center'><b><span style='font-size:13.5pt'>Contact
+    Information</span></b></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:2;height:13.2pt'>
+    <td width=437 style='width:327.9pt;border:inset 1.0pt;mso-border-alt:inset windowtext .75pt;
+    background:white;padding:1.2pt 1.2pt 1.2pt 1.2pt;height:13.2pt'>
+    <p align=center style='text-align:center'><b>Phone: </b>(650) 574-6376</p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:3;height:13.2pt'>
+    <td width=437 style='width:327.9pt;border:inset 1.0pt;mso-border-alt:inset windowtext .75pt;
+    background:white;padding:1.2pt 1.2pt 1.2pt 1.2pt;height:13.2pt'><p align=center style='text-align:center'><b>Office </b>10 - 412</p>
+      <p align=center style='text-align:center'><b>Hours:<br>
+      </b>MWF 7:30 &#8211;8<br>
+      MWF 10 - 11, 12 - 1<br>
+      TTH 7:30 - 9:30
+</p>
+      <p align=center style='text-align:center'><b><br>
+    </b><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600"
+     o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
+     stroked="f">
+     <v:stroke joinstyle="miter"/>
+     <v:formulas>
+      <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+      <v:f eqn="sum @0 1 0"/>
+      <v:f eqn="sum 0 0 @1"/>
+      <v:f eqn="prod @2 1 2"/>
+      <v:f eqn="prod @3 21600 pixelWidth"/>
+      <v:f eqn="prod @3 21600 pixelHeight"/>
+      <v:f eqn="sum @0 0 1"/>
+      <v:f eqn="prod @6 1 2"/>
+      <v:f eqn="prod @7 21600 pixelWidth"/>
+      <v:f eqn="sum @8 21600 0"/>
+      <v:f eqn="prod @7 21600 pixelHeight"/>
+      <v:f eqn="sum @10 21600 0"/>
+     </v:formulas>
+     <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+     <o:lock v:ext="edit" aspectratio="t"/>
+    </v:shapetype><v:shape id="_x0000_i1027" type="#_x0000_t75" style='width:264pt;
+     height:3in'>
+     <v:imagedata src="index_files/image002.jpg" o:title="PhilBookstore"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=352 height=288
+    src="index_files/image002.jpg" v:shapes="_x0000_i1027"><![endif]><span
+    style='mso-spacerun:yes'>&nbsp;</span><br>
+    <br>
+    <b>Academic Advising<br>
+    </b>Coastside</p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes;height:13.2pt'>
+    <td width=437 style='width:327.9pt;border:inset 1.0pt;mso-border-alt:inset windowtext .75pt;
+    background:white;padding:1.2pt 1.2pt 1.2pt 1.2pt;height:13.2pt'>
+    <p align=center style='text-align:center'><b>E-mail: </b><a
+    href="mailto:danielson@smccd.net">danielson@smccd.net</a></p>
+    </td>
+   </tr>
+  </table>
+  <p class=MsoNormal align=center style='text-align:center'><o:p></o:p></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
+  <td width=112 style='width:84.0pt;background:#330066;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=650 colspan=2 style='width:487.5pt;padding:.75pt .75pt .75pt .75pt'>
+  <p>&nbsp;<span style='font-size:8.0pt'>Photo by Sandra LaFave Ph.D.<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'>&quot;All Knowledge
+  is for the sake of action and all action is for the sake of friendship.&quot;</p>
+  <p>John MacMurray</p>
+  <p>&nbsp;<a name=Fall></a></p>
+  <p>&nbsp;</p>
+  <p><b><span style='font-size:13.5pt'>Fall 2015 </span></b></p>
+  <table class=MsoNormalTable border=0 cellspacing=1 cellpadding=0 width=434
+   style='width:325.85pt;mso-cellspacing:.6pt;background:#999999;mso-padding-alt:
+   4.8pt 4.8pt 4.8pt 4.8pt'>
+    <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:.25in'>
+    <td width=97 style='width:72.95pt;border:inset 1.0pt;mso-border-alt:inset windowtext .75pt;
+    background:#666666;padding:4.8pt 4.8pt 4.8pt 4.8pt;height:.25in'>
+    <p><b><span style='color:white'>Semester</span><o:p></o:p></b></p>
+    </td>
+    <td width=119 style='width:89.4pt;border:inset 1.0pt;mso-border-alt:inset windowtext .75pt;
+    background:#666666;padding:4.8pt 4.8pt 4.8pt 4.8pt;height:.25in'>
+    <p><b><span style='color:white'>Course</span><o:p></o:p></b></p>
+    </td>
+    <td width=215 style='width:161.1pt;border:inset 1.0pt;mso-border-alt:inset windowtext .75pt;
+    background:#666666;padding:4.8pt 4.8pt 4.8pt 4.8pt;height:.25in'>
+    <p><b><span style='color:white'>Course Name</span><o:p></o:p></b></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1'>
+     <td width=97 style='width:72.95pt;border:inset 1.0pt;mso-border-alt:inset windowtext .75pt;
+    padding:4.8pt 4.8pt 4.8pt 4.8pt'>
+       <p><span style='color:white'>Fall 2015</span></p>
+       </td>
+     <td width=119 style='width:89.4pt;border:inset 1.0pt;mso-border-alt:inset windowtext .75pt;
+    padding:4.8pt 4.8pt 4.8pt 4.8pt'>
+       <p><a href="http://www.smccd.net/accounts/danielson/Phil.100/">Phil. 100</a></p>
+       </td>
+     <td width=215 style='width:161.1pt;border:inset 1.0pt;mso-border-alt:inset windowtext .75pt;
+    padding:4.8pt 4.8pt 4.8pt 4.8pt'>
+       <p>Introduction to Philosophy</p>
+       </td>
+   </tr>
+   <tr style='mso-yfti-irow:3'>
+     <td width=97 style='width:72.95pt;border:inset 1.0pt;mso-border-alt:inset windowtext .75pt;
+    padding:4.8pt 4.8pt 4.8pt 4.8pt'>
+       <p><span style="color:white">Fall  2015</span></p>
+       </td>
+     <td width=119 style='width:89.4pt;border:inset 1.0pt;mso-border-alt:inset windowtext .75pt;
+    padding:4.8pt 4.8pt 4.8pt 4.8pt'>
+       <p><a href="http://www.smccd.net/accounts/danielson/Phil.244/">Phil. 244</a></p>
+       </td>
+     <td width=215 style='width:161.1pt;border:inset 1.0pt;mso-border-alt:inset windowtext .75pt;
+    padding:4.8pt 4.8pt 4.8pt 4.8pt'>
+       <p><span style='color:black'>Contemporary Social and Moral Issues</span></p>
+       </td>
+   </tr>
+   <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes'>
+     <td style='width:72.95pt;border:inset 1.0pt;mso-border-alt:inset windowtext .75pt;
+    padding:4.8pt 4.8pt 4.8pt 4.8pt'><span style="color:white">Fall 2015</span></td>
+     <td style='width:89.4pt;border:inset 1.0pt;mso-border-alt:inset windowtext .75pt;
+    padding:4.8pt 4.8pt 4.8pt 4.8pt'><a href="http://www.smccd.net/accounts/danielson/Phil 300/#resources">Phil. 300</a></td>
+     <td style='width:161.1pt;border:inset 1.0pt;mso-border-alt:inset windowtext .75pt;
+    padding:4.8pt 4.8pt 4.8pt 4.8pt'>Introduction to World Religion</td>
+   </tr>
+   <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes'>
+    <td width=97 style='width:72.95pt;border:inset 1.0pt;mso-border-alt:inset windowtext .75pt;
+    padding:4.8pt 4.8pt 4.8pt 4.8pt'>
+    <p><span style="color:white">Fall 2015</span></p>
+    </td>
+    <td width=119 style='width:89.4pt;border:inset 1.0pt;mso-border-alt:inset windowtext .75pt;
+    padding:4.8pt 4.8pt 4.8pt 4.8pt'>
+    <p>Advising</p>
+    </td>
+    <td width=215 style='width:161.1pt;border:inset 1.0pt;mso-border-alt:inset windowtext .75pt;
+    padding:4.8pt 4.8pt 4.8pt 4.8pt'>
+    <p>Academic Counseling : For an appointment call this number. 368-7229 TTH 11:30 - 2:30pm</p>
+    </td>
+   </tr>
+</table>
+  <p class=MsoNormal align=center style='text-align:center'>&nbsp;[<a
+  href="#top">top</a>] </p>
+  <p>&nbsp;<a name=Education></a></p>
+  <p><b><span style='font-size:13.5pt'>Education</span></b></p>
+  <ul type=disc>
+   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l4 level1 lfo3;tab-stops:list .5in'><b>A.A. </b><b><span
+       style='color:white'>illa</span>De <st1:place w:st="on"><st1:PlaceName
+        w:st="on">Anza</st1:PlaceName> <st1:PlaceType w:st="on">College</st1:PlaceType></st1:place>
+       - Liberal Studies </b></li>
+   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l4 level1 lfo3;tab-stops:list .5in'><b>B.A. </b><b><span
+       style='color:white'>ala</span> <st1:place w:st="on"><st1:PlaceName
+        w:st="on">San Jose</st1:PlaceName> <st1:PlaceType w:st="on">State</st1:PlaceType>
+        <st1:PlaceType w:st="on">University</st1:PlaceType></st1:place> -
+       Philosophy </b></li>
+   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l4 level1 lfo3;tab-stops:list .5in'><b>M.A. </b><b><span
+       style='color:white'>ma</span>The <st1:place w:st="on"><st1:PlaceName
+        w:st="on">Claremont</st1:PlaceName> <st1:PlaceName w:st="on">Graduate</st1:PlaceName>
+        <st1:PlaceType w:st="on">School</st1:PlaceType></st1:place> -
+       Philosophy </b></li>
+   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l4 level1 lfo3;tab-stops:list .5in'><b>Ph.D. </b><b><span
+       style='color:white'>lll</span>Summit <st1:place w:st="on"><st1:PlaceType
+        w:st="on">University</st1:PlaceType> of <st1:PlaceName w:st="on">Louisiana</st1:PlaceName></st1:place>
+       - Philosophy </b></li>
+  </ul>
+  <p class=MsoNormal align=center style='text-align:center'>&nbsp;[<a
+  href="#top">top</a>]</p>
+  <p>&nbsp;<a name=Biographical></a></p>
+  <p><b><span style='font-size:13.5pt'>Biographical Information</span></b></p>
+  <p><span style='font-size:13.5pt'>I have been teaching at the College of San
+  Mateo for 26 years. Teaching at CSM is professionally exciting. The students
+  have varied interests and backgrounds which challenge me to make the study of
+  philosophy relevant and meaningful for a wide range of persons. This diverse
+  classroom keeps me learning, thinking and searching.</span></p>
+  <p><span style='font-size:13.5pt'>I have taught previously at <st1:PlaceName
+  w:st="on">San Jose</st1:PlaceName> <st1:PlaceType w:st="on">City</st1:PlaceType>
+  <st1:PlaceType w:st="on">College</st1:PlaceType>, De Anza College, Mount San
+  Antonio College and at <st1:place w:st="on"><st1:PlaceName w:st="on">West
+    Coast</st1:PlaceName> <st1:PlaceType w:st="on">University</st1:PlaceType></st1:place>.</span></p>
+  <p><span style='font-size:13.5pt'>I came to study Philosophy as an undergraduate
+  when I found it was a safe place to ask questions and pursue understanding
+  and meaning. No matter what else I studied, I kept coming back to the great
+  ideas and questions with which Philosophy engages. After twenty years as a
+  &quot;student&quot;, I still find it fascinating. I now have a much better
+  grasp on all that I don't know.</span></p>
+  <p><span style='font-size:13.5pt'>The greatest philosophical influences have
+  come from Soren Kierkegaard, Martin Heidegger, Gabriel Marcel, and Maurice
+  Merleau-Ponty.</span></p>
+  <p><span style='font-size:13.5pt'>In addition to teaching, I read a lot, play
+  music, run, play cribbage, bike, golf, and spend time with my wife
+  Sandy and our dogs  Fifi 
+  and Jack.</span></p>
+  <p>&nbsp;</p>
+  <p class=MsoNormal align=center style='text-align:center'>&nbsp;[<a
+  href="#top">top</a>]</p>
+  <p>&nbsp;If you get lost in <st1:place w:st="on"><st1:City w:st="on">Paris</st1:City></st1:place>,
+  look for </p>
+  <p><!--[if gte vml 1]><v:shape id="_x0000_i1028" type="#_x0000_t75" style='width:264pt;
+   height:3in'>
+   <v:imagedata src="index_files/image001.jpg" o:title="Rue Descartes"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=352 height=288
+  src="index_files/image001.jpg" v:shapes="_x0000_i1028"><![endif]><span
+  style='mso-spacerun:yes'>&nbsp; </span>then take a left at</p>
+  <p><o:p>&nbsp;</o:p></p>
+  <p><!--[if gte vml 1]><v:shape id="_x0000_i1029" type="#_x0000_t75" style='width:264pt;
+   height:3in'>
+   <v:imagedata src="index_files/image004.jpg" o:title="Pascal"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=352 height=288
+  src="index_files/image004.jpg" v:shapes="_x0000_i1029"><![endif]><span
+  style='mso-spacerun:yes'>&nbsp;</span>that will lead you to</p>
+  <p><o:p>&nbsp;</o:p></p>
+  <p><o:p>&nbsp;</o:p></p>
+  <p><!--[if gte vml 1]><v:shape id="_x0000_i1030" type="#_x0000_t75" style='width:264pt;
+   height:3in'>
+   <v:imagedata src="index_files/image003.jpg" o:title="PlaceSartre-Beauvoir"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=352 height=288
+  src="index_files/image003.jpg" v:shapes="_x0000_i1030"><![endif]><span
+  style='mso-spacerun:yes'>&nbsp;</span>All will be well.</p>
+  <p>&nbsp;<a name=Links></a></p>
+  <p>&nbsp;</p>
+  <ul type=disc>
+   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l2 level1 lfo6;tab-stops:list .5in'><b><span
+       style='font-size:13.5pt'>Links</span></b></li>
+  </ul>
+  <p><span style='font-size:13.5pt'>A great humor site is </span><a
+  href="http://www.theonion.com"><span style='font-size:13.5pt'>The Onion</span></a><span
+  style='font-size:13.5pt'> ! It is a weekly satirical newspaper.</span></p>
+  <p><span style='font-size:13.5pt'>For Journal writing, visit </span><a
+  href="http://www.intensivejournal.org"><span style='font-size:13.5pt'>http://www.intensivejournal.org</span></a><span
+  style='font-size:13.5pt'> . This connects to the work of Dr. Ira Progoff,
+  depth psychologist and creator of the Intensive Journal Method.</span></p>
+  <p class="style8">Also you may find Byron Katie's ideas, <a href="http://www.thework.com/index.asp">The Work</a>, very helpful </p>
+  <p class=MsoNormal align=center style='text-align:center'>&nbsp;&nbsp;[<a
+  href="#top">top</a>]<a name=Professional></a></p>
+  <p>&nbsp;</p>
+  <ul type=disc>
+   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l5 level1 lfo9;tab-stops:list .5in'><b><span
+       style='font-size:13.5pt'>Professional Organizations </span></b></li>
+  </ul>
+  <p><a href="http://www.udel.edu/apa"><span style='font-size:13.5pt'>American
+  Philosophical Association</span></a></p>
+  <p><span style='font-size:13.5pt'>The Association for the Integration of the
+  Whole Person</span></p>
+  <p class=MsoNormal align=center style='text-align:center'>&nbsp;&nbsp;[<a
+  href="#top">top</a>] </p>
+  <p>Philosophy Department<br>
+  Date of last update 8/4/15<br>
+  Direct Questions or comments about this page to<b> </b><a
+  href="mailto:danielson@smccd.net">danielson@smccd.net</a><br>
+  This page was developed and is maintained for the <a href="http://gocsm.net/">College
+  of San Mateo</a> by the Philosophy Dept.</p>
+  </td>
+ </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,906 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Milgram experiment - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf16" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Milgram_experiment" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Milgram_experiment&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Milgram_experiment&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Milgram_experiment" />
+<link rel="stylesheet" href="https://en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cmw.PopUpMediaTransform.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="https://en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="https://en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Milgram_experiment","wgTitle":"Milgram experiment","wgCurRevisionId":673839112,"wgRevisionId":673839112,"wgArticleId":19009,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Explicit use of et al.","All articles with dead external links","Articles with dead external links from October 2010","All articles with unsourced statements","Articles with unsourced statements from March 2014","Commons category with local link same as on Wikidata","Spoken articles","Articles with hAudio microformats","Wikipedia articles with GND identifiers","Conformity","Group processes","History of psychology","Human subject research in the United States","Medical ethics","Research ethics","Social psychology","Psychology experiments","Torture","Articles containing video clips"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Milgram_experiment","wgRelevantArticleId":19009,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Milgram_experiment_v2.svg/79px-Milgram_experiment_v2.svg.png","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q191474","wgVisualEditorToolbarScrollOffset":0});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mw.TMHGalleryHook.js","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf16/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Milgram_experiment skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+<div id="mw-indicator-spoken-icon" class="mw-indicator"><a href="/wiki/File:Milgram_experiment.ogg" title="Listen to this article"><img alt="Listen to this article" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/20px-Sound-icon.svg.png" width="20" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/30px-Sound-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/40px-Sound-icon.svg.png 2x" data-file-width="128" data-file-height="96" /></a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Milgram experiment</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For Milgram's other well-known experiment, see <a href="/wiki/Small-world_experiment" title="Small-world experiment">Small-world experiment</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Milgram_experiment_v2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Milgram_experiment_v2.svg/200px-Milgram_experiment_v2.svg.png" width="200" height="254" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Milgram_experiment_v2.svg/300px-Milgram_experiment_v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Milgram_experiment_v2.svg/400px-Milgram_experiment_v2.svg.png 2x" data-file-width="500" data-file-height="635" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Milgram_experiment_v2.svg" class="internal" title="Enlarge"></a></div>
+The experimenter (E) orders the teacher (T), the subject of the experiment, to give what the latter believes are painful electric shocks to a learner (L), who is actually an actor and <a href="//en.wiktionary.org/wiki/confederate" class="extiw" title="wikt:confederate">confederate</a>. The subject believes that for each wrong answer, the learner was receiving actual electric shocks, though in reality there were no such punishments. Being separated from the subject, the confederate set up a tape recorder integrated with the electro-shock generator, which played pre-recorded sounds for each shock level.<sup id="cite_ref-ObedStudy_1-0" class="reference"><a href="#cite_note-ObedStudy-1"><span>[</span>1<span>]</span></a></sup></div>
+</div>
+</div>
+<p>The <b>Milgram experiment on obedience to authority figures</b> was a series of <a href="/wiki/Social_psychology" title="Social psychology">social psychology</a> <a href="/wiki/Experimental_psychology" title="Experimental psychology">experiments</a> conducted by <a href="/wiki/Yale_University" title="Yale University">Yale University</a> <a href="/wiki/Psychology" title="Psychology">psychologist</a> <a href="/wiki/Stanley_Milgram" title="Stanley Milgram">Stanley Milgram</a>. They measured the willingness of study participants to <a href="/wiki/Obedience_(human_behavior)" title="Obedience (human behavior)">obey</a> an <a href="/wiki/Authority" title="Authority">authority figure</a> who instructed them to perform acts conflicting with their personal <a href="/wiki/Conscience" title="Conscience">conscience</a>. Milgram first described his <a href="/wiki/Research" title="Research">research</a> in 1963 in an article published in the <i><a href="/wiki/Journal_of_Abnormal_and_Social_Psychology" title="Journal of Abnormal and Social Psychology" class="mw-redirect">Journal of Abnormal and Social Psychology</a></i><sup id="cite_ref-ObedStudy_1-1" class="reference"><a href="#cite_note-ObedStudy-1"><span>[</span>1<span>]</span></a></sup> and later discussed his findings in greater depth in his 1974 book, <i><a href="/wiki/Obedience_to_Authority:_An_Experimental_View" title="Obedience to Authority: An Experimental View">Obedience to Authority: An Experimental View</a>.</i><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>The experiments began in July 1961, in the basement of Linsly-Chittenden Hall at Yale University,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> three months after the start of the trial of German <a href="/wiki/Nazi" title="Nazi" class="mw-redirect">Nazi</a> <a href="/wiki/War_criminal" title="War criminal" class="mw-redirect">war criminal</a> <a href="/wiki/Adolf_Eichmann" title="Adolf Eichmann">Adolf Eichmann</a> in <a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a>. Milgram devised his psychological study to answer the popular question at that particular time: "Could it be that Eichmann and his million accomplices in <a href="/wiki/The_Holocaust" title="The Holocaust">the Holocaust</a> were <a href="/wiki/Superior_Orders" title="Superior Orders" class="mw-redirect">just following orders</a>? Could we call them all accomplices?"<sup id="cite_ref-GBooks_4-0" class="reference"><a href="#cite_note-GBooks-4"><span>[</span>4<span>]</span></a></sup> The experiments have been repeated many times in the following years with consistent results within differing societies, although not with the same percentages around the globe.<sup id="cite_ref-Blass1991_5-0" class="reference"><a href="#cite_note-Blass1991-5"><span>[</span>5<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#The_experiment"><span class="tocnumber">1</span> <span class="toctext">The experiment</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Results"><span class="tocnumber">2</span> <span class="toctext">Results</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Criticism"><span class="tocnumber">3</span> <span class="toctext">Criticism</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Ethics"><span class="tocnumber">3.1</span> <span class="toctext">Ethics</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Applicability_to_the_Jewish_Holocaust"><span class="tocnumber">3.2</span> <span class="toctext">Applicability to the Jewish Holocaust</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Charges_of_data_manipulation"><span class="tocnumber">3.3</span> <span class="toctext">Charges of data manipulation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Interpretations"><span class="tocnumber">4</span> <span class="toctext">Interpretations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Alternative_interpretations"><span class="tocnumber">4.1</span> <span class="toctext">Alternative interpretations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Replications_and_variations"><span class="tocnumber">5</span> <span class="toctext">Replications and variations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Milgram.27s_variations"><span class="tocnumber">5.1</span> <span class="toctext">Milgram's variations</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Replications"><span class="tocnumber">5.2</span> <span class="toctext">Replications</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Other_variations"><span class="tocnumber">5.3</span> <span class="toctext">Other variations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Media_depictions"><span class="tocnumber">6</span> <span class="toctext">Media depictions</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Notes"><span class="tocnumber">8</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Further_reading"><span class="tocnumber">10</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="The_experiment">The experiment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Milgram_experiment&amp;action=edit&amp;section=1" title="Edit section: The experiment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Milgram_Experiment_advertising.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Milgram_Experiment_advertising.png/250px-Milgram_Experiment_advertising.png" width="250" height="391" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Milgram_Experiment_advertising.png/375px-Milgram_Experiment_advertising.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Milgram_Experiment_advertising.png/500px-Milgram_Experiment_advertising.png 2x" data-file-width="633" data-file-height="989" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Milgram_Experiment_advertising.png" class="internal" title="Enlarge"></a></div>
+Milgram Experiment advertisement</div>
+</div>
+</div>
+<p>Three individuals were involved: the one running the experiment, the subject of the experiment (a volunteer), and a <a href="//en.wiktionary.org/wiki/confederate" class="extiw" title="wikt:confederate">confederate</a> pretending to be a volunteer. These three people fill three distinct roles: the Experimenter (an authoritative role), the Teacher (a role intended to obey the orders of the Experimenter), and the Learner (the recipient of stimulus from the Teacher). The subject and the actor both drew slips of paper to determine their roles, but unknown to the subject, both slips said "teacher". The actor would always claim to have drawn the slip that read "learner", thus guaranteeing that the subject would always be the "teacher". At this point, the "teacher" and "learner" were separated into different rooms where they could communicate but not see each other. In one version of the experiment, the confederate was sure to mention to the participant that he had a <a href="/wiki/Heart_disease" title="Heart disease" class="mw-redirect">heart condition</a>.<sup id="cite_ref-ObedStudy_1-2" class="reference"><a href="#cite_note-ObedStudy-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>At some point prior to the actual test, the "teacher" was given a sample <a href="/wiki/Electric_shock" title="Electric shock">electric shock</a> from the electroshock generator in order to experience firsthand what the shock that the "learner" would supposedly receive during the experiment would feel like. The "teacher" was then given a list of word pairs that he was to teach the learner. The teacher began by reading the list of word pairs to the learner. The teacher would then read the first word of each pair and read four possible answers. The learner would press a button to indicate his response. If the answer was incorrect, the teacher would administer a shock to the learner, with the voltage increasing in 15-<a href="/wiki/Volt" title="Volt">volt</a> increments for each wrong answer. If correct, the teacher would read the next word pair.<sup id="cite_ref-ObedStudy_1-3" class="reference"><a href="#cite_note-ObedStudy-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>The subjects believed that for each wrong answer, the learner was receiving actual shocks. In reality, there were no shocks. After the confederate was separated from the subject, the confederate set up a tape recorder integrated with the electroshock generator, which played prerecorded sounds for each shock level. After a number of voltage-level increases, the actor started to bang on the wall that separated him from the subject. After several times banging on the wall and complaining about his heart condition, all responses by the learner would cease.<sup id="cite_ref-ObedStudy_1-4" class="reference"><a href="#cite_note-ObedStudy-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>At this point, many people indicated their desire to stop the experiment and check on the learner. Some test subjects paused at 135 volts and began to question the purpose of the experiment. Most continued after being assured that they would not be held responsible. A few subjects began to laugh nervously or exhibit other signs of extreme stress once they heard the screams of pain coming from the learner.<sup id="cite_ref-ObedStudy_1-5" class="reference"><a href="#cite_note-ObedStudy-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>If at any time the subject indicated his desire to halt the experiment, he was given a succession of verbal prods by the experimenter, in this order:<sup id="cite_ref-ObedStudy_1-6" class="reference"><a href="#cite_note-ObedStudy-1"><span>[</span>1<span>]</span></a></sup></p>
+<ol>
+<li>Please <i>continue</i>.</li>
+<li>The experiment requires that you <i>continue</i>.</li>
+<li>It is absolutely essential that you <i>continue</i>.</li>
+<li>You have no other choice, you <i>must</i> go on.</li>
+</ol>
+<p>If the subject still wished to stop after all four successive verbal prods, the experiment was halted. Otherwise, it was halted after the subject had given the maximum 450-volt shock three times in succession.<sup id="cite_ref-ObedStudy_1-7" class="reference"><a href="#cite_note-ObedStudy-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>The experimenter also gave special prods if the teacher made specific comments. If the teacher asked whether the learner might suffer permanent physical harm, the experimenter replied, "Although the shocks may be painful, there is no permanent tissue damage, so please go on." If the teacher said that the learner clearly wants to stop, the experimenter replied, "Whether the learner likes it or not, you must go on until he has learned all the word pairs correctly, so please go on."</p>
+<h2><span class="mw-headline" id="Results">Results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Milgram_experiment&amp;action=edit&amp;section=2" title="Edit section: Results">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Before conducting the experiment, Milgram polled fourteen Yale University senior-year psychology majors to predict the behavior of 100 hypothetical teachers. All of the poll respondents believed that only a very small fraction of teachers (the range was from zero to 3 out of 100, with an average of 1.2) would be prepared to inflict the maximum voltage. Milgram also informally polled his colleagues and found that they, too, believed very few subjects would progress beyond a very strong shock.<sup id="cite_ref-ObedStudy_1-8" class="reference"><a href="#cite_note-ObedStudy-1"><span>[</span>1<span>]</span></a></sup> Milgram also polled forty psychiatrists from a medical school, and they believed that by the tenth shock, when the victim demands to be free, most subjects would stop the experiment. They predicted that by the 300-volt shock, when the victim refuses to answer, only 3.73 percent of the subjects would still continue and, they believed that "only a little over one-tenth of one percent of the subjects would administer the highest shock on the board."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>In Milgram's first set of experiments, 65 percent (26 of 40) of experiment participants administered the experiment's final massive 450-volt shock,<sup id="cite_ref-ObedStudy_1-9" class="reference"><a href="#cite_note-ObedStudy-1"><span>[</span>1<span>]</span></a></sup> though many were very uncomfortable doing so; at some point, every participant paused and questioned the experiment; some said they would refund the money they were paid for participating in the experiment. Throughout the experiment, subjects displayed varying degrees of tension and stress. Subjects were sweating, trembling, stuttering, biting their lips, groaning, digging their fingernails into their skin, and some were even having nervous laughing fits or seizures.<sup id="cite_ref-ObedStudy_1-10" class="reference"><a href="#cite_note-ObedStudy-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>Milgram summarized the experiment in his 1974 article, "The Perils of Obedience", writing:</p>
+<blockquote class="templatequote">
+<p>The legal and philosophic aspects of <a href="/wiki/Obedience_(human_behavior)" title="Obedience (human behavior)">obedience</a> are of enormous importance, but they say very little about how most people behave in concrete situations. I set up a simple experiment at Yale University to test how much <a href="/wiki/Pain" title="Pain">pain</a> an ordinary citizen would inflict on another person simply because he was ordered to by an experimental scientist. Stark authority was pitted against the subjects' [participants'] strongest moral imperatives against hurting others, and, with the subjects' [participants'] ears ringing with the screams of the victims, authority won more often than not. The extreme willingness of adults to go to almost any lengths on the command of an authority constitutes the chief finding of the study and the fact most urgently demanding explanation.</p>
+<p>Ordinary people, simply doing their jobs, and without any particular hostility on their part, can become agents in a terrible destructive process. Moreover, even when the destructive effects of their work become patently clear, and they are asked to carry out actions incompatible with fundamental standards of morality, relatively few people have the resources needed to resist authority.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+</blockquote>
+<p>The original Simulated Shock Generator and Event Recorder, or <i>shock box</i>, is located in the <a href="/wiki/Archives_of_the_History_of_American_Psychology" title="Archives of the History of American Psychology">Archives of the History of American Psychology</a>.</p>
+<p>Later, Milgram and other psychologists performed variations of the experiment throughout the world, with similar results.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> Milgram later investigated the effect of the experiment's locale on obedience levels by holding an experiment in an unregistered, backstreet office in a bustling city, as opposed to at Yale, a respectable university. The level of obedience, "although somewhat reduced, was not significantly lower." What made more of a difference was the proximity of the "learner" and the experimenter. There were also variations tested involving groups.</p>
+<p>Thomas Blass of the <a href="/wiki/University_of_Maryland,_Baltimore_County" title="University of Maryland, Baltimore County">University of Maryland, Baltimore County</a> performed a <a href="/wiki/Meta-analysis" title="Meta-analysis">meta-analysis</a> on the results of repeated performances of the experiment. He found that the percentage of participants who are prepared to inflict fatal voltages remains remarkably constant, 61–66 percent, regardless of time or country.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-Blass02_10-0" class="reference"><a href="#cite_note-Blass02-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>The participants who refused to administer the final shocks neither insisted that the experiment itself be terminated, nor left the room to check the health of the victim without requesting permission to leave, as per Milgram's notes and recollections, when fellow psychologist <a href="/wiki/Philip_Zimbardo" title="Philip Zimbardo">Philip Zimbardo</a> asked him about that point.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>Milgram created a documentary film titled <i>Obedience</i> showing the experiment and its results. He also produced a series of five social psychology films, some of which dealt with his experiments.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Criticism">Criticism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Milgram_experiment&amp;action=edit&amp;section=3" title="Edit section: Criticism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Ethics">Ethics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Milgram_experiment&amp;action=edit&amp;section=4" title="Edit section: Ethics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Milgram Shock Experiment raised questions about the <a href="/wiki/Research_ethics" title="Research ethics">research ethics</a> of scientific experimentation because of the extreme emotional stress and <a href="/wiki/Inflicted_insight" title="Inflicted insight">inflicted insight</a> suffered by the participants. In Milgram's defense, 84 percent of former participants surveyed later said they were "glad" or "very glad" to have participated; 15 percent chose neutral responses (92% of all former participants responding).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> Many later wrote expressing thanks. Milgram repeatedly received offers of assistance and requests to join his staff from former participants. Six years later (at the height of the <a href="/wiki/Vietnam_War" title="Vietnam War">Vietnam War</a>), one of the participants in the experiment sent correspondence to Milgram, explaining why he was glad to have participated despite the stress:</p>
+<blockquote class="templatequote">
+<p>While I was a subject in 1964, though I believed that I was hurting someone, I was totally unaware of why I was doing so. Few people ever realize when they are acting according to their own beliefs and when they are meekly submitting to authority… To permit myself to be <a href="/wiki/Conscription_in_the_United_States" title="Conscription in the United States">drafted</a> with the understanding that I am submitting to authority's demand to do something very wrong would make me frightened of myself… I am fully prepared to go to jail if I am not granted <a href="/wiki/Conscientious_Objector" title="Conscientious Objector" class="mw-redirect">Conscientious Objector</a> status. Indeed, it is the only course I could take to be faithful to what I believe. My only hope is that members of my board act equally according to their conscience…<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+</blockquote>
+<p>Milgram argued (in "Obedience to Authority: An Experimental View") that the ethical criticism provoked by his experiments was because his findings were disturbing and revealed unwelcome truths about <a href="/wiki/Human_nature" title="Human nature">human nature</a>. Others have argued that the ethical debate has diverted attention from more serious problems with the experiment's <a href="/wiki/Methodology" title="Methodology">methodology</a>. Australian psychologist Gina Perry found an unpublished paper in Milgram's archives that shows Milgram's own concern with how believable the experimental set-up was to subjects involved. Milgram asked his assistant to compile a breakdown of the number of participants who had seen through the experiments. This unpublished analysis indicated that many subjects suspected that the experiment was a <a href="/wiki/Hoax" title="Hoax">hoax</a>,<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> a finding that casts doubt on the veracity of his results. In the journal <i><a href="/wiki/Jewish_Currents" title="Jewish Currents">Jewish Currents</a></i>, Joseph Dimow, a participant in the 1961 experiment at Yale University, wrote about his early withdrawal as a "teacher", suspicious "that the whole experiment was designed to see if ordinary Americans would obey immoral orders, as many Germans had done during the Nazi period."<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Applicability_to_the_Jewish_Holocaust">Applicability to the Jewish Holocaust</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Milgram_experiment&amp;action=edit&amp;section=5" title="Edit section: Applicability to the Jewish Holocaust">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Milgram sparked direct critical response in the scientific community by claiming that "a common psychological process is centrally involved in both [his laboratory experiments and Nazi Germany] events." Professor <a href="/wiki/James_Waller" title="James Waller">James Waller</a>, Chair of Holocaust and Genocide Studies at Keene State College, formerly Chair of Whitworth College Psychology Department, expressed the opinion that Milgram experiments <i>do not correspond well</i> to the Holocaust events:<sup id="cite_ref-Waller-111_18-0" class="reference"><a href="#cite_note-Waller-111-18"><span>[</span>18<span>]</span></a></sup></p>
+<ol>
+<li>The subjects of Milgram experiments, wrote James Waller (<i>Becoming Evil</i>), were assured in advance that <i>no permanent physical damage would result from their actions.</i> However, the Holocaust perpetrators were fully aware of their hands-on killing and maiming of the victims.</li>
+<li>The laboratory subjects themselves did not know their victims and were not motivated by racism. On the other hand, the Holocaust perpetrators displayed an <i>intense devaluation of the victims</i> through a lifetime of personal development.</li>
+<li>Those serving punishment at the lab were not sadists, nor hate-mongers, and often <i>exhibited great anguish and conflict</i> in the experiment, unlike the designers and executioners of the Final Solution (see <a href="/wiki/Category:Holocaust_trials" title="Category:Holocaust trials">Holocaust trials</a>), who had a clear "goal" on their hands, set beforehand.</li>
+<li>The experiment lasted for an hour, with no time for the subjects to <i>contemplate the implications of their behavior</i>. Meanwhile, the Holocaust lasted for years with ample time for a moral assessment of all individuals and organizations involved.<sup id="cite_ref-Waller-111_18-1" class="reference"><a href="#cite_note-Waller-111-18"><span>[</span>18<span>]</span></a></sup></li>
+</ol>
+<p>In the opinion of Thomas Blass—who is the author of a scholarly monograph on the experiment (<i>The Man Who Shocked The World</i>) published in 2004—the historical evidence pertaining to actions of the Holocaust perpetrators speaks louder than words:</p>
+<blockquote class="templatequote">
+<p>My own view is that Milgram's approach does not provide a fully adequate explanation of the Holocaust. While it may well account for the dutiful destructiveness of the dispassionate bureaucrat who may have shipped Jews to Auschwitz with the same degree of routinization as potatoes to Bremerhaven, it falls short when one tries to apply it to the more zealous, inventive, and hate-driven atrocities that also characterized the Holocaust.<sup id="cite_ref-Blass_19-0" class="reference"><a href="#cite_note-Blass-19"><span>[</span>19<span>]</span></a></sup></p>
+</blockquote>
+<h3><span class="mw-headline" id="Charges_of_data_manipulation">Charges of data manipulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Milgram_experiment&amp;action=edit&amp;section=6" title="Edit section: Charges of data manipulation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After an investigation of the test, Australian psychologist <a href="/w/index.php?title=Gina_Perry&amp;action=edit&amp;redlink=1" class="new" title="Gina Perry (page does not exist)">Gina Perry</a> claimed that Milgram had manipulated his results. "Overall, over half disobeyed," Perry claimed.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Interpretations">Interpretations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Milgram_experiment&amp;action=edit&amp;section=7" title="Edit section: Interpretations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Professor Milgram elaborated two theories:</p>
+<ul>
+<li>The first is the <i>theory of conformism</i>, based on <a href="/wiki/Asch_conformity_experiments" title="Asch conformity experiments">Solomon Asch conformity experiments</a>, describing the fundamental relationship between the group of reference and the individual person. A subject who has neither ability nor expertise to make decisions, especially in a crisis, will leave decision making to the group and its hierarchy. The group is the person's behavioral model.</li>
+<li>The second is the <i>agentic state theory</i>, wherein, per Milgram, "the essence of obedience consists in the fact that a person comes to view themselves as the instrument for carrying out another person's wishes, and they therefore no longer see themselves as responsible for their actions. Once this critical shift of viewpoint has occurred in the person, all of the essential features of obedience follow".<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="Alternative_interpretations">Alternative interpretations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Milgram_experiment&amp;action=edit&amp;section=8" title="Edit section: Alternative interpretations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In his book <i>Irrational Exuberance</i>, Yale Finance Professor <a href="/wiki/Robert_Shiller" title="Robert Shiller" class="mw-redirect">Robert Shiller</a> argues that other factors might be partially able to explain the Milgram Experiments:</p>
+<blockquote class="templatequote">
+<p>[People] have learned that when experts tell them something is all right, it probably is, even if it does not seem so. (In fact, it is worth noting that in this case the experimenter was indeed correct: it <i>was</i> all right to continue giving the "shocks"—even though most of the subjects did not suspect the reason.)<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></p>
+</blockquote>
+<p>In a 2006 experiment, a computerized <a href="/wiki/Avatar_(computing)" title="Avatar (computing)">avatar</a> was used in place of the learner receiving electrical shocks. Although the participants administering the shocks were aware that the learner was unreal, the experimenters reported that participants responded to the situation physiologically "as if it were real".<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></p>
+<p>For a 2009 episode of the <a href="/wiki/BBC" title="BBC">BBC</a> science documentary series <i><a href="/wiki/Horizon_(BBC_TV_series)" title="Horizon (BBC TV series)">Horizon</a></i>, the Milgram experiment was replicated. Of the twelve participants, only three refused to continue to the end of the experiment. Speaking during the episode, social psychologist Clifford Stott discussed the influence that the idealism of scientific enquiry had on the volunteers. He remarked: "The influence is ideological. It's about what they believe science to be, that science is a positive product, it produces beneficial findings and knowledge to society that are helpful for society. So there's that sense of science is providing some kind of system for good."<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Replications_and_variations">Replications and variations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Milgram_experiment&amp;action=edit&amp;section=9" title="Edit section: Replications and variations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Milgram.27s_variations">Milgram's variations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Milgram_experiment&amp;action=edit&amp;section=10" title="Edit section: Milgram's variations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <i><a href="/wiki/Obedience_to_Authority:_An_Experimental_View" title="Obedience to Authority: An Experimental View">Obedience to Authority: An Experimental View</a></i> (1974), Milgram describes nineteen variations of his experiment, some of which had not been previously reported.</p>
+<p>Several experiments varied the immediacy of the teacher and learner. Generally, when the victim's physical immediacy was increased, the participant's <a href="/wiki/Compliance_(psychology)" title="Compliance (psychology)">compliance</a> decreased. The participant's compliance also decreased when the authority's physical immediacy decreased (Experiments 1–4). For example, in Experiment 2, where participants received telephonic instructions from the experimenter, compliance decreased to 21 percent. Interestingly, some participants deceived the experimenter by <i>pretending</i> to continue the experiment. In the variation where the learner's physical immediacy was closest, where participants had to hold the learner's arm physically onto a shock plate, compliance decreased. Under that condition, thirty percent of participants completed the experiment.</p>
+<p>In Experiment 8, an all-female contingent was used; previously, all participants had been men. Obedience did not significantly differ, though the women communicated experiencing higher levels of stress.</p>
+<p>Experiment 10 took place in a modest office in <a href="/wiki/Bridgeport,_Connecticut" title="Bridgeport, Connecticut">Bridgeport</a>, <a href="/wiki/Connecticut" title="Connecticut">Connecticut</a>, purporting to be the commercial entity "Research Associates of Bridgeport" without apparent connection to Yale University, to eliminate the university's prestige as a possible factor influencing the participants' behavior. In those conditions, obedience dropped to 47.5 percent, though the difference was not statistically significant.</p>
+<p>Milgram also combined the effect of authority with that of <a href="/wiki/Conformity_(psychology)" title="Conformity (psychology)" class="mw-redirect">conformity</a>. In those experiments, the participant was joined by one or two additional "teachers" (also actors, like the "learner"). The behavior of the participants' peers strongly affected the results. In Experiment 17, when two additional teachers refused to comply, only 4 of 40 participants continued in the experiment. In Experiment 18, the participant performed a subsidiary task (reading the questions via microphone or recording the learner's answers) with another "teacher" who complied fully. In that variation, 37 of 40 continued with the experiment.<sup id="cite_ref-old_25-0" class="reference"><a href="#cite_note-old-25"><span>[</span>25<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Replications">Replications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Milgram_experiment&amp;action=edit&amp;section=11" title="Edit section: Replications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;">
+<div id="mwe_player_0" class="PopUpMediaTransform" style="width:220px;" videopayload="&lt;div class=&quot;mediaContainer&quot; style=&quot;position:relative;display:block;width:376px&quot;&gt;&lt;video id=&quot;mwe_player_1&quot; style=&quot;width:376px;height:288px&quot; poster=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/A-Virtual-Reprise-of-the-Stanley-Milgram-Obedience-Experiments-pone.0000039.s011.ogv/375px--A-Virtual-Reprise-of-the-Stanley-Milgram-Obedience-Experiments-pone.0000039.s011.ogv.jpg&quot; controls=&quot;&quot; preload=&quot;none&quot; autoplay=&quot;&quot; class=&quot;kskin&quot; data-durationhint=&quot;25.459229024943&quot; data-startoffset=&quot;0&quot; data-mwtitle=&quot;A-Virtual-Reprise-of-the-Stanley-Milgram-Obedience-Experiments-pone.0000039.s011.ogv&quot; data-mwprovider=&quot;wikimediacommons&quot;&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/d/d0/A-Virtual-Reprise-of-the-Stanley-Milgram-Obedience-Experiments-pone.0000039.s011.ogv/A-Virtual-Reprise-of-the-Stanley-Milgram-Obedience-Experiments-pone.0000039.s011.ogv.360p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; transcodekey=&quot;360p.webm&quot; data-title=&quot;Web streamable WebM (360P)&quot; data-shorttitle=&quot;WebM 360P&quot; data-width=&quot;376&quot; data-height=&quot;288&quot; data-bandwidth=&quot;554456&quot; data-framerate=&quot;25&quot; /&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/d/d0/A-Virtual-Reprise-of-the-Stanley-Milgram-Obedience-Experiments-pone.0000039.s011.ogv/A-Virtual-Reprise-of-the-Stanley-Milgram-Obedience-Experiments-pone.0000039.s011.ogv.160p.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; transcodekey=&quot;160p.ogv&quot; data-title=&quot;Low bandwidth Ogg video (160P)&quot; data-shorttitle=&quot;Ogg 160P&quot; data-width=&quot;208&quot; data-height=&quot;160&quot; data-bandwidth=&quot;150152&quot; data-framerate=&quot;15&quot; /&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/d/d0/A-Virtual-Reprise-of-the-Stanley-Milgram-Obedience-Experiments-pone.0000039.s011.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; data-title=&quot;Original Ogg file, 375 × 288 (525 kbps)&quot; data-shorttitle=&quot;Ogg source&quot; data-width=&quot;375&quot; data-height=&quot;288&quot; data-bandwidth=&quot;524865&quot; data-framerate=&quot;25&quot; /&gt;Sorry, your browser either has JavaScript disabled or does not have any supported player.&lt;br /&gt;
+You can &lt;a href=&quot;//upload.wikimedia.org/wikipedia/commons/d/d0/A-Virtual-Reprise-of-the-Stanley-Milgram-Obedience-Experiments-pone.0000039.s011.ogv&quot;&gt;download the clip&lt;/a&gt; or &lt;a href=&quot;https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download&quot;&gt;download a player&lt;/a&gt; to play the clip in your browser.&lt;/video&gt;&lt;/div&gt;"><img alt="File:A-Virtual-Reprise-of-the-Stanley-Milgram-Obedience-Experiments-pone.0000039.s011.ogv" style="width:220px;height:169px" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/A-Virtual-Reprise-of-the-Stanley-Milgram-Obedience-Experiments-pone.0000039.s011.ogv/220px--A-Virtual-Reprise-of-the-Stanley-Milgram-Obedience-Experiments-pone.0000039.s011.ogv.jpg" /><a href="//upload.wikimedia.org/wikipedia/commons/d/d0/A-Virtual-Reprise-of-the-Stanley-Milgram-Obedience-Experiments-pone.0000039.s011.ogv" title="Play media" target="new"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:A-Virtual-Reprise-of-the-Stanley-Milgram-Obedience-Experiments-pone.0000039.s011.ogv" class="internal" title="Enlarge"></a></div>
+A virtual replication of the experiment, with an <a href="/wiki/Avatar_(computing)" title="Avatar (computing)">avatar</a> serving as the learner.</div>
+</div>
+</div>
+<p>Around the time of the release of <i>Obedience to Authority</i> in 1973–74, a version of the experiment was conducted at <a href="/wiki/La_Trobe_University" title="La Trobe University">La Trobe University</a> in Australia. As reported by Perry in her 2012 book <i>Behind the Shock Machine</i>, some of the participants experienced long-lasting psychological effects, possibly due to the lack of proper debriefing by the experimenter.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup></p>
+<p>In 2002, the British artist <a href="/wiki/Rod_Dickinson" title="Rod Dickinson">Rod Dickinson</a> created <i>The Milgram Re-enactment</i>, an exact reconstruction of parts of the original experiment, including the uniforms, lighting, and rooms used. An audience watched the four-hour performance through one-way glass windows.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup> A video of this performance was first shown at the CCA Gallery in <a href="/wiki/Glasgow" title="Glasgow">Glasgow</a> in 2002.</p>
+<p>A partial replication of the experiment was staged by British illusionist <a href="/wiki/Derren_Brown" title="Derren Brown">Derren Brown</a> and broadcast on UK's <a href="/wiki/Channel_4" title="Channel 4">Channel 4</a> in <i><a href="/wiki/The_Heist_(Derren_Brown_special)" title="The Heist (Derren Brown special)">The Heist</a></i> (2006).<sup id="cite_ref-DerrenBrown_29-0" class="reference"><a href="#cite_note-DerrenBrown-29"><span>[</span>29<span>]</span></a></sup></p>
+<p>Another partial replication of the experiment was conducted by Jerry M. Burger in 2006 and broadcast on the Primetime series <i>Basic Instincts</i>. Burger noted that "current standards for the ethical treatment of participants clearly place Milgram's studies out of bounds." In 2009, Burger was able to receive approval from the <a href="/wiki/Institutional_review_board" title="Institutional review board">institutional review board</a> by modifying several of the experimental protocols.<sup id="cite_ref-BurgerWP2008_30-0" class="reference"><a href="#cite_note-BurgerWP2008-30"><span>[</span>30<span>]</span></a></sup> Burger found obedience rates virtually identical to those reported by Milgram found in 1961–62, even while meeting current ethical regulations of informing participants. In addition, half the replication participants were female, and their rate of obedience was virtually identical to that of the male participants. Burger also included a condition in which participants first saw another participant refuse to continue. However, participants in this condition obeyed at the same rate as participants in the base condition.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup></p>
+<p>In the 2010 French documentary <i><a href="/wiki/Le_Jeu_de_la_Mort" title="Le Jeu de la Mort">Le Jeu de la Mort</a></i> (<i>The Game of Death</i>), researchers recreated the Milgram experiment with an added critique of <a href="/wiki/Reality_television" title="Reality television">reality television</a> by presenting the scenario as a <a href="/wiki/Game_show" title="Game show">game show</a> pilot. Volunteers were given €40 and told they would not win any money from the game, as this was only a trial. Only 16 of 80 "contestants" (teachers) chose to end the game before delivering the highest-voltage punishment.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup><sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup></p>
+<p>The experiment was performed on <i><a href="/wiki/Dateline_NBC" title="Dateline NBC">Dateline NBC</a></i> on an episode airing April 25, 2010.</p>
+<p>The <a href="/wiki/Discovery_Channel" title="Discovery Channel">Discovery Channel</a> aired the "How Evil are You" segment of <i><a href="/wiki/Curiosity_(TV_series)" title="Curiosity (TV series)">Curiosity</a></i> on October 30, 2011. The episode was hosted by <a href="/wiki/Eli_Roth" title="Eli Roth">Eli Roth</a>, who produced results similar to the original Milgram experiment, though the highest-voltage punishment used was 165 volts, rather than 450 volts.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup></p>
+<p>Due to increasingly widespread knowledge of the experiment, recent replications of the procedure have had to ensure that participants were not previously aware of it.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2014)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Other_variations">Other variations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Milgram_experiment&amp;action=edit&amp;section=12" title="Edit section: Other variations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Charles Sheridan and Richard King (at the <a href="/wiki/University_of_Missouri" title="University of Missouri">University of Missouri</a> and the <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a>, respectively) hypothesized that some of Milgram's subjects may have suspected that the victim was faking, so they repeated the experiment with a real victim: a "cute, fluffy puppy" who was given real, albeit apparently harmless, electric shocks. Their findings were similar to those of Milgram: half of the male subjects and all of the females obeyed throughout. Many subjects showed high levels of distress during the experiment, and some openly wept. In addition, Sheridan and King found that the duration for which the shock button was pressed decreased as the shocks got higher, meaning that for higher shock levels, subjects were more hesitant.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup><sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Media_depictions">Media depictions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Milgram_experiment&amp;action=edit&amp;section=13" title="Edit section: Media depictions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i>Obedience</i> is a black-and-white film of the experiment, shot by Milgram himself. It is distributed by <a href="/wiki/Alexander_Street_Press" title="Alexander Street Press">Alexander Street Press</a>.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup></li>
+<li><i><a href="/wiki/The_Tenth_Level" title="The Tenth Level">The Tenth Level</a></i> was a 1975 <a href="/wiki/CBS" title="CBS">CBS</a> television film about the experiment, featuring <a href="/wiki/William_Shatner" title="William Shatner">William Shatner</a>, <a href="/wiki/Ossie_Davis" title="Ossie Davis">Ossie Davis</a>, and <a href="/wiki/John_Travolta" title="John Travolta">John Travolta</a>.<sup id="cite_ref-Blass02_10-1" class="reference"><a href="#cite_note-Blass02-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>38<span>]</span></a></sup></li>
+<li><i><a href="/wiki/I_as_in_Icarus" title="I as in Icarus">I as in Icarus</a></i> is a 1979 French conspiracy thriller with <a href="/wiki/Yves_Montand" title="Yves Montand">Yves Montand</a> as a lawyer investigating the assassination of the President. The movie is inspired by the <a href="/wiki/John_F._Kennedy_assassination" title="John F. Kennedy assassination" class="mw-redirect">Kennedy assassination</a> and the subsequent <a href="/wiki/Warren_Commission" title="Warren Commission">Warren Commission</a> investigation. Digging into the psychology of the <a href="/wiki/Lee_Harvey_Oswald" title="Lee Harvey Oswald">Lee Harvey Oswald</a> type character, the attorney finds out the "decoy shooter" participated in the Milgram experiment. The ongoing experiment is presented to the unsuspecting lawyer.</li>
+<li><i>Foolin Around</i> is a 1980 movie starring <a href="/wiki/Gary_Busey" title="Gary Busey">Gary Busey</a> and <a href="/wiki/Annette_O%27Toole" title="Annette O'Toole">Annette O'Toole</a>, which uses a Milgram experiment parody in a comedic scene.</li>
+<li>The track "We Do What We're Told (Milgram's 37)" on <a href="/wiki/Peter_Gabriel" title="Peter Gabriel">Peter Gabriel</a>'s 1986 album <i><a href="/wiki/So_(album)" title="So (album)">So</a></i> is a reference to Milgram's Experiment 18, in which 37 of 40 people were prepared to administer the highest level of shock.</li>
+<li>Referenced in <a href="/wiki/Alan_Moore" title="Alan Moore">Alan Moore</a>'s <a href="/wiki/Graphic_novel" title="Graphic novel">graphic novel</a> <i><a href="/wiki/V_for_Vendetta" title="V for Vendetta">V for Vendetta</a></i> (1988-1989) as a reason why Dr. Surridge has lost faith in humanity.</li>
+<li><i>Atrocity</i> is a 2005 film re-enactment of the Milgram Experiment.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>39<span>]</span></a></sup></li>
+<li><i>The Human Behavior Experiments</i> is a 2006 documentary by Alex Gibney about major experiments in social psychology, shown along with modern incidents highlighting the principles discussed. Along with <a href="/wiki/Stanley_Milgram" title="Stanley Milgram">Stanley Milgram</a>'s study in obedience, the documentary shows the <a href="/wiki/Diffusion_of_responsibility" title="Diffusion of responsibility">diffusion of responsibility</a> study of <a href="/wiki/John_Darley" title="John Darley">John Darley</a> and <a href="/wiki/Bibb_Latan%C3%A9" title="Bibb Latané">Bibb Latané</a> and the <a href="/wiki/Stanford_prison_experiment" title="Stanford prison experiment">Stanford Prison Experiment</a> of <a href="/wiki/Philip_Zimbardo" title="Philip Zimbardo">Philip Zimbardo</a>.</li>
+<li>A 2006 <a href="/wiki/Derren_Brown" title="Derren Brown">Derren Brown</a> special named <a href="/wiki/The_Heist_(Derren_Brown_special)" title="The Heist (Derren Brown special)"><i>The Heist</i></a> repeated the Milgram experiment to test whether the participants will take part in a staged heist afterwards.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span>[</span>40<span>]</span></a></sup></li>
+<li><a href="/wiki/Chip_Kidd" title="Chip Kidd">Chip Kidd</a>'s 2008 novel <i>The Learners</i> is about the Milgram experiment and features Stanley Milgram as a character.</li>
+<li><i>The Milgram Experiment</i> is a 2009 film by the Brothers Gibbs that chronicles the story of Stanley Milgram's experiments.</li>
+<li>The 2008 <a href="/wiki/Dar_Williams" title="Dar Williams">Dar Williams</a> song <a href="/wiki/Promised_Land_(Dar_Williams_album)" title="Promised Land (Dar Williams album)">"Buzzer"</a> is about the experiment. "I'm feeling sorry for this guy that I pressed to shock / He gets the answers wrong I have to up the watts / And he begged me to stop but they told me to go / I pressed the buzzer."</li>
+<li><a href="/wiki/Law_%26_Order:_Special_Victims_Unit_(season_9)" title="Law &amp; Order: Special Victims Unit (season 9)">"Authority"</a>, a 2008 episode of <i><a href="/wiki/Law_%26_Order:_Special_Victims_Unit" title="Law &amp; Order: Special Victims Unit">Law &amp; Order: Special Victims Unit</a></i>, features Merrit Rook, a suspect played by <a href="/wiki/Robin_Williams" title="Robin Williams">Robin Williams</a>, who employs the <a href="/wiki/Strip_search_prank_call_scam" title="Strip search prank call scam" class="mw-redirect">strip search prank call scam</a>, identifying himself as "Detective Milgram". He later reenacts a version of the Milgram experiment on Det. <a href="/wiki/Elliot_Stabler" title="Elliot Stabler">Elliot Stabler</a> by ordering him to administer electric shocks to Det. <a href="/wiki/Olivia_Benson" title="Olivia Benson">Olivia Benson</a>, whom Rook has bound and is thus helpless.</li>
+<li>Episode 114 of the 2009 <a href="/wiki/Howie_Mandel" title="Howie Mandel">Howie Mandel</a> show <i><a href="/wiki/Howie_Do_It" title="Howie Do It">Howie Do It</a></i> repeated the experiment with a single pair of subjects using the premise of a Japanese game show.</li>
+<li>The 2010 film <a href="/wiki/Zenith_(film)" title="Zenith (film)"><i>Zenith</i></a> references and dramatically depicts the Milgram experiment</li>
+<li>The 2010 video game <i><a href="/wiki/Fallout:_New_Vegas" title="Fallout: New Vegas">Fallout: New Vegas</a></i> featured a place called the "Vault 11,' inspired by the Milgram experiment, which demanded the residents to sacrifice one of their own once a year and told them they would be exterminated if they failed to comply.</li>
+<li>The Discovery Channel's <a href="/wiki/Curiosity_(TV_series)" title="Curiosity (TV series)"><i>Curiosity</i></a> TV series October 30, 2011 episode, "How Evil Are You?" features <a href="/wiki/Eli_Roth" title="Eli Roth">Eli Roth</a> recreating the experiment asking the question, "Fifty years later, have we changed?"</li>
+<li>The 2012 film <i><a href="/wiki/Compliance_(film)" title="Compliance (film)">Compliance</a></i>, written and directed by Craig Zobel, shows a group of employees assisting in the interrogation of a young counter assistant at the commands of a person who claims to be a police officer over the phone, demonstrating the willingness of subjects to follow orders from authority figures.</li>
+<li>The <a href="/wiki/Fox_Broadcasting_Company" title="Fox Broadcasting Company">FOX</a> TV series <i><a href="/wiki/Bones_(TV_series)" title="Bones (TV series)">Bones</a></i> featured a December 4, 2014 episode titled <a href="/wiki/Bones_(season_10)" title="Bones (season 10)">"The Mutilation of the Master Manipulator,"</a> where the murder victim, a college psychology professor, is shown administering the Milgram experiment.</li>
+<li><i><a href="/wiki/Experimenter_(film)" title="Experimenter (film)">Experimenter</a></i>, a 2015 film about Milgram, by <a href="/wiki/Michael_Almereyda" title="Michael Almereyda">Michael Almereyda</a>, was screened to favorable reactions at the 2015 <a href="/wiki/Sundance_Film_Festival" title="Sundance Film Festival">Sundance Film Festival</a>.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41"><span>[</span>41<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Milgram_experiment&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/wiki/Banality_of_evil" title="Banality of evil" class="mw-redirect">Banality of evil</a></li>
+<li><a href="/wiki/Hofling_hospital_experiment" title="Hofling hospital experiment">Hofling hospital experiment</a></li>
+<li><a href="/wiki/Human_experimentation_in_the_United_States" title="Human experimentation in the United States" class="mw-redirect">Human experimentation in the United States</a></li>
+<li><a href="/wiki/Law_of_Due_Obedience" title="Law of Due Obedience">Law of Due Obedience</a></li>
+<li><a href="/wiki/Le_Jeu_de_la_Mort" title="Le Jeu de la Mort">Le Jeu de la Mort</a></li>
+<li><a href="/wiki/Little_Eichmanns" title="Little Eichmanns">Little Eichmanns</a></li>
+<li><a href="/wiki/Moral_disengagement" title="Moral disengagement">Moral disengagement</a></li>
+<li><a href="/wiki/My_Lai_Massacre" title="My Lai Massacre">My Lai Massacre</a></li>
+<li><a href="/wiki/Social_influence" title="Social influence">Social influence</a></li>
+<li><a href="/wiki/Stanford_prison_experiment" title="Stanford prison experiment">Stanford prison experiment</a></li>
+<li><a href="/wiki/Strip_search_phone_call_scam" title="Strip search phone call scam">Strip search phone call scam</a></li>
+<li><a href="/wiki/Superior_orders" title="Superior orders">Superior orders</a></li>
+<li><a href="/wiki/The_Third_Wave" title="The Third Wave">The Third Wave</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Milgram_experiment&amp;action=edit&amp;section=15" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-ObedStudy-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-ObedStudy_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ObedStudy_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ObedStudy_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ObedStudy_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-ObedStudy_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-ObedStudy_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-ObedStudy_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-ObedStudy_1-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-ObedStudy_1-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-ObedStudy_1-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-ObedStudy_1-10"><sup><i><b>k</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Milgram, Stanley (1963). <a rel="nofollow" class="external text" href="http://content.apa.org/journals/abn/67/4/371">"Behavioral Study of Obedience"</a>. <i>Journal of Abnormal and Social Psychology</i> <b>67</b> (4): 371–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1037%2Fh0040525">10.1037/h0040525</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/14049516">14049516</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.atitle=Behavioral+Study+of+Obedience&amp;rft.aufirst=Stanley&amp;rft.aulast=Milgram&amp;rft.au=Milgram%2C+Stanley&amp;rft.date=1963&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fcontent.apa.org%2Fjournals%2Fabn%2F67%2F4%2F371&amp;rft_id=info%3Adoi%2F10.1037%2Fh0040525&amp;rft_id=info%3Apmid%2F14049516&amp;rft.issue=4&amp;rft.jtitle=Journal+of+Abnormal+and+Social+Psychology&amp;rft.pages=371-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=67" class="Z3988"><span style="display:none;">&#160;</span></span> <a rel="nofollow" class="external text" href="http://academic.evergreen.edu/curricular/social_dilemmas/fall/Readings/Week_06/milgram.pdf">as PDF.</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span id="CITEREFMilgram1974" class="citation book">Milgram, Stanley (1974). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=MlpEAAAAMAAJ"><i>Obedience to Authority; An Experimental View</i></a>. Harpercollins. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-06-131983-X" title="Special:BookSources/0-06-131983-X">0-06-131983-X</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.aufirst=Stanley&amp;rft.aulast=Milgram&amp;rft.au=Milgram%2C+Stanley&amp;rft.btitle=Obedience+to+Authority%3B+An+Experimental+View&amp;rft.date=1974&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DMlpEAAAAMAAJ&amp;rft.isbn=0-06-131983-X&amp;rft.pub=Harpercollins&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web">Zimbardo, Philip. <a rel="nofollow" class="external text" href="http://archives.yalealumnimagazine.com/issues/2007_01/milgram.html">"When Good People Do Evil"</a>. <i>Yale Alumni Magazine</i>. Yale Alumni Publications, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">24 April</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.atitle=When+Good+People+Do+Evil&amp;rft.aufirst=Philip&amp;rft.aulast=Zimbardo&amp;rft.au=Zimbardo%2C+Philip&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Farchives.yalealumnimagazine.com%2Fissues%2F2007_01%2Fmilgram.html&amp;rft.jtitle=Yale+Alumni+Magazine&amp;rft.pub=Yale+Alumni+Publications%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-GBooks-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-GBooks_4-0">^</a></b></span> <span class="reference-text"><span class="citation web">Search inside (2013). <a rel="nofollow" class="external text" href="https://www.google.ca/search?tbm=bks&amp;hl=en&amp;q=%22Could+it+be+that+Eichmann+and+his+million+accomplices+in+the+Holocaust+were+just+following+orders%3F+Could+we+call+them+all+accomplices%3F%22">"Could it be that Eichmann and his million accomplices in the Holocaust were just following orders? Could we call them all accomplices?"</a>. Google Books<span class="reference-accessdate">. Retrieved <span class="nowrap">20 July</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.aulast=Search+inside&amp;rft.au=Search+inside&amp;rft.btitle=Could+it+be+that+Eichmann+and+his+million+accomplices+in+the+Holocaust+were+just+following+orders%3F+Could+we+call+them+all+accomplices%3F&amp;rft.date=2013&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fwww.google.ca%2Fsearch%3Ftbm%3Dbks%26hl%3Den%26q%3D%2522Could%2Bit%2Bbe%2Bthat%2BEichmann%2Band%2Bhis%2Bmillion%2Baccomplices%2Bin%2Bthe%2BHolocaust%2Bwere%2Bjust%2Bfollowing%2Borders%253F%2BCould%2Bwe%2Bcall%2Bthem%2Ball%2Baccomplices%253F%2522&amp;rft.pub=Google+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Blass1991-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Blass1991_5-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Blass, Thomas (1991). <a rel="nofollow" class="external text" href="http://www.stanleymilgram.com/pdf/understanding%20behavoir.pdf">"Understanding behavior in the Milgram obedience experiment: The role of personality, situations, and their interactions"</a> <span style="font-size:85%;">(PDF)</span>. <i>Journal of Personality and Social Psychology</i> <b>60</b> (3): 398–413. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1037%2F0022-3514.60.3.398">10.1037/0022-3514.60.3.398</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.atitle=Understanding+behavior+in+the+Milgram+obedience+experiment%3A+The+role+of+personality%2C+situations%2C+and+their+interactions&amp;rft.au=Blass%2C+Thomas&amp;rft.aufirst=Thomas&amp;rft.aulast=Blass&amp;rft.date=1991&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.stanleymilgram.com%2Fpdf%2Funderstanding%2520behavoir.pdf&amp;rft_id=info%3Adoi%2F10.1037%2F0022-3514.60.3.398&amp;rft.issue=3&amp;rft.jtitle=Journal+of+Personality+and+Social+Psychology&amp;rft.pages=398-413&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=60" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span id="CITEREFMilgram1965" class="citation journal">Milgram, Stanley (1965). "Some Conditions of Obedience and Disobedience to Authority". <i>Human Relations</i> <b>18</b> (1): 57–76. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1177%2F001872676501800105">10.1177/001872676501800105</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.atitle=Some+Conditions+of+Obedience+and+Disobedience+to+Authority&amp;rft.aufirst=Stanley&amp;rft.aulast=Milgram&amp;rft.au=Milgram%2C+Stanley&amp;rft.date=1965&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1177%2F001872676501800105&amp;rft.issue=1&amp;rft.jtitle=Human+Relations&amp;rft.pages=57-76&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=18" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation journal">Milgram, Stanley (1974). <a rel="nofollow" class="external text" href="http://web.archive.org/web/20110514231624/http://home.swbell.net/revscat/perilsOfObedience.html">"The Perils of Obedience"</a>. <i>Harper's Magazine</i>. Archived from <a rel="nofollow" class="external text" href="http://home.swbell.net/revscat/perilsOfObedience.html">the original</a> on 2011-05-14.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.atitle=The+Perils+of+Obedience&amp;rft.aulast=Milgram%2C+Stanley&amp;rft.au=Milgram%2C+Stanley&amp;rft.date=1974&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fhome.swbell.net%2Frevscat%2FperilsOfObedience.html&amp;rft.jtitle=Harper%27s+Magazine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> Abridged and adapted from <i>Obedience to Authority</i>.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a href="#CITEREFMilgram1974">Milgram 1974</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span id="CITEREFBlass1999" class="citation journal">Blass, Thomas (1999). "The Milgram paradigm after 35 years: Some things we now know about obedience to authority". <i>Journal of Applied Social Psychology</i> <b>29</b> (5): 955–978. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fj.1559-1816.1999.tb00134.x">10.1111/j.1559-1816.1999.tb00134.x</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.atitle=The+Milgram+paradigm+after+35+years%3A+Some+things+we+now+know+about+obedience+to+authority&amp;rft.au=Blass%2C+Thomas&amp;rft.aufirst=Thomas&amp;rft.aulast=Blass&amp;rft.date=1999&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1559-1816.1999.tb00134.x&amp;rft.issue=5&amp;rft.jtitle=Journal+of+Applied+Social+Psychology&amp;rft.pages=955-978&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=29" class="Z3988"><span style="display:none;">&#160;</span></span> <a rel="nofollow" class="external text" href="http://neuron4.psych.ubc.ca/~schaller/Psyc591Readings/Blass1999.pdf">as PDF</a></span></li>
+<li id="cite_note-Blass02-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Blass02_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Blass02_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Blass, Thomas (Mar–Apr 2002). <a rel="nofollow" class="external text" href="http://www.psychologytoday.com/articles/200203/the-man-who-shocked-the-world">"The Man Who Shocked the World"</a>. <i>Psychology Today</i> <b>35</b> (2).</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.atitle=The+Man+Who+Shocked+the+World&amp;rft.au=Blass%2C+Thomas&amp;rft.aulast=Blass%2C+Thomas&amp;rft.date=Mar-Apr+2002&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.psychologytoday.com%2Farticles%2F200203%2Fthe-man-who-shocked-the-world&amp;rft.issue=2&amp;rft.jtitle=Psychology+Today&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=35" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Discovering Psychology with Philip Zimbardo Ph.D. Updated Edition, "Power of the Situation," <a rel="nofollow" class="external free" href="http://video.google.com/videoplay?docid=-6059627757980071729">http://video.google.com/videoplay?docid=-6059627757980071729</a>, reference starts at 10min 59 seconds into video.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.stanleymilgram.com/films.php">Milgram films.</a> Accessed 4 October 2006.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a href="#CITEREFMilgram1974">Milgram 1974</a>, p.&#160;195</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation book">Raiten-D'Antonio, Toni (1 September 2010). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=bPxLyFEi3-EC&amp;pg=PA89"><i>Ugly as Sin: The Truth about How We Look and Finding Freedom from Self-Hatred</i></a>. HCI. p.&#160;89. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7573-1465-0" title="Special:BookSources/978-0-7573-1465-0">978-0-7573-1465-0</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.aulast=Raiten-D%27Antonio%2C+Toni&amp;rft.au=Raiten-D%27Antonio%2C+Toni&amp;rft.btitle=Ugly+as+Sin%3A+The+Truth+about+How+We+Look+and+Finding+Freedom+from+Self-Hatred&amp;rft.date=1+September+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DbPxLyFEi3-EC%26pg%3DPA89&amp;rft.isbn=978-0-7573-1465-0&amp;rft.pages=89&amp;rft.pub=HCI&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a href="#CITEREFMilgram1974">Milgram 1974</a>, p.&#160;200</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation book">Perry, Gina (2013). <i>Behind the Shock Machine: The Untold Story of the Notorious Milgram Psychology Experiments</i>. New York: The New Press. pp.&#160;<a rel="nofollow" class="external text" href="http://books.google.com/books?id=8BCNAgAAQBAJ&amp;pg=PT79">79–80</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-59558-925-5" title="Special:BookSources/978-1-59558-925-5">978-1-59558-925-5</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.aufirst=Gina&amp;rft.aulast=Perry&amp;rft.au=Perry%2C+Gina&amp;rft.btitle=Behind+the+Shock+Machine%3A+The+Untold+Story+of+the+Notorious+Milgram+Psychology+Experiments&amp;rft.date=2013&amp;rft.genre=book&amp;rft.isbn=978-1-59558-925-5&amp;rft.pages=79-80&amp;rft.place=New+York&amp;rft.pub=The+New+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Dimow, Joseph. <a rel="nofollow" class="external text" href="http://www.jewishcurrents.org/2004-jan-dimow.htm">"Resisting Authority: A Personal Account of the Milgram Obedience Experiments"</a>, <i>Jewish Currents,</i> January 2004.</span></li>
+<li id="cite_note-Waller-111-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-Waller-111_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Waller-111_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a href="/wiki/James_Waller" title="James Waller">James Waller</a> (Feb 22, 2007). <a rel="nofollow" class="external text" href="http://books.google.ca/books?id=5QRHKMa_rqgC&amp;pg=PA111&amp;dq=%22scale+of+events+in+Milgram%E2%80%99s+laboratory+and+the+enormity+of+the+Holocaust%22&amp;hl=en&amp;sa=X&amp;ei=OqO0UenoLKSkiQKqvoCgCg&amp;ved=0CDcQ6AEwAA#v=onepage&amp;q=%22scale%20of%20events%20in%20Milgram%E2%80%99s%20laboratory%20and%20the%20enormity%20of%20the%20Holocaust%22&amp;f=false">"What Can the Milgram Studies Teach Us..."</a> <span style="font-size:85%;">(Google Book)</span>. <i>Becoming Evil: How Ordinary People Commit Genocide and Mass Killing</i>. Oxford University Press. pp.&#160;111–113. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0199774854" title="Special:BookSources/0199774854">0199774854</a><span class="reference-accessdate">. Retrieved <span class="nowrap">June 9,</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.atitle=What+Can+the+Milgram+Studies+Teach+Us...&amp;rft.au=James+Waller&amp;rft.aulast=James+Waller&amp;rft.date=Feb+22%2C+2007&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbooks.google.ca%2Fbooks%3Fid%3D5QRHKMa_rqgC%26pg%3DPA111%26dq%3D%2522scale%2Bof%2Bevents%2Bin%2BMilgram%25E2%2580%2599s%2Blaboratory%2Band%2Bthe%2Benormity%2Bof%2Bthe%2BHolocaust%2522%26hl%3Den%26sa%3DX%26ei%3DOqO0UenoLKSkiQKqvoCgCg%26ved%3D0CDcQ6AEwAA%23v%3Donepage%26q%3D%2522scale%2520of%2520events%2520in%2520Milgram%25E2%2580%2599s%2520laboratory%2520and%2520the%2520enormity%2520of%2520the%2520Holocaust%2522%26f%3Dfalse&amp;rft.isbn=0199774854&amp;rft.jtitle=Becoming+Evil%3A+How+Ordinary+People+Commit+Genocide+and+Mass+Killing&amp;rft.pages=111-113&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Blass-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Blass_19-0">^</a></b></span> <span class="reference-text"><span class="citation web">Blass, Thomas (2013). <a rel="nofollow" class="external text" href="http://analyse-und-kritik.net/en/1998-1/AK_Blass_1998.pdf">"The Roots of Stanley Milgram's Obedience Experiments and Their Relevance to the Holocaust"</a> <span style="font-size:85%;">(PDF file, direct download 733 KB)</span>. Analyse und Kritik.net. p.&#160;51<span class="reference-accessdate">. Retrieved <span class="nowrap">20 July</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.au=Blass%2C+Thomas&amp;rft.aulast=Blass%2C+Thomas&amp;rft.btitle=The+Roots+of+Stanley+Milgram%27s+Obedience+Experiments+and+Their+Relevance+to+the+Holocaust&amp;rft.date=2013&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fanalyse-und-kritik.net%2Fen%2F1998-1%2FAK_Blass_1998.pdf&amp;rft.pages=51&amp;rft.pub=Analyse+und+Kritik.net&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Gina Perry (2012) Behind the Shock Machine: the untold story of the notorious Milgram psychology experiments, New Press. <a href="/wiki/Special:BookSources/9781921844553" class="internal mw-magiclink-isbn">ISBN 978-1921844553</a>.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.is.wayne.edu/mnissani/PAGEPUB/milgram.htm">Source: A cognitive reinterpretation of Stanley Milgram's observations on obedience to authority. <i>American Psychologist</i> 45: 1384–1385 (1990)</a></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation book">Shiller, Robert (2005). <i>Irrational Exuberance</i> (2nd ed.). Princeton NJ: Princeton University Press. p.&#160;158.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.aulast=Shiller%2C+Robert&amp;rft.au=Shiller%2C+Robert&amp;rft.btitle=Irrational+Exuberance&amp;rft.date=2005&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.pages=158&amp;rft.place=Princeton+NJ&amp;rft.pub=Princeton+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation journal">Slater M, Antley A, Davison A et al. (2006). Rustichini, Aldo, ed. <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1762398">"A virtual reprise of the Stanley Milgram obedience experiments"</a>. <i>PLoS ONE</i> <b>1</b> (1): e39. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1371%2Fjournal.pone.0000039">10.1371/journal.pone.0000039</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1762398">1762398</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17183667">17183667</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.atitle=A+virtual+reprise+of+the+Stanley+Milgram+obedience+experiments&amp;rft.aulast=Slater+M%2C+Antley+A%2C+Davison+A&amp;rft.au=Slater+M%2C+Antley+A%2C+Davison+A&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1762398&amp;rft_id=info%3Adoi%2F10.1371%2Fjournal.pone.0000039&amp;rft_id=info%3Apmc%2F1762398&amp;rft_id=info%3Apmid%2F17183667&amp;rft.issue=1&amp;rft.jtitle=PLoS+ONE&amp;rft.pages=e39&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span> <a href="/wiki/Open_access" title="open access publication - free to read"><img alt="open access publication - free to read" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/8px-Open_Access_logo_PLoS_transparent.svg.png" width="8" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/12px-Open_Access_logo_PLoS_transparent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/16px-Open_Access_logo_PLoS_transparent.svg.png 2x" data-file-width="640" data-file-height="1000" /></a></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation episode">Presenter: <a href="/wiki/Michael_Portillo" title="Michael Portillo">Michael Portillo</a>. Producer: Diene Petterle. (12 May 2009). <a rel="nofollow" class="external text" href="http://www.bbc.co.uk/programmes/b00kk4bz">"How Violent Are You?"</a>. <i><a href="/wiki/Horizon_(BBC_TV_series)" title="Horizon (BBC TV series)">Horizon</a></i>. Series 45. Episode 18. <a href="/wiki/BBC" title="BBC">BBC</a>. <a href="/wiki/BBC_Two" title="BBC Two">BBC Two</a><span class="reference-accessdate">. Retrieved <span class="nowrap">8 May</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.atitle=How+Violent+Are+You%3F&amp;rft.btitle=Horizon&amp;rft.date=12+May+2009&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fprogrammes%2Fb00kk4bz&amp;rft.series=Series+45.+Episode+18&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-old-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-old_25-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.stanleymilgram.com/oldanswers.html">Milgram, old answers.</a> Accessed 4 October 2006.<sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since October 2010">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><span class="citation news">Elliott, Tim (2012-04-26). <a rel="nofollow" class="external text" href="http://www.smh.com.au/national/health/dark-legacy-left-by-shock-tactics-20120425-1xlfw.html">"Dark legacy left by shock tactics"</a>. <i>Sydney Morning Herald</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.atitle=Dark+legacy+left+by+shock+tactics&amp;rft.au=Elliott%2C+Tim&amp;rft.aufirst=Tim&amp;rft.aulast=Elliott&amp;rft.date=2012-04-26&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.smh.com.au%2Fnational%2Fhealth%2Fdark-legacy-left-by-shock-tactics-20120425-1xlfw.html&amp;rft.jtitle=Sydney+Morning+Herald&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><i>History Will Repeat Itself: Strategies of Re-enactment in Contemporary (Media) Art and Performance</i>, ed. Inke Arns, Gabriele Horn, Frankfurt: Verlag, 2007</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.milgramreenactment.org">"The Milgram Re-enactment"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-06-10</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.btitle=The+Milgram+Re-enactment&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.milgramreenactment.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-DerrenBrown-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-DerrenBrown_29-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://uk.youtube.com/watch?v=y6GxIuljT3w">"The Milgram Experiment on YouTube"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-12-21</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.btitle=The+Milgram+Experiment+on+YouTube&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fuk.youtube.com%2Fwatch%3Fv%3Dy6GxIuljT3w&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BurgerWP2008-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-BurgerWP2008_30-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Burger, Jerry M. (2008). <a rel="nofollow" class="external text" href="http://www.apa.org/pubs/journals/releases/amp-64-1-1.pdf">"Replicating Milgram: Would People Still Obey Today?"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/American_Psychologist" title="American Psychologist">American Psychologist</a></i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.atitle=Replicating+Milgram%3A+Would+People+Still+Obey+Today%3F&amp;rft.au=Burger%2C+Jerry+M.&amp;rft.aufirst=Jerry+M.&amp;rft.aulast=Burger&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.apa.org%2Fpubs%2Fjournals%2Freleases%2Famp-64-1-1.pdf&amp;rft.jtitle=American+Psychologist&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://abcnews.go.com/Primetime/story?id=2765416&amp;page=1">"The Science of Evil"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-01-04</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.btitle=The+Science+of+Evil&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fabcnews.go.com%2FPrimetime%2Fstory%3Fid%3D2765416%26page%3D1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.npr.org/templates/story/story.php?storyId=124838091">"Fake TV Game Show 'Tortures' Man, Shocks France"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-10-19</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.btitle=Fake+TV+Game+Show+%27Tortures%27+Man%2C+Shocks+France&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.npr.org%2Ftemplates%2Fstory%2Fstory.php%3FstoryId%3D124838091&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.france24.com/en/20100317-disturbing-tv-docu-game-tests-limits-small-screen-power-france-game-of-death">"Fake torture TV 'game show' reveals willingness to obey"</a>. 2010-03-17<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-03-18</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.btitle=Fake+torture+TV+%27game+show%27+reveals+willingness+to+obey&amp;rft.date=2010-03-17&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.france24.com%2Fen%2F20100317-disturbing-tv-docu-game-tests-limits-small-screen-power-france-game-of-death&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.discovery.com/tv-shows/curiosity/videos/how-evil-are-you.htm">"Curiosity: How evil are you?"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-04-17</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.btitle=Curiosity%3A+How+evil+are+you%3F&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.discovery.com%2Ftv-shows%2Fcuriosity%2Fvideos%2Fhow-evil-are-you.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.holah.co.uk/files/sheridan_king_1972.pdf">"Sheridan &amp; King (1972) – Obedience to authority with an authentic victim, Proceedings of the 80th Annual Convention of the American Psychological Association 7: 165–6."</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-03</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.btitle=Sheridan+%26+King+%281972%29+%E2%80%93+Obedience+to+authority+with+an+authentic+victim%2C+Proceedings+of+the+80th+Annual+Convention+of+the+American+Psychological+Association+7%3A+165%E2%80%936.&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.holah.co.uk%2Ffiles%2Fsheridan_king_1972.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a href="#CITEREFBlass1999">Blass 1999</a>, p.&#160;968</span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://alexanderstreet.com/products/stanley-milgram-films-social-psychology">"The Stanley Milgram Films on Social Psychology by Alexander Street Press"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.btitle=The+Stanley+Milgram+Films+on+Social+Psychology+by+Alexander+Street+Press&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Falexanderstreet.com%2Fproducts%2Fstanley-milgram-films-social-psychology&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.imdb.com/title/tt0075320/">The Tenth Level</a> at the Internet Movie Database. Accessed 4 October 2006.</span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20070427161233/http://www.movingimage.us/science/sloan.php?film_id=214">"Atrocity."</a>. Archived from <a rel="nofollow" class="external text" href="http://www.movingimage.us/science/sloan.php?film_id=214">the original</a> on 2007-04-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-03-20</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.btitle=Atrocity.&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.movingimage.us%2Fscience%2Fsloan.php%3Ffilm_id%3D214&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://derrenbrown.co.uk/tv-shows/the-heist/">"The Heist «&#160;Derren Brown"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.btitle=The+Heist+%C2%AB+Derren+Brown&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fderrenbrown.co.uk%2Ftv-shows%2Fthe-heist%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.hollywoodreporter.com/review/experimenter-sundance-review-768093">"<span style="padding-left:0.2em;">'</span>Experimenter': Sundance Review"</a>. The Hollywood Reporter. January 28, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">January 30,</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.btitle=%27Experimenter%27%3A+Sundance+Review&amp;rft.date=January+28%2C+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.hollywoodreporter.com%2Freview%2Fexperimenter-sundance-review-768093&amp;rft.pub=The+Hollywood+Reporter&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Milgram_experiment&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin" style="">
+<ul>
+<li><span class="citation book">Blass, Thomas (2004). <i>The Man Who Shocked the World: The Life and Legacy of Stanley Milgram</i>. <a href="/wiki/Basic_Books" title="Basic Books">Basic Books</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7382-0399-8" title="Special:BookSources/0-7382-0399-8">0-7382-0399-8</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.au=Blass%2C+Thomas&amp;rft.aulast=Blass%2C+Thomas&amp;rft.btitle=The+Man+Who+Shocked+the+World%3A+The+Life+and+Legacy+of+Stanley+Milgram&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=0-7382-0399-8&amp;rft.pub=Basic+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Levine, Robert V. (July–August 2004). <a rel="nofollow" class="external text" href="http://www.americanscientist.org/bookshelf/id.2948,content.true,css.print/bookshelf.aspx">"Milgram's Progress"</a>. <i><a href="/wiki/American_Scientist" title="American Scientist">American Scientist</a></i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.atitle=Milgram%27s+Progress&amp;rft.aulast=Levine%2C+Robert+V.&amp;rft.au=Levine%2C+Robert+V.&amp;rft.date=July-August+2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.americanscientist.org%2Fbookshelf%2Fid.2948%2Ccontent.true%2Ccss.print%2Fbookshelf.aspx&amp;rft.jtitle=American+Scientist&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> Book review of <i>The Man Who Shocked the World</i></li>
+<li><span class="citation book">Miller, Arthur G. (1986). <i>The obedience experiments: A case study of controversy in social science</i>. New York: <a href="/wiki/Praeger_Publishers" title="Praeger Publishers" class="mw-redirect">Praeger</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.aulast=Miller%2C+Arthur+G.&amp;rft.au=Miller%2C+Arthur+G.&amp;rft.btitle=The+obedience+experiments%3A+A+case+study+of+controversy+in+social+science&amp;rft.date=1986&amp;rft.genre=book&amp;rft.place=New+York&amp;rft.pub=Praeger&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Parker, Ian (Autumn 2000). <a rel="nofollow" class="external text" href="http://www.granta.com/Magazine/71">"Obedience"</a>. <i><a href="/wiki/Granta" title="Granta">Granta</a></i> (71).</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.atitle=Obedience&amp;rft.aulast=Parker%2C+Ian&amp;rft.au=Parker%2C+Ian&amp;rft.date=Autumn+2000&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.granta.com%2FMagazine%2F71&amp;rft.issue=71&amp;rft.jtitle=Granta&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> Includes an interview with one of Milgram's volunteers, and discusses modern interest in, and scepticism about, the experiment.</li>
+<li><span class="citation journal">Tarnow, Eugen. <a rel="nofollow" class="external text" href="http://cogprints.org/4566/">"Towards the Zero Accident Goal: Assisting the First Officer Monitor and Challenge Captain Errors"</a>. <i>Journal of Aviation/Aerospace Education and Research</i> <b>10</b> (1).</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.atitle=Towards+the+Zero+Accident+Goal%3A+Assisting+the+First+Officer+Monitor+and+Challenge+Captain+Errors&amp;rft.aulast=Tarnow%2C+Eugen&amp;rft.au=Tarnow%2C+Eugen&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fcogprints.org%2F4566%2F&amp;rft.issue=1&amp;rft.jtitle=Journal+of+Aviation%2FAerospace+Education+and+Research&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Tumanov, Vladimir (2007). <a rel="nofollow" class="external text" href="http://vladarticles.yolasite.com/resources/Stanley%20Milgram%20and%20Siegfried%20Lenz.pdf">"Stanley Milgram and Siegfried Lenz: An Analysis of <i>Deutschstunde</i> in the Framework of Social Psychology"</a> <span style="font-size:85%;">(PDF)</span>. <i>Neophilologus: International Journal of Modern and Mediaeval Language and Literature</i> <b>91</b> (1): 135–148. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs11061-005-4254-x">10.1007/s11061-005-4254-x</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.atitle=Stanley+Milgram+and+Siegfried+Lenz%3A+An+Analysis+of+Deutschstunde+in+the+Framework+of+Social+Psychology&amp;rft.aufirst=Vladimir&amp;rft.aulast=Tumanov&amp;rft.au=Tumanov%2C+Vladimir&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fvladarticles.yolasite.com%2Fresources%2FStanley%2520Milgram%2520and%2520Siegfried%2520Lenz.pdf&amp;rft_id=info%3Adoi%2F10.1007%2Fs11061-005-4254-x&amp;rft.issue=1&amp;rft.jtitle=Neophilologus%3A+International+Journal+of+Modern+and+Mediaeval+Language+and+Literature&amp;rft.pages=135-148&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=91" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation web">Wu, William (June 2003). <a rel="nofollow" class="external text" href="http://www.ocf.berkeley.edu/~wwu/psychology/compliance.shtml">"Compliance: The Milgram Experiment"</a>. <i>Practical Psychology</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.atitle=Compliance%3A+The+Milgram+Experiment&amp;rft.aulast=Wu%2C+William&amp;rft.au=Wu%2C+William&amp;rft.date=June+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ocf.berkeley.edu%2F~wwu%2Fpsychology%2Fcompliance.shtml&amp;rft.jtitle=Practical+Psychology&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Milgram_experiment&amp;action=edit&amp;section=17" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="citation book">Perry, Gina (2013). <i>Behind the shock machine&#160;: the untold story of the notorious Milgram psychology experiments</i> (Rev. edition. ed.). New York [etc.]: The New Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-59558-921-X" title="Special:BookSources/1-59558-921-X">1-59558-921-X</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.aufirst=Gina&amp;rft.aulast=Perry&amp;rft.au=Perry%2C+Gina&amp;rft.btitle=Behind+the+shock+machine+%3A+the+untold+story+of+the+notorious+Milgram+psychology+experiments&amp;rft.date=2013&amp;rft.edition=Rev.+edition.&amp;rft.genre=book&amp;rft.isbn=1-59558-921-X&amp;rft.place=New+York+%5Betc.%5D&amp;rft.pub=The+New+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Milgram_experiment&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Milgram_experiment" class="extiw" title="commons:Category:Milgram experiment">Milgram experiment</a></b></i>.</td>
+</tr>
+</table>
+<div id="section_SpokenWikipedia" class="infobox sisterproject plainlinks haudio">
+<div style="text-align: center; white-space:nowrap"><b>Listen to this article</b> (<a href="/wiki/File:Milgram_experiment.ogg" title="File:Milgram experiment.ogg">info/dl</a>)
+<div class="center">
+<div class="floatnone">
+<div class="mediaContainer" style="position:relative;display:block;width:200px"><audio id="mwe_player_2" style="width:200px" poster="https://en.wikipedia.org/static/1.26wmf16/resources/assets/file-type-icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="1037.8390929705" data-startoffset="0" data-mwtitle="Milgram_experiment.ogg" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/1/17/Milgram_experiment.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (108 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="107548"></source>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/commons/1/17/Milgram_experiment.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</div>
+</div>
+</div>
+<p><br /></p>
+<div style="float: left; margin-left: 5px;">
+<div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/45px-Sound-icon.svg.png" title="Spoken Wikipedia" width="45" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/68px-Sound-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/90px-Sound-icon.svg.png 2x" data-file-width="128" data-file-height="96" /></div>
+</div>
+<div style="font-size: xx-small; line-height: 1.6em; margin-left: 60px;">This audio file was created from a revision of the "<span class="fn">Milgram experiment</span>" article dated 2005-04-12, and does not reflect subsequent edits to the article. (<a href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help">Audio help</a>)</div>
+<div style="text-align: center; clear: both"><b><a href="/wiki/Wikipedia:Spoken_articles" title="Wikipedia:Spoken articles">More spoken articles</a></b></div>
+</div>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080215010353/http://www.hippolytic.com/blog/2007/01/stanley_milgram_redux_1.php">Stanley Milgram Redux, TBIYTB</a> — Description of a 2007 iteration of Milgram's experiment at Yale University, published in <i>The Yale Hippolytic</i>, Jan. 22, 2007. (<a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.posbase.uib.no/posbase/Presentasjoner/P_Milgram%20(1963).ppt">A Powerpoint presentation describing Milgram's experiment</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.conscience-vraie.info/stanley-milgram.htm">Synthesis of book</a> A faithful synthesis of <i>Obedience to Authority</i>&#160;– Stanley Milgram</li>
+<li><a rel="nofollow" class="external text" href="http://knol.google.com/k/obedience-to-authority#"><i>Obedience To Authority</i></a> — A commentary extracted from <i>50 Psychology Classics</i> (2007)</li>
+<li><a rel="nofollow" class="external text" href="http://www.jewishcurrents.org/2004-jan-dimow.htm">A personal account of a participant in the Milgram obedience experiments</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.holah.karoo.net/milgramstudy.htm">Summary and evaluation of the 1963 obedience experiment</a></li>
+<li><a rel="nofollow" class="external text" href="http://abcnews.go.com/Primetime/story?id=2765416&amp;page=1">The Science of Evil</a> from ABC News <i>Primetime</i></li>
+<li><a rel="nofollow" class="external text" href="http://www.webcitation.org/5lLKy3jno">The Lucifer Effect: How Good People Turn Evil</a> — Video lecture of Philip Zimbardo talking about the Milgram Experiment.</li>
+<li><span class="citation journal">Zimbardo, Philip (2007). <a rel="nofollow" class="external text" href="http://www.yalealumnimagazine.com/issues/2007_01/milgram.html">"When Good People Do Evil"</a>. <i>Yale Alumni Magazine</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.atitle=When+Good+People+Do+Evil&amp;rft.aulast=Zimbardo%2C+Philip&amp;rft.au=Zimbardo%2C+Philip&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.yalealumnimagazine.com%2Fissues%2F2007_01%2Fmilgram.html&amp;rft.jtitle=Yale+Alumni+Magazine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> — Article on the 45th anniversary of the Milgram experiment.</li>
+<li><span class="citation journal">Riggenbach, Jeff (August 3, 2010). <a rel="nofollow" class="external text" href="http://mises.org/daily/4675/The-Milgram-Experiment">"The Milgram Experiment"</a>. <i>Mises Daily</i> (<a href="/wiki/Ludwig_von_Mises_Institute" title="Ludwig von Mises Institute">Ludwig von Mises Institute</a>).</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMilgram+experiment&amp;rft.atitle=The+Milgram+Experiment&amp;rft.aufirst=Jeff&amp;rft.aulast=Riggenbach&amp;rft.au=Riggenbach%2C+Jeff&amp;rft.date=August+3%2C+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fmises.org%2Fdaily%2F4675%2FThe-Milgram-Experiment&amp;rft.jtitle=Mises+Daily&amp;rft.pub=Ludwig+von+Mises+Institute&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a href="#CITEREFMilgram1974">Milgram 1974</a>, <a rel="nofollow" class="external text" href="http://www.panarchy.org/milgram/obedience.html">Chapter 1 and 15</a></li>
+<li><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/health/7791278.stm">People 'still willing to torture'</a> BBC</li>
+<li><a rel="nofollow" class="external text" href="http://www.abc.net.au/rn/radioeye/stories/2008/2358103.htm"><i>Beyond the Shock Machine</i></a>, a radio documentary with the people who took part in the experiment. Includes original audio recordings of the experiment</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Psychology" title="Template:Psychology"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Psychology" title="Template talk:Psychology"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Psychology&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Psychology" title="Psychology">Psychology</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/History_of_psychology" title="History of psychology">History</a></li>
+<li><a href="/wiki/Portal:Psychology" title="Portal:Psychology">Portal</a></li>
+<li><a href="/wiki/Psychologist" title="Psychologist">Psychologist</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Basic_science_(psychology)" title="Basic science (psychology)">Basic psychology</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abnormal_psychology" title="Abnormal psychology">Abnormal</a></li>
+<li><a href="/wiki/Affective_science" title="Affective science">Affective science</a></li>
+<li><a href="/wiki/Affective_neuroscience" title="Affective neuroscience">Affective neuroscience</a></li>
+<li><a href="/wiki/Behaviorism" title="Behaviorism">Behaviorism</a></li>
+<li><a href="/wiki/Behavioral_neuroscience" title="Behavioral neuroscience">Behavioral neuroscience</a></li>
+<li><a href="/wiki/Cognitive_psychology" title="Cognitive psychology">Cognitive</a></li>
+<li><a href="/wiki/Cognitive_neuroscience" title="Cognitive neuroscience">Cognitive neuroscience</a></li>
+<li><a href="/wiki/Comparative_psychology" title="Comparative psychology">Comparative</a></li>
+<li><a href="/wiki/Cross-cultural_psychology" title="Cross-cultural psychology">Cross-cultural</a></li>
+<li><a href="/wiki/Cultural_psychology" title="Cultural psychology">Cultural</a></li>
+<li><a href="/wiki/Developmental_psychology" title="Developmental psychology">Developmental</a></li>
+<li><a href="/wiki/Differential_psychology" title="Differential psychology">Differential</a></li>
+<li><a href="/wiki/Evolutionary_psychology" title="Evolutionary psychology">Evolutionary</a></li>
+<li><a href="/wiki/Experimental_psychology" title="Experimental psychology">Experimental</a></li>
+<li><a href="/wiki/Intelligence" title="Intelligence">Intelligence</a></li>
+<li><a href="/wiki/Mathematical_psychology" title="Mathematical psychology">Mathematical</a></li>
+<li><a href="/wiki/Neuropsychology" title="Neuropsychology">Neuropsychology</a></li>
+<li><a href="/wiki/Personality_psychology" title="Personality psychology">Personality</a></li>
+<li><a href="/wiki/Psycholinguistics" title="Psycholinguistics">Psycholinguistics</a></li>
+<li><a href="/wiki/Psychophysics" title="Psychophysics">Psychophysics</a></li>
+<li><a href="/wiki/Psychophysiology" title="Psychophysiology">Psychophysiology</a></li>
+<li><a href="/wiki/Social_psychology" title="Social psychology">Social</a></li>
+<li><a href="/wiki/Theoretical_psychology" title="Theoretical psychology">Theoretical</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Applied_psychology" title="Applied psychology">Applied psychology</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anomalistic_psychology" title="Anomalistic psychology">Anomalistic</a></li>
+<li><a href="/wiki/Applied_behavior_analysis" title="Applied behavior analysis">Applied behavior analysis</a></li>
+<li><a href="/wiki/Psychological_testing" title="Psychological testing">Assessment</a></li>
+<li><a href="/wiki/Clinical_psychology" title="Clinical psychology">Clinical</a></li>
+<li><a href="/wiki/Community_psychology" title="Community psychology">Community</a></li>
+<li><a href="/wiki/Consumer_behaviour" title="Consumer behaviour">Consumer</a></li>
+<li><a href="/wiki/Counseling_psychology" title="Counseling psychology">Counseling</a></li>
+<li><a href="/wiki/Educational_psychology" title="Educational psychology">Educational</a></li>
+<li><a href="/wiki/Human_factors_and_ergonomics" title="Human factors and ergonomics">Ergonomics</a></li>
+<li><a href="/wiki/Feminist_psychology" title="Feminist psychology">Feminist</a></li>
+<li><a href="/wiki/Forensic_psychology" title="Forensic psychology">Forensic</a></li>
+<li><a href="/wiki/Health_psychology" title="Health psychology">Health</a></li>
+<li><a href="/wiki/Industrial_and_organizational_psychology" title="Industrial and organizational psychology">Industrial and organizational</a></li>
+<li><a href="/wiki/Legal_psychology" title="Legal psychology">Legal</a></li>
+<li><a href="/wiki/Media_psychology" title="Media psychology">Media</a></li>
+<li><a href="/wiki/Military_psychology" title="Military psychology">Military</a></li>
+<li><a href="/wiki/Music_psychology" title="Music psychology">Music</a></li>
+<li><a href="/wiki/Occupational_health_psychology" title="Occupational health psychology">Occupational health</a></li>
+<li><a href="/wiki/Pastoral_psychology" title="Pastoral psychology" class="mw-redirect">Pastoral</a></li>
+<li><a href="/wiki/Political_psychology" title="Political psychology">Political</a></li>
+<li><a href="/wiki/Psychometrics" title="Psychometrics">Psychometrics</a></li>
+<li><a href="/wiki/Psychology_of_religion" title="Psychology of religion">Religion</a></li>
+<li><a href="/wiki/School_psychology" title="School psychology">School</a></li>
+<li><a href="/wiki/Sport_psychology" title="Sport psychology">Sport and exercise</a></li>
+<li><a href="/wiki/Suicidology" title="Suicidology">Suicidology</a></li>
+<li><a href="/wiki/Systems_psychology" title="Systems psychology">Systems</a></li>
+<li><a href="/wiki/Traffic_psychology" title="Traffic psychology">Traffic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_psychological_research_methods" title="List of psychological research methods">Methodologies</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Animal_testing" title="Animal testing">Animal testing</a></li>
+<li><a href="/wiki/Archival_research" title="Archival research">Archival research</a></li>
+<li><a href="/wiki/Behavioural_genetics" title="Behavioural genetics">Behavior genetics</a></li>
+<li><a href="/wiki/Behavioral_epigenetics" title="Behavioral epigenetics">Behavior epigenetics</a></li>
+<li><a href="/wiki/Case_study" title="Case study">Case study</a></li>
+<li><a href="/wiki/Content_analysis" title="Content analysis">Content analysis</a></li>
+<li><a href="/wiki/Experimental_psychology" title="Experimental psychology">Experiments</a></li>
+<li><a href="/wiki/Human_subject_research" title="Human subject research">Human subject research</a></li>
+<li><a href="/wiki/Interview_(research)" title="Interview (research)" class="mw-redirect">Interviews</a></li>
+<li><a href="/wiki/Mindfulness_(psychology)" title="Mindfulness (psychology)" class="mw-redirect">Mindfulness</a></li>
+<li><a href="/wiki/Neuroimaging" title="Neuroimaging">Neuroimaging</a></li>
+<li><a href="/wiki/Observation" title="Observation">Observation</a></li>
+<li><a href="/wiki/Qualitative_psychological_research" title="Qualitative psychological research">Qualitative research</a></li>
+<li><a href="/wiki/Quantitative_psychological_research" title="Quantitative psychological research">Quantitative research</a></li>
+<li><a href="/wiki/Self-report_inventory" title="Self-report inventory">Self-report inventory</a></li>
+<li><a href="/wiki/Statistical_survey" title="Statistical survey" class="mw-redirect">Statistical surveys</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Orientations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adlerian_psychology" title="Adlerian psychology" class="mw-redirect">Adlerian</a></li>
+<li><a href="/wiki/Analytical_psychology" title="Analytical psychology">Analytical</a></li>
+<li><a href="/wiki/Behaviorism" title="Behaviorism">Behaviorism</a></li>
+<li><a href="/wiki/Cognitive_behavioral_therapy" title="Cognitive behavioral therapy">Cognitive behavioral therapy</a></li>
+<li><a href="/wiki/Cognitivism_(psychology)" title="Cognitivism (psychology)">Cognitivism</a></li>
+<li><a href="/wiki/Descriptive_psychology" title="Descriptive psychology">Descriptive</a></li>
+<li><a href="/wiki/Ecological_systems_theory" title="Ecological systems theory">Ecological systems theory</a></li>
+<li><a href="/wiki/Emotionally_focused_therapy" title="Emotionally focused therapy">Emotionally focused therapy</a></li>
+<li><a href="/wiki/Existential_therapy" title="Existential therapy">Existential therapy</a></li>
+<li><a href="/wiki/Family_therapy" title="Family therapy">Family therapy</a></li>
+<li><a href="/wiki/Feminist_therapy" title="Feminist therapy">Feminist therapy</a></li>
+<li><a href="/wiki/Gestalt_psychology" title="Gestalt psychology">Gestalt psychology</a></li>
+<li><a href="/wiki/Humanistic_psychology" title="Humanistic psychology">Humanistic</a></li>
+<li><a href="/wiki/Logotherapy" title="Logotherapy">Logotherapy</a></li>
+<li><a href="/wiki/Narrative_therapy" title="Narrative therapy">Narrative therapy</a></li>
+<li><a href="/wiki/Philosophy_of_psychology" title="Philosophy of psychology">Philosophy</a></li>
+<li><a href="/wiki/Psychoanalysis" title="Psychoanalysis">Psychoanalysis</a></li>
+<li><a href="/wiki/Psychoanalytic_theory" title="Psychoanalytic theory">Psychoanalytic theory</a></li>
+<li><a href="/wiki/Psychodrama" title="Psychodrama">Psychodrama</a></li>
+<li><a href="/wiki/Psychodynamic_psychotherapy" title="Psychodynamic psychotherapy">Psychodynamic psychotherapy</a></li>
+<li><a href="/wiki/Rational_emotive_behavior_therapy" title="Rational emotive behavior therapy">Rational emotive behavior therapy</a></li>
+<li><a href="/wiki/Transpersonal_psychology" title="Transpersonal psychology">Transpersonal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_psychologists" title="List of psychologists">Notable<br />
+psychologists</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alfred_Adler" title="Alfred Adler">Alfred Adler</a></li>
+<li><a href="/wiki/Gordon_Allport" title="Gordon Allport">Gordon Allport</a></li>
+<li><a href="/wiki/Albert_Bandura" title="Albert Bandura">Albert Bandura</a></li>
+<li><a href="/wiki/Aaron_T._Beck" title="Aaron T. Beck">Aaron Beck</a></li>
+<li><a href="/wiki/John_Bowlby" title="John Bowlby">John Bowlby</a></li>
+<li><a href="/wiki/Raymond_Cattell" title="Raymond Cattell">Raymond Cattell</a></li>
+<li><a href="/wiki/Kenneth_and_Mamie_Clark" title="Kenneth and Mamie Clark">Kenneth and Mamie Clark</a></li>
+<li><a href="/wiki/Albert_Ellis" title="Albert Ellis">Albert Ellis</a></li>
+<li><a href="/wiki/Erik_Erikson" title="Erik Erikson">Erik Erikson</a></li>
+<li><a href="/wiki/Hans_Eysenck" title="Hans Eysenck">Hans Eysenck</a></li>
+<li><a href="/wiki/Leon_Festinger" title="Leon Festinger">Leon Festinger</a></li>
+<li><a href="/wiki/Viktor_Frankl" title="Viktor Frankl">Viktor Frankl</a></li>
+<li><a href="/wiki/Sigmund_Freud" title="Sigmund Freud">Sigmund Freud</a></li>
+<li><a href="/wiki/Harry_Harlow" title="Harry Harlow">Harry Harlow</a></li>
+<li><a href="/wiki/Donald_O._Hebb" title="Donald O. Hebb">Donald O. Hebb</a></li>
+<li><a href="/wiki/Clark_L._Hull" title="Clark L. Hull">Clark L. Hull</a></li>
+<li><a href="/wiki/William_James" title="William James">William James</a></li>
+<li><a href="/wiki/Carl_Jung" title="Carl Jung">Carl Jung</a></li>
+<li><a href="/wiki/Jerome_Kagan" title="Jerome Kagan">Jerome Kagan</a></li>
+<li><a href="/wiki/Kurt_Lewin" title="Kurt Lewin">Kurt Lewin</a></li>
+<li><a href="/wiki/Ole_Ivar_Lovaas" title="Ole Ivar Lovaas">Ivar Lovaas</a></li>
+<li><a href="/wiki/Abraham_Maslow" title="Abraham Maslow">Abraham Maslow</a></li>
+<li><a href="/wiki/David_McClelland" title="David McClelland">David McClelland</a></li>
+<li><a href="/wiki/George_Armitage_Miller" title="George Armitage Miller">George A. Miller</a></li>
+<li><a href="/wiki/Neal_E._Miller" title="Neal E. Miller">Neal E. Miller</a></li>
+<li><a href="/wiki/Walter_Mischel" title="Walter Mischel">Walter Mischel</a></li>
+<li><a href="/wiki/Jacob_Levy_Moreno" title="Jacob Levy Moreno" class="mw-redirect">Jacob Levy Moreno</a></li>
+<li><a href="/wiki/Ivan_Pavlov" title="Ivan Pavlov">Ivan Pavlov</a></li>
+<li><a href="/wiki/Jean_Piaget" title="Jean Piaget">Jean Piaget</a></li>
+<li><a href="/wiki/Carl_Rogers" title="Carl Rogers">Carl Rogers</a></li>
+<li><a href="/wiki/Stanley_Schachter" title="Stanley Schachter">Stanley Schachter</a></li>
+<li><a href="/wiki/B._F._Skinner" title="B. F. Skinner">B. F. Skinner</a></li>
+<li><a href="/wiki/Edward_Thorndike" title="Edward Thorndike">Edward Thorndike</a></li>
+<li><a href="/wiki/John_B._Watson" title="John B. Watson">John B. Watson</a></li>
+<li><a href="/wiki/Wilhelm_Wundt" title="Wilhelm Wundt">Wilhelm Wundt</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Psychology_lists" title="Category:Psychology lists">Lists</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_counseling_topics" title="List of counseling topics">Counseling topics</a></li>
+<li><a href="/wiki/List_of_psychology_disciplines" title="List of psychology disciplines">Disciplines</a></li>
+<li><a href="/wiki/List_of_important_publications_in_psychology" title="List of important publications in psychology">Important publications</a></li>
+<li><a href="/wiki/List_of_psychology_organizations" title="List of psychology organizations">Organizations</a></li>
+<li><a href="/wiki/Outline_of_psychology" title="Outline of psychology">Outline</a></li>
+<li><a href="/wiki/List_of_psychologists" title="List of psychologists">Psychologists</a></li>
+<li><a href="/wiki/List_of_psychotherapies" title="List of psychotherapies">Psychotherapies</a></li>
+<li><a href="/wiki/List_of_psychological_research_methods" title="List of psychological research methods">Research methods</a></li>
+<li><a href="/wiki/List_of_psychological_schools" title="List of psychological schools">Schools of thought</a></li>
+<li><a href="/wiki/Timeline_of_psychology" title="Timeline of psychology">Timeline</a></li>
+<li><a href="/wiki/Index_of_psychology_articles" title="Index of psychology articles">Topics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="//en.wiktionary.org/wiki/psychology" class="extiw" title="wiktionary:psychology">Wiktionary definition</a></li>
+<li><a href="//en.wiktionary.org/wiki/Category:en:Psychology" class="extiw" title="wiktionary:Category:en:Psychology">Wiktionary category</a></li>
+<li><a href="//en.wikisource.org/wiki/Category:Psychology" class="extiw" title="wikisource:Category:Psychology">Wikisource</a></li>
+<li><a href="//commons.wikimedia.org/wiki/category:Psychology" class="extiw" title="commons:category:Psychology">Wikimedia Commons</a></li>
+<li><a href="//en.wikiquote.org/wiki/Psychology" class="extiw" title="wikiquote:Psychology">Wikiquote</a></li>
+<li><a href="//en.wikinews.org/wiki/Special:Search/Psychology" class="extiw" title="wikinews:Special:Search/Psychology">Wikinews</a></li>
+<li><a href="//en.wikibooks.org/wiki/Psychology" class="extiw" title="wikibooks:Psychology">Wikibooks</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Conformity" title="Template:Conformity"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Conformity" title="Template talk:Conformity"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Conformity&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Conformity" title="Conformity">Conformity</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Group pressures</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Groupthink" title="Groupthink">Groupthink</a></li>
+<li><a href="/wiki/Peer_pressure" title="Peer pressure">Peer pressure</a></li>
+<li><a href="/wiki/Socialization" title="Socialization">Socialization</a></li>
+<li><a href="/wiki/Herd_mentality" title="Herd mentality">Herd mentality</a></li>
+<li><a href="/wiki/Indoctrination" title="Indoctrination">Indoctrination</a></li>
+<li><a href="/wiki/Normative_social_influence" title="Normative social influence">Normative social influence</a></li>
+<li><a href="/wiki/Social_influence" title="Social influence">Social influence</a></li>
+<li><a href="/wiki/Normalization_(sociology)" title="Normalization (sociology)">Normalization</a></li>
+<li><a href="/wiki/Spiral_of_silence" title="Spiral of silence">Spiral of silence</a></li>
+<li><a href="/wiki/Tyranny_of_the_majority" title="Tyranny of the majority">Tyranny of the majority</a></li>
+<li><a href="/wiki/Consensus_reality" title="Consensus reality">Consensus reality</a></li>
+<li><a href="/wiki/Peer_review" title="Peer review">Peer review</a></li>
+<li><a href="/wiki/Ostracism" title="Ostracism">Ostracism</a></li>
+<li><a href="/wiki/Bullying" title="Bullying">Bullying</a></li>
+<li><a href="/wiki/Hazing" title="Hazing">Hazing</a></li>
+<li><a href="/wiki/Teasing" title="Teasing">Teasing</a></li>
+<li><a href="/wiki/Scapegoating" title="Scapegoating">Scapegoating</a></li>
+<li><a href="/wiki/Mobbing" title="Mobbing">Mobbing</a></li>
+<li><a href="/wiki/Panopticon" title="Panopticon">Panopticon</a></li>
+<li><a href="/wiki/Nationalism" title="Nationalism">Nationalism</a></li>
+<li><a href="/wiki/Patriotism" title="Patriotism">Patriotism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Conforming oneself</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Internalisation_(sociology)" title="Internalisation (sociology)">Internalisation</a></li>
+<li><a href="/wiki/Compliance_(psychology)" title="Compliance (psychology)">Compliance</a></li>
+<li><a href="/wiki/Countersignaling" title="Countersignaling">Countersignaling</a></li>
+<li><a href="/wiki/Social_proof" title="Social proof">Social proof</a></li>
+<li><a href="/wiki/Obedience_(human_behavior)" title="Obedience (human behavior)">Obedience</a></li>
+<li><a href="/wiki/Herd_behavior" title="Herd behavior">Herd behavior</a></li>
+<li><a href="/wiki/Authoritarian_personality" title="Authoritarian personality">Authoritarian personality</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Experiments</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Asch_conformity_experiments" title="Asch conformity experiments">Asch conformity experiments</a></li>
+<li><strong class="selflink">Milgram experiment</strong></li>
+<li><a href="/wiki/Stanford_prison_experiment" title="Stanford prison experiment">Stanford prison experiment</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Counter</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Eclecticism" title="Eclecticism">Eclecticism</a></li>
+<li><a href="/wiki/Eccentricity_(behavior)" title="Eccentricity (behavior)">Eccentricity</a></li>
+<li><a href="/wiki/Idiosyncrasy" title="Idiosyncrasy">Idiosyncrasy</a></li>
+<li><a href="/wiki/Cosmopolitanism" title="Cosmopolitanism">Cosmopolitanism</a></li>
+<li><a href="/wiki/Antisocial_tendencies" title="Antisocial tendencies" class="mw-redirect">Antisocial tendencies</a></li>
+<li><a href="/wiki/Ritual_clown" title="Ritual clown">Ritual clown</a></li>
+<li><a href="/wiki/Satire" title="Satire">Satire</a></li>
+<li><a href="/wiki/Culture_jamming" title="Culture jamming">Culture jamming</a></li>
+<li><a href="/wiki/Deviance_(sociology)" title="Deviance (sociology)">Deviance</a></li>
+<li><a href="/wiki/Civil_disobedience" title="Civil disobedience">Civil disobedience</a></li>
+<li><a href="/wiki/Individualism" title="Individualism">Individualism</a></li>
+<li><a href="/wiki/Rebellion" title="Rebellion">Rebellion</a></li>
+<li><a href="/wiki/Shock_value" title="Shock value">Shock value</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4299996-0">4299996-0</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1110
+CPU time usage: 0.698 seconds
+Real time usage: 0.809 seconds
+Preprocessor visited node count: 2926/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 108929/2097152 bytes
+Template argument size: 5949/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.225/10.000 seconds
+Lua memory usage: 3.51 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  615.778      1 - -total
+ 46.70%  287.574      1 - Template:Reflist
+ 14.06%   86.568     14 - Template:Cite_journal
+  9.87%   60.779     15 - Template:Cite_web
+  6.95%   42.781      2 - Template:Fix
+  6.92%   42.614      1 - Template:Citation_needed
+  6.45%   39.741      5 - Template:Category_handler
+  5.04%   31.027      1 - Template:Commons_category
+  4.84%   29.828      7 - Template:Cite_book
+  4.74%   29.182      2 - Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:19009-0!*!0!!en!4!* and timestamp 20150805130921 and revision id 673839112
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Milgram_experiment&amp;oldid=673839112">https://en.wikipedia.org/w/index.php?title=Milgram_experiment&amp;oldid=673839112</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Conformity" title="Category:Conformity">Conformity</a></li><li><a href="/wiki/Category:Group_processes" title="Category:Group processes">Group processes</a></li><li><a href="/wiki/Category:History_of_psychology" title="Category:History of psychology">History of psychology</a></li><li><a href="/wiki/Category:Human_subject_research_in_the_United_States" title="Category:Human subject research in the United States">Human subject research in the United States</a></li><li><a href="/wiki/Category:Medical_ethics" title="Category:Medical ethics">Medical ethics</a></li><li><a href="/wiki/Category:Research_ethics" title="Category:Research ethics">Research ethics</a></li><li><a href="/wiki/Category:Social_psychology" title="Category:Social psychology">Social psychology</a></li><li><a href="/wiki/Category:Psychology_experiments" title="Category:Psychology experiments">Psychology experiments</a></li><li><a href="/wiki/Category:Torture" title="Category:Torture">Torture</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">CS1 maint: Explicit use of et al.</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_October_2010" title="Category:Articles with dead external links from October 2010">Articles with dead external links from October 2010</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2014" title="Category:Articles with unsourced statements from March 2014">Articles with unsourced statements from March 2014</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Spoken_articles" title="Category:Spoken articles">Spoken articles</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Milgram+experiment&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Milgram+experiment" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Milgram_experiment"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Milgram_experiment"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Milgram_experiment" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Milgram_experiment&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Milgram_experiment&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Milgram_experiment" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Milgram_experiment" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Milgram_experiment&amp;oldid=673839112" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Milgram_experiment&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q191474" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Milgram_experiment&amp;id=673839112" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Milgram+experiment">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Milgram+experiment&amp;oldid=673839112&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Milgram_experiment&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1_%D9%85%D9%84%D8%BA%D8%B1%D8%A7%D9%85" title="اختبار ملغرام – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="//az.wikipedia.org/wiki/Milgram_eksperimenti" title="Milgram eksperimenti – Azerbaijani" lang="az" hreflang="az">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE" title="মিলগ্রামের পরীক্ষা – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%AD%D0%BA%D1%81%D0%BF%D1%8D%D1%80%D1%8B%D0%BC%D1%8D%D0%BD%D1%82_%D0%9C%D1%96%D0%BB%D0%B3%D1%80%D1%8D%D0%BC%D0%B0" title="Экспэрымэнт Мілгрэма – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%95%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82_%D0%BD%D0%B0_%D0%9C%D0%B8%D0%BB%D0%B3%D1%80%D0%B0%D0%BC" title="Експеримент на Милграм – Bulgarian" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Experiment_de_Milgram" title="Experiment de Milgram – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Milgram%C5%AFv_experiment" title="Milgramův experiment – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Milgram-eksperimentet" title="Milgram-eksperimentet – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de badge-Q17437796 badge-featuredarticle" title="featured article"><a href="//de.wikipedia.org/wiki/Milgram-Experiment" title="Milgram-Experiment – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Experimento_de_Milgram" title="Experimento de Milgram – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Milgram-eksperimento" title="Milgram-eksperimento – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4_%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D9%85" title="آزمایش میلگرم – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Exp%C3%A9rience_de_Milgram" title="Expérience de Milgram – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%B0%80%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%97%98" title="밀그램 실험 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Milgramov_pokus" title="Milgramov pokus – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Percobaan_Milgram" title="Percobaan Milgram – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="//is.wikipedia.org/wiki/Milgramtilraunirnar" title="Milgramtilraunirnar – Icelandic" lang="is" hreflang="is">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Esperimento_di_Milgram" title="Esperimento di Milgram – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%94%D7%A0%D7%99%D7%A1%D7%95%D7%99_%D7%A9%D7%9C_%D7%9E%D7%99%D7%9C%D7%92%D7%A8%D7%9D" title="הניסוי של מילגרם – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/Milgramo_eksperimentas" title="Milgramo eksperimentas – Lithuanian" lang="lt" hreflang="lt">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Milgram-k%C3%ADs%C3%A9rlet" title="Milgram-kísérlet – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="//ms.wikipedia.org/wiki/Kajian_Milgram" title="Kajian Milgram – Malay" lang="ms" hreflang="ms">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Experiment_van_Milgram" title="Experiment van Milgram – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AB%E3%82%B0%E3%83%A9%E3%83%A0%E5%AE%9F%E9%A8%93" title="ミルグラム実験 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Milgram-eksperimentet" title="Milgram-eksperimentet – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="//nn.wikipedia.org/wiki/Milgram-eksperimentet" title="Milgram-eksperimentet – Norwegian Nynorsk" lang="nn" hreflang="nn">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Eksperyment_Milgrama" title="Eksperyment Milgrama – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Experi%C3%AAncia_de_Milgram" title="Experiência de Milgram – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Experimentul_Milgram" title="Experimentul Milgram – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-rm"><a href="//rm.wikipedia.org/wiki/Experiment_da_Milgram" title="Experiment da Milgram – Romansh" lang="rm" hreflang="rm">Rumantsch</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82_%D0%9C%D0%B8%D0%BB%D0%B3%D1%80%D1%8D%D0%BC%D0%B0" title="Эксперимент Милгрэма – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Milgram_experiment" title="Milgram experiment – Simple English" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Milgramov_experiment" title="Milgramov experiment – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Milgramov_eksperiment" title="Milgramov eksperiment – Slovenian" lang="sl" hreflang="sl">Slovenščina</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Milgramov_eksperiment" title="Milgramov eksperiment – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Milgramin_tottelevaisuuskoe" title="Milgramin tottelevaisuuskoe – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Milgrams_lydnadsexperiment" title="Milgrams lydnadsexperiment – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%94%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1" title="การทดลองของมิลแกรม – Thai" lang="th" hreflang="th">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Milgram_deneyi" title="Milgram deneyi – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%95%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82_%D0%9C%D1%96%D0%BB%D2%91%D1%80%D0%B5%D0%BC%D0%B0" title="Експеримент Мілґрема – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="//zh-yue.wikipedia.org/wiki/%E7%B1%B3%E7%88%BE%E6%A0%BC%E5%80%AB%E9%9B%BB%E6%93%8A%E5%AF%A6%E9%A9%97" title="米爾格倫電擊實驗 – Cantonese" lang="zh-yue" hreflang="zh-yue">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%B1%B3%E7%88%BE%E6%A0%BC%E5%80%AB%E5%AF%A6%E9%A9%97" title="米爾格倫實驗 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q191474#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 30 July 2015, at 20:46.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Milgram_experiment&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="https://en.wikipedia.org/static/1.26wmf16/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="https://en.wikipedia.org/static/1.26wmf16/resources/assets/poweredby_mediawiki_132x47.png 1.5x, https://en.wikipedia.org/static/1.26wmf16/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","mw.PopUpMediaTransform":"loading","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"https://en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=mw.PopUpMediaTransform\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<link rel="stylesheet" href="https://en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"https://en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1173"});
+}</script>
+	</body>
+</html>

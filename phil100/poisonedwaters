@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+	<title>Poisoned Waters | FRONTLINE | PBS</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="/wgbh/pages/frontline/css/2011nav.css" type="text/css" media="screen,print" />
+<link rel="stylesheet" href="/wgbh/pages/frontline/css/video_par.css" type="text/css" media="screen" />
+<script type="text/javascript" src="/wgbh/pages/frontline/js/jquery.min.js"></script>
+<script type="text/javascript" src="/wgbh/pages/frontline/js/jquery.jsonp.js"></script>
+<script type="text/javascript" src="http://www-tc.pbs.org/video/media/js/swfobject.js?19417"></script>
+<script type="text/javascript" src="http://www-tc.pbs.org/video/media/js/util.js?19417"></script>
+<script type="text/javascript" src="/wgbh/pages/frontline/js/flp2012.js"></script>
+<script type="text/javascript" src="/wgbh/pages/frontline/js/2011.js"></script>
+<script type="text/javascript" src="/wgbh/pages/frontline/js/video2012_updated.js?update"></script><script type="text/javascript">
+	var axel = Math.random() + "";
+	var ord = axel * 1000000000000000000;
+</script>
+<link rel="alternate" type="application/rss+xml" title="FRONTLINE - Reports" href="http://feeds.feedburner.com/pbs/KfWO" />
+<link rel="alternate" type="application/rss+xml" title="FRONTLINE - Today" href="http://feeds.feedburner.com/FrontlineEditorsNotes" />
+<link rel="alternate" type="application/rss+xml" title="FRONTLINE - Watch Online" href="http://feeds.feedburner.com/pbs/WHqx" />
+<script type="text/javascript">
+var _sf_startpt=(new Date()).getTime()
+</script>
+	<script type="text/javascript" language="javascript" src="/wgbh/pages/frontline/js/2012legacy.js"></script>
+    <meta name="description" content="A far-reaching investigation into America's great waterways. They are in peril. There's a new wave of pollution that's killing fish, causing mutations in frogs - and threatening human health. " />
+	<meta name="keywords" content="FRONTLINE, PBS, news, documentaries"/>
+	<link rel="image_src" href="http://www.pbs.org/wgbh/pages/frontline/art/viewimages/100/2712.jpg" />
+	<meta name="category" content="environment" />
+	<link rel="stylesheet" href="css/home.css" type="text/css" media="screen,print" />
+	<script type="text/javascript">
+		function subtitle(text){
+				document.getElementById('subtitle').innerHTML = text;
+				document.getElementById('subtitle').style.display = 'block';
+		}
+		
+		function hideit(){
+				document.getElementById('subtitle').style.display = 'none';
+		}
+	</script>
+<link rel="stylesheet" href="/wgbh/pages/frontline/css/2012legacy.css" type="text/css" />
+
+      <script type="application/javascript" src="http://www-tc.pbs.org/includes/localize.js"></script>
+
+
+
+<link rel="stylesheet" href="/includes/common/pbs-adbanner.css" type="text/css" />
+<div class="adbanner-container" id="pbs-adbanner-container-main-div">
+    <div class="adbanner">
+        <!-- SERVER=(none):127.0.0.1 -->
+        <!-- AD_PROG: n6735.PBS|728x90|news_general_FrontlinePoisonedWaters|wgbh/pages/frontline/poisonedwaters -->
+        <!-- SCRIPT_NAME: /wgbh/pages/frontline/poisonedwaters/ -->
+        <script type="text/javascript">
+        <!--
+        (function() {
+        var page_script_name = encodeURI('/wgbh/pages/frontline/poisonedwaters/');
+
+        var full_ad_info = 'n6735.PBS|728x90|news_general_FrontlinePoisonedWaters|wgbh/pages/frontline/poisonedwaters';
+        var parts = full_ad_info.split('|');
+        var ad_host = parts[0];
+        var ad_size = parts[1];
+        var ad_zone = parts[2];
+        var ad_prefix = parts[3];
+
+        if(page_script_name.indexOf(ad_prefix) != 1) {
+            var img_url="/images/log/bad-adbanner.gif?map=" + ad_prefix + "&real=" + window.location.pathname;
+            var img_obj = new Image();
+            img_obj.src = img_url;
+            document.getElementById("pbs-adbanner-container-main-div").style.display="none";
+        } else if(!document.addisplayed) {
+            var ord = Math.floor(Math.random() * 1000000000);
+            if(!document.hidesupportimg) {
+                document.write('<di' + 'v class="adbanner-header">');
+                document.write('<di' + 'v class="support-message">');
+                document.write('<p' + '>Support for PBS.org provided by:</p' + '>');
+                document.write('</d' + 'iv>');
+                document.write('<di' + 'v class="whatsthis-link">');
+                document.write('<p' + '><a href="http://www.pbs.org/about/faqs/sponsored-links/" title="What\'s this\?">What\'s this\?</a></p' + '>');
+                document.write('</d' + 'iv>');
+                document.write('</d' + 'iv>'); 
+            }
+            var dc_url = 'http://ad.doubleclick.net/adj/' + ad_host + '/' + ad_zone + ';tile=1;sz=' + ad_size + ';ord=' + ord + '?';
+            document.write('<scr' + 'ipt language="javascript" src="' + dc_url + '"></scr' + 'ipt>');
+        } 
+        document.addisplayed=1;
+        })();
+        // -->
+        </script>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+var GA_env = { ua_list: "UA-4005067-1,UA-1996666-1,UA-3966576-1,UA-3988874-1,ET-3988874-2" };
+
+GA_env.vars = { localized: 0 };
+
+var GA_jshost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + GA_jshost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script src="/js/ga-current.js" type="text/javascript"></script>
+
+<!-- Google Tag Manager -->
+<script type="text/javascript">
+    GTMDataLayer = [];
+</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TWTDGH" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','GTMDataLayer','GTM-TWTDGH');</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- Begin comScore Tag --> 
+<script> 
+  var _comscore = _comscore || []; 
+  _comscore.push({ c1: "2", c2: "3005420" }); 
+  (function() { 
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; 
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; 
+    el.parentNode.insertBefore(s, el); 
+  })(); 
+</script> 
+<noscript> 
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=3005420&cv=2.0&cj=1" /> 
+</noscript> 
+<!-- End comScore Tag --> 
+
+    <style>layer { position: absolute; }</style>
+<script type='text/javascript' language='JavaScript' src='/includes/javascript/elqNow/elqCfg.js'></script>
+<script type='text/javascript' language='JavaScript' src='/includes/javascript/elqNow/elqImg.js'></script> 
+
+    <script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+
+
+
+</head>
+<body>
+<div class="ctr" id="page_outer">
+<script>var PBS_CHROME_CONFIG = {'api_key': 'f8e87002-2f69-46ec-a4ad-dff708cc089b'};</script><script type="text/javascript" src="http://pbs.global-chrome-prod.cdn.s3.amazonaws.com/media/js/gc.js"></script>
+<div class="2012topnav"><a href="/wgbh/pages/frontline/" title="FRONTLINE"><span class="logo" id="logo"><span class="logoinner">FRONTLINE</span></span></a><div class="navbar_ext" id="_gnext" style="display: none">
+<div class="exts"><form action="/wgbh/pages/frontline/gsearch.html" method="get" name="searchform"><span class="extsh">SEARCH FRONTLINE</span><input type="text" name="q" class="sf" /><br /><input type="submit" name="submit" value="Search &#187;" class="srch" /></form></div>
+<span id="extscl">CLOSE</span>
+
+<div id="_gtab0" class="tab"><div class="listouter"><div class="listing"><span class="nt">Recent Programs</span><a href="/wgbh/pages/frontline/view/">COMPLETE PROGRAMS &#187;</a></div></div>
+<div class="archive" onclick="location.href='/wgbh/pages/frontline/gunned-down/'"><span class="show" style="background-image: url(/wgbh/pages/frontline/art/omar/v200/17045302131418315313.jpg)"></span><div class="description"><div class="descriptionbg"></div><h4>Gunned Down: The Power of the NRA<br /><span class="date">August 4th</span></h4></div>
+<div class="descriptionon"><div class="descriptionbgon"></div><h4>Gunned Down: The Power of the NRA</h4><p>FRONTLINE investigates the politics and the power of the NRA.</p><p class="watch"><a href="/wgbh/pages/frontline/gunned-down/">WATCH &#187;</a></p></div></div>
+	<div class="archive" onclick="location.href='/wgbh/pages/frontline/drug-lord/'"><span class="show" style="background-image: url(/wgbh/pages/frontline/art/omar/v200/9246275361437062411.png)"></span><div class="description"><div class="descriptionbg"></div><h4>Drug Lord: The Legend of Shorty<br /><span class="date">July 21st</span></h4></div>
+<div class="descriptionon"><div class="descriptionbgon"></div><h4>Drug Lord: The Legend of Shorty</h4><p>Two filmmakers set out to interview El Chapo Guzmán, leader of one of the biggest drug cartels. </p><p class="watch"><a href="/wgbh/pages/frontline/drug-lord/">WATCH &#187;</a></p></div></div>
+	</div>
+<div id="_gtab1" class="tab" style="display: none"><div class="listouter"><div class="listing"><span class="nt">Next on FRONTLINE</span><a href="/wgbh/pages/frontline/local-schedule/">CHECK LOCAL LISTINGS &#187;</a></div></div>
+<div class="archive" onclick="location.href='/wgbh/pages/frontline/retirement-gamble/'"><span class="show" style="background-image: url(/wgbh/pages/frontline/art/omar/v200/11622313951408743910.jpg)"></span><div class="description"><div class="descriptionbg"></div><h4>The Retirement Gamble<br /><span class="rebroadcast">Encore Presentation</span><br /><span class="date">August 18th</span></h4></div>
+<div class="descriptionon"><div class="descriptionbgon"></div><h4>The Retirement Gamble</h4><p>Will your IRA or 401K accounts ensure a safe retirement?</p><p class="watch"><a href="/wgbh/pages/frontline/retirement-gamble/">PREVIEW &#187;</a></p></div></div>
+	<div class="archive" onclick="location.href='/wgbh/pages/frontline/trouble-with-chicken/'"><span class="show" style="background-image: url(/wgbh/pages/frontline/art/omar/v200/7981092581425681632.jpg)"></span><div class="description"><div class="descriptionbg"></div><h4>The Trouble with Chicken<br /><span class="rebroadcast">Encore Presentation</span><br /><span class="date">August 25th</span></h4></div>
+<div class="descriptionon"><div class="descriptionbgon"></div><h4>The Trouble with Chicken</h4><p>FRONTLINE investigates the spread of dangerous pathogens in our poultry, and why the food-safety system isn&#039;t stopping the threat.  </p><p class="watch"><a href="/wgbh/pages/frontline/trouble-with-chicken/">PREVIEW &#187;</a></p></div></div>
+	</div>
+<div id="_gtab2" class="tab" style="display: none"><div class="a"><a href="/wgbh/pages/frontline/afghanistan-pakistan/">Afghanistan / Pakistan</a><a href="/wgbh/pages/frontline/biographies/">Biographies</a><a href="/wgbh/pages/frontline/business-economy-financial-crisis/">Business / Economy / Financial</a><a href="/wgbh/pages/frontline/criminal-justice/">Criminal Justice</a><a href="/wgbh/pages/frontline/education/">Education</a><a href="/wgbh/pages/frontline/environment/">Environment</a><a href="/wgbh/pages/frontline/family-children/">Family / Children</a></div><div class="b"><a href="/wgbh/pages/frontline/foreign-affairs-defense/">Foreign Affairs / Defense</a><a href="/wgbh/pages/frontline/frontline-world/">FRONTLINE World</a><a href="/wgbh/pages/frontline/government-elections-politics/">Government / Elections / Politics</a><a href="/wgbh/pages/frontline/health-science-technology/">Health / Science / Technology</a><a href="/wgbh/pages/frontline/immigration-2/">Immigration</a><a href="/wgbh/pages/frontline/iraq-war-on-terror/">Iraq / War on Terror</a><a href="/wgbh/pages/frontline/media/">Media</a></div><div class="c"><a href="/wgbh/pages/frontline/race-multicultural/">Race / Multicultural</a><a href="/wgbh/pages/frontline/religion/">Religion</a><a href="/wgbh/pages/frontline/social-issues/">Social Issues</a><a href="/wgbh/pages/frontline/sports/">Sports</a></div></div><div id="_gtab6" class="tab" style="display: none"><div class="d">
+<p style="letter-spacing: 3px;color: #ffffff;font-size: 18px;display: block;float:left;text-transform: uppercase;margin: 0px;">Get Our Newsletter</p><p style="letter-spacing: 3px;color: #ffffff;font-size: 18px;display: block;margin: 0 0 0 430px; text-transform:uppercase;">Follow Us</p>
+<a href="https://plus.google.com/111401535363733664324" class="gtso" id="_gtc" alt="FRONTLINE on Plus"></a>
+<a href="http://www.twitter.com/frontlinepbs" class="gtso" id="_gtb" alt="FRONTLINE on Twitter"></a>
+<a href="http://www.facebook.com/frontline" class="gtso" id="_gta" alt="FRONTLINE on FaceBook"></a>
+<div class="email"><form action="http://now.eloqua.com/e/f2.aspx" method="POST" name="flnewsletter_top" onsubmit="return email_verify('top_email');">
+<input type="hidden" name="elqFormName" value="nps_email_signup" />
+<input type="hidden" name="elqSiteID" value="2531" />
+<input type="hidden" name="program_src" value="frontline" />
+<input type="hidden" name="News_Frontline_Beta" value="1" />
+<input type="hidden" name="success_page" value="http://www.pbs.org/wgbh/pages/frontline/newsletter-subscriptions/thanks/" />
+<input class="em_top" type="text" name="email_address" id="top_email" onfocus="if(this.value == 'Newsletter subscribe: Enter e-mail address'){this.value = ''}; $('#newsletterbuttontop').attr('disabled','');" value="Enter e-mail address" /><br /><input type="submit" name="submit" id="newsletterbuttontop" value="Subscribe &#187;" disabled="disabled" /></form></div>
+</div></div><div id="_gtab3" class="tab" style="display: none"><div class="a">
+<a href="/wgbh/pages/frontline/contact-us/" title="Contact FRONTLINE">Tips / Contact Us</a>
+<a href="/wgbh/pages/frontline/about-us/" title="A Brief History">History</a>
+<a href="/wgbh/pages/frontline/about-us/senior-editorial-team/" title="Senior Editorial Team">Senior Editorial Team</a>
+<a href="/wgbh/pages/frontline/about-us/producer-ofra-bikel/" title="Producers">Producers</a>
+<a href="/wgbh/pages/frontline/about-us/awards/" title="Awards">Awards</a>
+<a href="/wgbh/pages/frontline/about-us/faq/" title="FAQs">FAQs</a>
+<a href="/wgbh/pages/frontline/about-us/privacy-policy/" title="Privacy Policy">Privacy Policy</a>
+<a href="/wgbh/pages/frontline/about-us/journalistic-guidelines/" title="Journalistic Guidelines">Journalistic Guidelines</a>
+<a href="/wgbh/pages/frontline/pressroom/" title="Press Room">Press Room</a>
+</div></div><div id="_gtab4" class="tab" style="display: none"><div class="a"><a href="http://www.shoppbs.org/family/index.jsp?categoryId=1412583&amp;utm_source=PBS&amp;utm_medium=Link&amp;utm_campaign=pbs_content_fron_shoptopnav" target="links" title="Buy DVDs">Buy DVDs on ShopPBS</a>
+<a href="https://itunes.apple.com/us/tv-season/frontline-season-32/id714231613?uo=4&at=11l3Sf&ct=FrontlineSITE" target="links" title="Download on iTunes">Download on iTunes</a>
+</div></div><div id="_gtab5" class="tab" style="display: none"><div class="a">
+<a href="/wgbh/pages/frontline/teach/" title="FRONTLINE Teacher Center">Teacher Center</a>
+<a href="/wgbh/pages/frontline/teach/faq.html" title="FAQs">FAQs</a>
+<span class="hd">RECENT GUIDES</span>
+<a href="/wgbh/pages/frontline/teach/collegeinc/" title="College, Inc.">College, Inc.</a>
+<a href="/wgbh/pages/frontline/teach/obamasdeal/" title="Obama's Deal">Obama's Deal</a>
+<a href="/wgbh/pages/frontline/teach/vaccine/" title="The Vaccine War">The Vaccine War</a></div></div>
+</div><div class="navbar" id="_gnav"><span class="nv"><a href="/wgbh/pages/frontline/view/" title="WATCH - Watch FRONTLINE Now" tab="0" id="t0">WATCH</a><a href="/wgbh/pages/frontline/local-schedule/" title="FRONTLINE on your local station" tab="1" id="t1">SCHEDULE</a><a href="/wgbh/pages/frontline/topics/" title="FRONTLINE Topics" tab="2" id="t2">TOPICS</a><a href="/wgbh/pages/frontline/about-us/" title="About FRONTLINE" tab="3" id="t3">ABOUT FRONTLINE</a><a href="http://www.shoppbs.org/family/index.jsp?categoryId=1412583&amp;utm_source=PBS&amp;utm_medium=Link&amp;utm_campaign=pbs_content_fron_shoptopnav" target="links" title="Shop" tab="4" id="t4">SHOP</a><a href="/wgbh/pages/frontline/teach/" title="FRONTLINE Teacher Resources" class="fin" tab="5" id="t5">TEACHER CENTER</a></span></div></div>
+
+<div class="main"><div class="title"><h1><img src="art/h_title.gif" width="530" height="49" alt="Poisoned Waters" /></h1>
+<img src="art/h_subtitle.gif" width="640" height="40" alt="A far-reaching investigation into America's great waterways. They are in peril. There's a new wave of pollution that's killing fish, causing mutations in frogs - - and threatening human health. " /></div>
+
+
+<div class="right"><div class="video"><a href="view/" title="Watch the Full Program Online" onmouseover="imageswap('v0','art/h_v0a.gif');" onmouseout="imageswap('v0','art/h_v0.gif');"><img src="art/h_v0.gif" width="184" height="30" alt="Watch the Full Program Online" name="v0" /></a><a href="view/" onmouseover="imageswap('v0','art/h_v0a.gif');" onmouseout="imageswap('v0','art/h_v0.gif');"><img src="art/h_v0.jpg" width="180" height="103" alt="Dead Frogs" /></a></div><a href="etc/synopsis.html" title="Introduction" onmouseover="imageswap('m0','art/h_m0a.gif');" onmouseout="imageswap('m0','art/h_m0.gif');"><img src="art/h_m0.gif" width="109" height="25" name="m0" alt="Introduction" /></a></div>
+
+<div class="subtitleouter"><div id="subtitle"></div></div>
+
+<a href="talk/" title="Join the Discussion" onmouseover="imageswap('m1','art/h_m1a.gif');" onmouseout="imageswap('m1','art/h_m1.gif');"><img src="art/h_m1.gif" width="161" height="31" alt="Join the Discussion" name="m1" class="m" /></a><br /><a href="safe/" title="So What&#8217;s Safe to Eat &amp; Drink?" onmouseover="imageswap('m2','art/h_m2a.gif'); subtitle('How about your local fish? Your tap water?',true);" onmouseout="imageswap('m2','art/h_m2.gif'); hideit();"><img src="art/h_m2.gif" width="234" height="31" alt="So What's Safe to Eat & Drink?" name="m2" class="m" /></a><br /><a href="clean/" title="Weren&#8217;t Our Waters Supposed to be Cleaned Up Years Ago?" onmouseover="imageswap('m3','art/h_m3a.gif'); subtitle('It\'s been 30 years since the Clean Water Act was passed…',true);" onmouseout="imageswap('m3','art/h_m3.gif'); hideit();"><img src="art/h_m3.gif" width="440" height="31" alt="Weren&#8217;t Our Waters Supposed to be Cleaned Up Years Ago?" name="m3" class="m" /></a><br /><a href="involved/" title="I Want to Get Involved..." onmouseover="imageswap('m4','art/h_m4a.gif');subtitle('Profiles of some citizen activists and organizations in your area',true);" onmouseout="imageswap('m4','art/h_m4.gif');hideit();"><img src="art/h_m4.gif" width="182" height="31" alt="I Want to Get Involved..." name="m4" /></a>
+
+<div style="text-align: center; margin-top: 40px; line-height: 38px;"><a href="interviews/" title="Interviews" class="subnav">Interviews</a> <a href="etc/sitemap.html" title="Site Map" class="subnav">Site Map</a> <a href="../teach/poisonedwaters/" title="Teacher's Guide" class="subnav">Teacher&#8217;s Guide</a> <a href="etc/press.html" title="Press Reaction" class="subnav">Press Reaction</a> <a href="etc/tapes.html" title="DVD/Transcript" class="subnav">DVD/Transcript</a> <a href="etc/credits.html" title="Credits" class="subnav">Credits</a><br /><a href="../us/guidelines.html" title="Journalistic Guidelines" class="subnav">Journalistic Guidelines</a>  <a href="../us/privacy.html" title="Privacy Policy" class="subnav">Privacy Policy</a> 
+ 
+</div></div>
+<div class="funding" style="margin: 0 auto 50px auto"><table><tr><td><img src="../art/08global/fundpbs.gif" height="44" width="32" alt="pbs" /><img src="../art/08global/fundmac.gif" height="30" width="145" alt="macarthur" /><img src="../art/08global/fundpark.gif" height="26" width="82" alt="park foundation" /><br /></td><td width="50%"><p>Major funding for FRONTLINE is provided by the John D. and Catherine T. MacArthur Foundation. Additional funding is provided by the Park Foundation.   Major funding for <i>Poisoned Waters</i> is provided by The Seattle Foundation, The Russell Family Foundation, The Wallace Genetic Foundation, The Morris and Gwendolyn Cafritz Foundation, The Keith Campbell Foundation for the Environment, The Merrill Family Foundation, The Abell Foundation, The Bullitt Foundation, the Park Foundation, and The Rauch Foundation.</p>
+<p>Additional funding is provided by The Town Creek Foundation, The Clayton Baker Trust, The Lockhart Vaughan Foundation, The Curtis and Edith Munson Foundation, The Chesapeake Bay Trust, Louisa and Robert Duemling, Robert and Phyllis Hennigson, Robert Lundeen, The Eugene and Agnes E. Meyer Foundation, The Prince Charitable Trusts, Ron and Kathy McDowell, Valerie and Bill Anders, Bruce and Marty Coffey, The Foundation for Puget Sound, Janet Ketcham, Win Rhodes, The Robert C. and Nani S. Warren Foundation, Jim and Kathy Youngren, Vinton and Amelia Sommerville and Laura Lundgren.</p></td></tr></table>
+</div></div>
+<div class="bottom">
+<p class="global"><b class="global_date">posted april 21, 2009</b></p>
+<p><a href="../">FRONTLINE series home</a> &#183; <a href="../us/privacy.html">privacy policy</a> &#183; <a href="../us/guidelines.html">journalistic guidelines</a></p>
+<p>FRONTLINE is a registered trademark of WGBH Educational Foundation.<br />
+Web Site <a href="/wgbh/pages/frontline/us/copyright.html">Copyright</a> &copy;1995-2014 WGBH Educational Foundation
+<br />main photograph &copy; corbis, all rights reserved</p>
+</div></div>
+</body>
+</html>

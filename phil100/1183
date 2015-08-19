@@ -1,0 +1,1503 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Germaine Greer | Teacher TV video resources </title>
+        <meta name="description" content="Estelle Morris asks Germaine Greer about her views on education">
+        <meta name="ZOOMTITLE" content="Germaine Greer | Teacher TV video resources ">
+        <meta name="ZOOMDESCRIPTION" content="Estelle Morris asks Germaine Greer about her views on education">
+                <meta name="keywords" content="NO SEO DATA">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="">		<link rel="canonical" href="http://www.creativeeducation.co.uk/video/1183">        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+        <link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" href="/js/mediaelement/mediaelementplayer.css" />
+        <link rel="stylesheet" type="text/css" href="/css/bootstrap.css" />
+		<!--<script src='https://www.google.com/recaptcha/api.js'></script>-->
+		<script type="text/javascript">
+	var $mcGoal = {'settings':{'uuid':'6f09094eeca82c8f8b91c7aae','dc':'us4'}};
+	(function() {
+		 var sp = document.createElement('script'); sp.type = 'text/javascript'; sp.async = true; sp.defer = true;
+		sp.src = ('https:' == document.location.protocol ? 'https://s3.amazonaws.com/downloads.mailchimp.com' : 'http://downloads.mailchimp.com') + '/js/goal.min.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sp, s);
+	})(); 
+</script>
+
+
+		
+    </head>
+    
+    <body class="controller-video action-view route-video-view logged-out">
+       <!--ZOOMSTOP-->
+        <!-- Creative API Profiler (http://www.creativeeducationdev.co.uk/APITEST.asmx?wsdl) --
+
+	| Call Token                                                  |    Call #     |   Time (ms)   |  Cache  |    Status     |     Debug     |
+	| ---------------------------------------------------------------------------------------------------------------------------------------
+	| 
+
+        -->
+                <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id))
+                    return;
+                js = d.createElement(s);
+                js.id = id;
+                js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&appId=731622660235717&version=v2.0";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script><!-- HEADER BEGIN -->
+
+<div id="mobile-header" class="visible-xs">
+    <div class="container">
+        <div class="col-xs-4">
+
+            <a href="tel:08008818185" title="Tap to call us" class="tel">
+                <!--<img src="/img/tel-icon.png" alt="Tel: 0800 8818185" /></a>-->
+                <span class="glyphicon glyphicon-earphone"></span>
+        </div>
+
+        <div class="col-xs-4 text-center">
+
+            <a href="#mobile-search" title="Search our site" class="tel" data-toggle="collapse">
+                <!--<img src="/img/mag-icon.png" alt="" /></a>-->                
+                <span class="glyphicon glyphicon-search"></span>
+        </div>
+
+        <div class="col-xs-4 text-right">
+
+            <a title="Show menu" class="tel mobile-menu-toggle" data-toggle="collapse" href="#mobile-menu">
+                <!--<img src="/img/ham-icon.png" alt="Tel:" />-->
+                MENU
+                <span class="glyphicon glyphicon-menu-hamburger"></span>
+                <span class="glyphicon glyphicon-remove"></span>
+            </a>
+
+        </div>
+    </div>
+</div>
+<div id="mobile-search" class='collapse'>
+    <form class="search-form" role="search" method="GET" action="/search/index.php">
+
+        <div class="row">
+            <div class="col-md-4">
+
+            </div>
+            <div class="col-md-8">
+                <div class="form-group">
+                    <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Search..." name="zoom_query" id="zoom_query" autocomplete="off">
+                        <input type="hidden" name="zoom_cat" value="0"> 
+                        <span class="input-group-btn">
+                            <button class="btn btn-primary" type="submit">Search!</button>
+                        </span>
+                    </div><!-- /input-group -->
+
+                </div>
+            </div>
+        </div>
+
+
+    </form>
+</div>
+
+<div id="mobile-menu" class='collapse'>
+    <div class="mobile-parent collapse in" id='mobile-mainnav'>
+    <h3>Main Menu</h3>
+    <ul class='mobile-menu-list'>
+
+        
+                        <li>
+            <a class='mobile-menu-link ' href="/">Home
+                
+                            </a>
+
+        </li>
+        
+
+        
+                        <li>
+            <a class='mobile-menu-link has-children' href="#mobile-subnav-opencourses">Courses
+                
+                 
+                <span class="glyphicon glyphicon-chevron-right"></span>
+                            </a>
+
+        </li>
+        
+
+        
+                        <li>
+            <a class='mobile-menu-link has-children' href="#mobile-subnav-inhouse">In-house Training
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                
+                            </a>
+
+        </li>
+        
+
+        
+                        <li>
+            <a class='mobile-menu-link ' href="/e-learning/">E-Learning
+                
+                            </a>
+
+        </li>
+        
+
+        
+                        <li>
+            <a class='mobile-menu-link has-children' href="#mobile-subnav-consultancy">Consultancy
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                
+                            </a>
+
+        </li>
+        
+
+        
+                        <li>
+            <a class='mobile-menu-link ' href="/blog/">Blog
+                
+                            </a>
+
+        </li>
+        
+
+        
+                        <li>
+            <a class='mobile-menu-link ' href="/contact/">Contact
+                
+                            </a>
+
+        </li>
+        
+
+        
+                
+
+        
+                
+
+        
+    </ul>
+    <hr />
+    <ul class='mobile-menu-list'>
+        <li><a href="/find-a-course" class="top-link">Find a course</a></li>
+        <li><a href="/about-us" class="top-link">About us</a></li>
+        <li><a href="/work-for-us" class="top-link">Work for us</a></li>
+
+         
+        <li><a href="/register" class="top-link">Register</a></li>
+        <li><a href="#" class="btn btn-primary" data-toggle="modal" data-target="#login-modal">Login</a></li> 
+            </ul>
+</div>
+
+<div class='mobile-subnav mobile-subnav-inhouse collapse' id='mobile-subnav-inhouse'>
+    <h3>
+        <a href="javascript:;"><span class="glyphicon glyphicon-chevron-left"></span> In-house Training</a>
+    </h3>
+    <ul class="mobile-menu-list">
+<li><a href="/inhouse-training/">Staff Training</a></li><li><a href="/inhouse-training/student-revision/">Student Revision</a></li><li><a href="/inhouse-training/international/">International</a></li><li><a href="/inhouse-training/enquire/">Enquire</a></li>    </ul>
+</div>
+<div class='mobile-subnav mobile-subnav-consultancy collapse' id='mobile-subnav-consultancy'>
+    <h3>
+        <a href="javascript:;"><span class="glyphicon glyphicon-chevron-left"></span> Consultancy</a>
+    </h3>
+    <ul class="mobile-menu-list">
+<li><a href="/consultancy/">Consultancy Services</a></li><li><a href="/consultancy/school-improvement/">School Improvement Plans</a></li><li><a href="/consultancy/coaching-and-mentoring/">Coaching and Mentoring</a></li><li><a href="/consultancy/leadership-recruitment/">Leadership Recruitment</a></li><li><a href="/consultancy/ofsted/">Mock Ofsted Inspections and Departmental Reviews</a></li><li><a href="/consultancy/pupil-premium-audit/">Pupil Premium Audit</a></li><li><a href="/consultancy/enquire/">Enquire</a></li>    </ul>
+</div>
+
+
+<div class='mobile-subnav mobile-subnav-opencourses collapse' id='mobile-subnav-opencourses'>
+    <h3>
+        <a href="javascript:;"><span class="glyphicon glyphicon-chevron-left"></span> Courses</a>
+    </h3>
+    <ul class="mobile-menu-list menu">
+        <li><a href="#mobile-subnav-opencourses-subject" class="mobile-menu-link has-children">By subject</a></li>
+        <li><a href="#mobile-subnav-opencourses-jobrole" class="mobile-menu-link has-children">By role</a></li>
+        <li><a href="#mobile-subnav-opencourses-country" class="mobile-menu-link has-children">By country</a></li>
+        <li><a href="#mobile-subnav-opencourses-phase" class="mobile-menu-link has-children">By phase</a></li>
+        <li><a href="#mobile-subnav-opencourses-focusarea" class="mobile-menu-link has-children">By focus area</a></li>
+    </ul>
+</div>
+
+<div class='mobile-subnav mobile-subnav-opencourses-subject collapse' id='mobile-subnav-opencourses-subject'>
+    <h3>
+        <a href="javascript:;"><span class="glyphicon glyphicon-chevron-left"></span>Courses by Subject</a>
+    </h3>
+    <ul class="mobile-menu-list menu">
+         
+        <li>
+            <a href="/subject/art" title="Art">Art</a>
+        </li>
+         
+        <li>
+            <a href="/subject/btec" title="BTEC">BTEC</a>
+        </li>
+         
+        <li>
+            <a href="/subject/citizenship" title="Citizenship">Citizenship</a>
+        </li>
+         
+        <li>
+            <a href="/subject/computing" title="Computing">Computing</a>
+        </li>
+         
+        <li>
+            <a href="/subject/design-technology" title="Design Technology">Design Technology</a>
+        </li>
+         
+        <li>
+            <a href="/subject/drama" title="Drama">Drama</a>
+        </li>
+         
+        <li>
+            <a href="/subject/english" title="English">English</a>
+        </li>
+         
+        <li>
+            <a href="/subject/geography" title="Geography">Geography</a>
+        </li>
+         
+        <li>
+            <a href="/subject/history" title="History">History</a>
+        </li>
+         
+        <li>
+            <a href="/subject/languages" title="Languages">Languages</a>
+        </li>
+         
+        <li>
+            <a href="/subject/maths" title="Maths">Maths</a>
+        </li>
+         
+        <li>
+            <a href="/subject/music" title="Music">Music</a>
+        </li>
+         
+        <li>
+            <a href="/subject/pe" title="PE">PE</a>
+        </li>
+         
+        <li>
+            <a href="/subject/pshe" title="PSHE">PSHE</a>
+        </li>
+         
+        <li>
+            <a href="/subject/re" title="RE">RE</a>
+        </li>
+         
+        <li>
+            <a href="/subject/science" title="Science">Science</a>
+        </li>
+            
+    </ul>
+</div>
+
+
+<div class='mobile-subnav mobile-subnav-opencourses-jobrole collapse' id='mobile-subnav-opencourses-jobrole'>
+    <h3>
+        <a href="javascript:;"><span class="glyphicon glyphicon-chevron-left"></span>Courses by Role</a>
+    </h3>
+    <ul class="mobile-menu-list menu">
+         
+        <li>
+            <a href="/jobrole/administrative-staff" title="Administrative Staff">Administrative Staff</a>
+        </li>
+         
+        <li>
+            <a href="/jobrole/assistant-head" title="Assistant Head">Assistant Head</a>
+        </li>
+         
+        <li>
+            <a href="/jobrole/business-manager" title="Business Manager">Business Manager</a>
+        </li>
+         
+        <li>
+            <a href="/jobrole/child-protection-officer" title="Child Protection Officer">Child Protection Officer</a>
+        </li>
+         
+        <li>
+            <a href="/jobrole/cover-supervisor" title="Cover Supervisor">Cover Supervisor</a>
+        </li>
+         
+        <li>
+            <a href="/jobrole/cpd-co-ordinator" title="CPD Co-ordinator">CPD Co-ordinator</a>
+        </li>
+         
+        <li>
+            <a href="/jobrole/deputy-head" title="Deputy Head">Deputy Head</a>
+        </li>
+         
+        <li>
+            <a href="/jobrole/eal-co-ordinator" title="EAL Co-ordinator">EAL Co-ordinator</a>
+        </li>
+         
+        <li>
+            <a href="/jobrole/gifted-and-talented-co-ordinator" title="G&T Co-ordinator">G&T Co-ordinator</a>
+        </li>
+         
+        <li>
+            <a href="/jobrole/governor" title="Governor">Governor</a>
+        </li>
+         
+        <li>
+            <a href="/jobrole/head-of-year" title="Head of Year">Head of Year</a>
+        </li>
+         
+        <li>
+            <a href="/jobrole/headteacher" title="Headteacher">Headteacher</a>
+        </li>
+         
+        <li>
+            <a href="/jobrole/health-and-safety-officer" title="Health and Safety Officer">Health and Safety Officer</a>
+        </li>
+         
+        <li>
+            <a href="/jobrole/induction-co-ordinator" title="Induction Co-ordinator">Induction Co-ordinator</a>
+        </li>
+         
+        <li>
+            <a href="/jobrole/librarian" title="Librarian">Librarian</a>
+        </li>
+         
+        <li>
+            <a href="/jobrole/newly-and-recently-qualified" title="Newly & Recently Qualified">Newly & Recently Qualified</a>
+        </li>
+         
+        <li>
+            <a href="/jobrole/premises-staff" title="Premises Staff">Premises Staff</a>
+        </li>
+         
+        <li>
+            <a href="/jobrole/senco" title="SENCO">SENCO</a>
+        </li>
+         
+        <li>
+            <a href="/jobrole/subject-leader" title="Subject Leader">Subject Leader</a>
+        </li>
+         
+        <li>
+            <a href="/jobrole/subject-teacher" title="Subject Teacher">Subject Teacher</a>
+        </li>
+         
+        <li>
+            <a href="/jobrole/teaching-assistant" title="Teaching Assistant">Teaching Assistant</a>
+        </li>
+         
+        <li>
+            <a href="/jobrole/technician" title="Technician">Technician</a>
+        </li>
+          
+    </ul>
+</div>
+
+<div class='mobile-subnav mobile-subnav-opencourses-phase collapse' id='mobile-subnav-opencourses-phase'>
+    <h3>
+        <a href="javascript:;"><span class="glyphicon glyphicon-chevron-left"></span>Courses by Phase</a>
+    </h3>
+    <ul class="mobile-menu-list menu">
+         
+        <li>
+            <a href="/phase/eyfs" title="EYFS">EYFS</a>
+        </li>
+         
+        <li>
+            <a href="/phase/fe" title="Further Education">Further Education</a>
+        </li>
+         
+        <li>
+            <a href="/phase/primary" title="Primary">Primary</a>
+        </li>
+         
+        <li>
+            <a href="/phase/secondary" title="Secondary">Secondary</a>
+        </li>
+         
+        <li>
+            <a href="/phase/special" title="Special">Special</a>
+        </li>
+            </ul>
+</div>
+
+<div class='mobile-subnav mobile-subnav-opencourses-country collapse' id='mobile-subnav-opencourses-country'>
+    <h3>
+        <a href="javascript:;"><span class="glyphicon glyphicon-chevron-left"></span>Courses by Country</a>
+    </h3>
+    <ul class="mobile-menu-list menu">
+         
+        <li>
+            <a href="/country/england" title="England">England</a>
+        </li>
+         
+        <li>
+            <a href="/country/scotland" title="Scotland">Scotland</a>
+        </li>
+         
+        <li>
+            <a href="/country/wales" title="Wales">Wales</a>
+        </li>
+            </ul>
+</div>
+
+
+<div class='mobile-subnav mobile-subnav-opencourses-focusarea collapse' id='mobile-subnav-opencourses-focusarea'>
+    <h3>
+        <a href="javascript:;"><span class="glyphicon glyphicon-chevron-left"></span>Courses by Focus Area</a>
+    </h3>
+    <ul class="mobile-menu-list menu">
+         
+        <li>
+            <a href="/focusarea/a-level" title="A Level">A Level</a>
+        </li>
+         
+        <li>
+            <a href="/focusarea/assessment" title="Assessment">Assessment</a>
+        </li>
+         
+        <li>
+            <a href="/focusarea/behaviour-and-attendance" title="Behaviour and Attendance">Behaviour and Attendance</a>
+        </li>
+         
+        <li>
+            <a href="/focusarea/classroom-technology" title="Classroom Technology">Classroom Technology</a>
+        </li>
+         
+        <li>
+            <a href="/focusarea/differentiation" title="Differentiation">Differentiation</a>
+        </li>
+         
+        <li>
+            <a href="/focusarea/eal" title="EAL">EAL</a>
+        </li>
+         
+        <li>
+            <a href="/focusarea/facilities-and-site" title="Facilities & Site">Facilities & Site</a>
+        </li>
+         
+        <li>
+            <a href="/focusarea/gcse" title="GCSE">GCSE</a>
+        </li>
+         
+        <li>
+            <a href="/focusarea/gifted-and-talented" title="Gifted and Talented">Gifted and Talented</a>
+        </li>
+         
+        <li>
+            <a href="/focusarea/inspection-and-self-evaluation" title="Inspection & Self-Evaluation">Inspection & Self-Evaluation</a>
+        </li>
+         
+        <li>
+            <a href="/focusarea/leadership-and-management" title="Leadership and Management">Leadership and Management</a>
+        </li>
+         
+        <li>
+            <a href="/focusarea/literacy-and-numeracy" title="Literacy and Numeracy">Literacy and Numeracy</a>
+        </li>
+         
+        <li>
+            <a href="/focusarea/national-curriculum" title="National Curriculum">National Curriculum</a>
+        </li>
+         
+        <li>
+            <a href="/focusarea/non-specialists" title="Non-Specialists">Non-Specialists</a>
+        </li>
+         
+        <li>
+            <a href="/focusarea/outstanding-lessons" title="Outstanding Lessons">Outstanding Lessons</a>
+        </li>
+         
+        <li>
+            <a href="/focusarea/pastoral" title="Pastoral">Pastoral</a>
+        </li>
+         
+        <li>
+            <a href="/focusarea/raising-attainment" title="Raising Attainment">Raising Attainment</a>
+        </li>
+         
+        <li>
+            <a href="/focusarea/safeguarding" title="Safeguarding">Safeguarding</a>
+        </li>
+         
+        <li>
+            <a href="/focusarea/send" title="SEND">SEND</a>
+        </li>
+         
+        <li>
+            <a href="/focusarea/vocational-learning" title="Vocational Learning">Vocational Learning</a>
+        </li>
+            </ul>
+</div>      
+
+
+
+</div>
+
+
+
+<div id="pre-header" class="hidden-xs">
+    <div class="container">
+        <div class="col-md-4 col-sm-4 col-xs-5">
+            <a href="https://www.facebook.com/creativeeduk" title="Facebook" class="top-link">
+                <img src="/img/facebook-icon.png" alt="Facebook" />
+            </a>
+            <a href="https://twitter.com/creativeedu" title="Twitter" class="top-link">
+                <img src="/img/twitter-icon.png" alt="Twitter" />
+            </a>
+            <a href="tel:08008818185" title="Tap to call us" class="tel">
+                <img src="/img/tel-icon.png" alt="Tel:" /> 0800 881 8185</a>
+        </div>
+        <div class="col-md-8 col-sm-8 col-xs-7 right">
+
+            
+            <a href="/find-a-course/fresh-search" rel="nofollow,noindex" class="top-link">Find a course</a>
+            <a href="/about-us" class="top-link">About us</a>
+            <a href="/work-for-us" class="top-link">Work for us</a>
+
+             
+            <a href="/register" class="top-link">Register</a>
+            <a href="#" class="btn btn-primary log-in-btn" data-toggle="modal" data-target="#login-modal">Login</a> 
+                        <form class="search-form mega-search" role="search" method="GET" action="/search/index.php">
+                <div class="form-group">
+                   	<input type="hidden" name="zoom_cat" value="0"> 
+                    <input type="text" id="zoom_query" class="form-control pre-header-search" placeholder="Search..." name="zoom_query" autocomplete="off">
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div id="header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2 col-xs-6 col-sm-3" id="logo">
+                <a href="/" title="Return to the Creative Education home page">
+                    <img src="/img/logo.jpg" class="hisrc course-type-icon" alt="Creative Education" />
+                </a>
+            </div>
+            <div class="col-md-10 col-xs-6 col-sm-9" id="navigation">
+   
+
+    <ul class="nav navbar-nav hidden-xs">
+
+                                <li class=""><a href="/">
+                Home            </a></li>
+
+         
+        
+                         
+
+        <li class="dropdown ">
+        <a href="#" class="dropdown-toggle mega-menu-trigger" data-toggle="mega-menu">
+                Courses <b class="caret"></b>
+        </a>
+            <div class="mega-menu">
+
+    <div class="row">
+                <div class="col-md-3 col-xs-3">
+        
+            <ul class="menu">
+
+                 <li><a href="/find-a-course/">Find a Course</a></li><li><a href="/about-our-courses/">About our Courses</a></li><li><a href="/courses/pre-book/">Pre-book</a></li><li><a href="/courses/conferences/">Conferences</a></li><li><a href="/portfolios/">Download a portfolio</a></li>
+            </ul>
+            <br>
+            
+            
+            <h6>Subject</h6>
+            <ul class="menu">
+
+                 
+                <li>
+                    <a href="/subject/art" title="Art">Art</a>
+                </li>
+                 
+                <li>
+                    <a href="/subject/btec" title="BTEC">BTEC</a>
+                </li>
+                 
+                <li>
+                    <a href="/subject/citizenship" title="Citizenship">Citizenship</a>
+                </li>
+                 
+                <li>
+                    <a href="/subject/computing" title="Computing">Computing</a>
+                </li>
+                 
+                <li>
+                    <a href="/subject/design-technology" title="Design Technology">Design Technology</a>
+                </li>
+                 
+                <li>
+                    <a href="/subject/drama" title="Drama">Drama</a>
+                </li>
+                 
+                <li>
+                    <a href="/subject/english" title="English">English</a>
+                </li>
+                 
+                <li>
+                    <a href="/subject/geography" title="Geography">Geography</a>
+                </li>
+                 
+                <li>
+                    <a href="/subject/history" title="History">History</a>
+                </li>
+                 
+                <li>
+                    <a href="/subject/languages" title="Languages">Languages</a>
+                </li>
+                 
+                <li>
+                    <a href="/subject/maths" title="Maths">Maths</a>
+                </li>
+                 
+                <li>
+                    <a href="/subject/music" title="Music">Music</a>
+                </li>
+                 
+                <li>
+                    <a href="/subject/pe" title="PE">PE</a>
+                </li>
+                 
+                <li>
+                    <a href="/subject/pshe" title="PSHE">PSHE</a>
+                </li>
+                 
+                <li>
+                    <a href="/subject/re" title="RE">RE</a>
+                </li>
+                 
+                <li>
+                    <a href="/subject/science" title="Science">Science</a>
+                </li>
+                
+            </ul>
+        </div>
+
+        <div class="col-md-3 col-xs-3">
+            <h6>Job Role</h6>
+            <ul class="menu">
+
+                 
+                <li>
+                    <a href="/jobrole/administrative-staff" title="Administrative Staff">Administrative Staff</a>
+                </li>
+                 
+                <li>
+                    <a href="/jobrole/assistant-head" title="Assistant Head">Assistant Head</a>
+                </li>
+                 
+                <li>
+                    <a href="/jobrole/business-manager" title="Business Manager">Business Manager</a>
+                </li>
+                 
+                <li>
+                    <a href="/jobrole/child-protection-officer" title="Child Protection Officer">Child Protection Officer</a>
+                </li>
+                 
+                <li>
+                    <a href="/jobrole/cover-supervisor" title="Cover Supervisor">Cover Supervisor</a>
+                </li>
+                 
+                <li>
+                    <a href="/jobrole/cpd-co-ordinator" title="CPD Co-ordinator">CPD Co-ordinator</a>
+                </li>
+                 
+                <li>
+                    <a href="/jobrole/deputy-head" title="Deputy Head">Deputy Head</a>
+                </li>
+                 
+                <li>
+                    <a href="/jobrole/eal-co-ordinator" title="EAL Co-ordinator">EAL Co-ordinator</a>
+                </li>
+                 
+                <li>
+                    <a href="/jobrole/gifted-and-talented-co-ordinator" title="G&T Co-ordinator">G&T Co-ordinator</a>
+                </li>
+                 
+                <li>
+                    <a href="/jobrole/governor" title="Governor">Governor</a>
+                </li>
+                 
+                <li>
+                    <a href="/jobrole/head-of-year" title="Head of Year">Head of Year</a>
+                </li>
+                 
+                <li>
+                    <a href="/jobrole/headteacher" title="Headteacher">Headteacher</a>
+                </li>
+                 
+                <li>
+                    <a href="/jobrole/health-and-safety-officer" title="Health and Safety Officer">Health and Safety Officer</a>
+                </li>
+                 
+                <li>
+                    <a href="/jobrole/induction-co-ordinator" title="Induction Co-ordinator">Induction Co-ordinator</a>
+                </li>
+                 
+                <li>
+                    <a href="/jobrole/librarian" title="Librarian">Librarian</a>
+                </li>
+                 
+                <li>
+                    <a href="/jobrole/newly-and-recently-qualified" title="Newly & Recently Qualified">Newly & Recently Qualified</a>
+                </li>
+                 
+                <li>
+                    <a href="/jobrole/premises-staff" title="Premises Staff">Premises Staff</a>
+                </li>
+                 
+                <li>
+                    <a href="/jobrole/senco" title="SENCO">SENCO</a>
+                </li>
+                 
+                <li>
+                    <a href="/jobrole/subject-leader" title="Subject Leader">Subject Leader</a>
+                </li>
+                 
+                <li>
+                    <a href="/jobrole/subject-teacher" title="Subject Teacher">Subject Teacher</a>
+                </li>
+                 
+                <li>
+                    <a href="/jobrole/teaching-assistant" title="Teaching Assistant">Teaching Assistant</a>
+                </li>
+                 
+                <li>
+                    <a href="/jobrole/technician" title="Technician">Technician</a>
+                </li>
+                
+            </ul>
+        </div>
+
+        <div class="col-md-3 col-xs-3">
+            <h6>Phase</h6>
+
+            <ul class="menu">
+
+                 
+                <li>
+                    <a href="/phase/eyfs" title="EYFS">EYFS</a>
+                </li>
+                 
+                <li>
+                    <a href="/phase/fe" title="Further Education">Further Education</a>
+                </li>
+                 
+                <li>
+                    <a href="/phase/primary" title="Primary">Primary</a>
+                </li>
+                 
+                <li>
+                    <a href="/phase/secondary" title="Secondary">Secondary</a>
+                </li>
+                 
+                <li>
+                    <a href="/phase/special" title="Special">Special</a>
+                </li>
+                
+            </ul>
+
+            <br>
+            <h6>Country</h6>
+
+            <ul class="menu">
+
+                 
+                <li>
+                    <a href="/country/england" title="England">England</a>
+                </li>
+                 
+                <li>
+                    <a href="/country/scotland" title="Scotland">Scotland</a>
+                </li>
+                 
+                <li>
+                    <a href="/country/wales" title="Wales">Wales</a>
+                </li>
+                
+            </ul>
+
+        </div>
+
+        <div class="col-md-3 col-xs-3">
+
+            <h6>Focus Area</h6>
+
+            <ul class="menu">
+
+                 
+                <li>
+                    <a href="/focusarea/a-level" title="A Level">A Level</a>
+                </li>
+                 
+                <li>
+                    <a href="/focusarea/assessment" title="Assessment">Assessment</a>
+                </li>
+                 
+                <li>
+                    <a href="/focusarea/behaviour-and-attendance" title="Behaviour and Attendance">Behaviour and Attendance</a>
+                </li>
+                 
+                <li>
+                    <a href="/focusarea/classroom-technology" title="Classroom Technology">Classroom Technology</a>
+                </li>
+                 
+                <li>
+                    <a href="/focusarea/differentiation" title="Differentiation">Differentiation</a>
+                </li>
+                 
+                <li>
+                    <a href="/focusarea/eal" title="EAL">EAL</a>
+                </li>
+                 
+                <li>
+                    <a href="/focusarea/facilities-and-site" title="Facilities & Site">Facilities & Site</a>
+                </li>
+                 
+                <li>
+                    <a href="/focusarea/gcse" title="GCSE">GCSE</a>
+                </li>
+                 
+                <li>
+                    <a href="/focusarea/gifted-and-talented" title="Gifted and Talented">Gifted and Talented</a>
+                </li>
+                 
+                <li>
+                    <a href="/focusarea/inspection-and-self-evaluation" title="Inspection & Self-Evaluation">Inspection & Self-Evaluation</a>
+                </li>
+                 
+                <li>
+                    <a href="/focusarea/leadership-and-management" title="Leadership and Management">Leadership and Management</a>
+                </li>
+                 
+                <li>
+                    <a href="/focusarea/literacy-and-numeracy" title="Literacy and Numeracy">Literacy and Numeracy</a>
+                </li>
+                 
+                <li>
+                    <a href="/focusarea/national-curriculum" title="National Curriculum">National Curriculum</a>
+                </li>
+                 
+                <li>
+                    <a href="/focusarea/non-specialists" title="Non-Specialists">Non-Specialists</a>
+                </li>
+                 
+                <li>
+                    <a href="/focusarea/outstanding-lessons" title="Outstanding Lessons">Outstanding Lessons</a>
+                </li>
+                 
+                <li>
+                    <a href="/focusarea/pastoral" title="Pastoral">Pastoral</a>
+                </li>
+                 
+                <li>
+                    <a href="/focusarea/raising-attainment" title="Raising Attainment">Raising Attainment</a>
+                </li>
+                 
+                <li>
+                    <a href="/focusarea/safeguarding" title="Safeguarding">Safeguarding</a>
+                </li>
+                 
+                <li>
+                    <a href="/focusarea/send" title="SEND">SEND</a>
+                </li>
+                 
+                <li>
+                    <a href="/focusarea/vocational-learning" title="Vocational Learning">Vocational Learning</a>
+                </li>
+                
+            </ul>
+        </div>
+
+    </div>
+
+</div>
+        </li>
+
+
+         
+        
+                                <li class=""><a href="/inhouse-training/">
+                In-house Training            </a></li>
+
+         
+        
+                                <li class=""><a href="/e-learning/">
+                E-Learning            </a></li>
+
+         
+        
+                                <li class=""><a href="/consultancy/">
+                Consultancy            </a></li>
+
+         
+        
+                                <li class=""><a href="/blog/">
+                Blog            </a></li>
+
+         
+        
+                                <li class=""><a href="/contact/">
+                Contact            </a></li>
+
+         
+        
+                
+                
+        
+        <!--
+        <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="mega-menu">Dropdown <b class="caret"></b></a>
+            <div class="mega-menu">
+                #include virtual="/partials/mega-menu.html"   
+            </div>
+        </li>
+        <li class="active"><a href="#">Link</a></li>
+        <li><a href="#">Link</a></li>
+        -->
+    </ul>
+</div>
+        </div>
+
+    </div>
+</div>
+
+<!-- HEADER END --><div id="bg-image" style="background-image: url('/img/slides/1.jpg');">
+
+</div><div id='breadcrumbs' class='hidden-xs'>
+    <div class='container'>
+        <span>You are here: <strong><a href="/" title="Home">Home</a> &gt; <a href="/videos" title="Video">Video</a> &gt; <a href="/video/1183" title="Germaine Greer">Germaine Greer</a></strong></span>
+    </div>
+</div>
+
+
+<div class="container template-13 main-body">
+    <div class="row">
+        <div class="col-md-9 col-sm-8">
+            <div class="content-pad">
+               <!--ZOOMRESTART-->
+                
+<form class="blue-form form-inline" role="form" method="post" action="/register">
+    <h4>
+        <strong>Register</strong> for free resources, tips, new course alerts, special offers and discount codes
+    </h4>
+
+
+    <div class="row">
+        <div class="col-sm-3">
+            <div class="form-group">
+               
+                <input type="text" class="form-control" id="firstname" name="firstname" placeholder="First name" required>
+            </div>
+        </div>
+        <div class="col-sm-3">
+            <div class="form-group">
+              
+                <input type="text" class="form-control" id="surname" name="surname" placeholder="Last name" required>
+            </div>
+        </div>
+        <div class="col-sm-3">
+            <div class="form-group">
+                
+                <input type="email" class="form-control" id="subscribeemail" name="subscribeemail" placeholder="Email address" required>
+            </div>
+        </div>
+        <div class="col-sm-3">
+         
+                <input type="submit" class="form-control btn btn-orange btn-block" value="Register">
+          
+        </div>
+    </div>
+
+
+
+
+
+
+
+</form>
+<h1>Germaine Greer</h1>
+<h2>Estelle Morris asks Germaine Greer about her views on education</h2>
+
+<video src="http://v.creativeeducation.co.uk/flv/C1425001_350k.flv" class="video-expand" width="640" height="360" style="width: 100%; height: 100%; z-index: 4001;"></video>
+<p class="text-right">
+    <a class="btn btn-primary" href="http://v.creativeeducation.co.uk/flv/C1425001_350k.flv"><span class="glyphicon glyphicon-download-alt"></span> Download Video</a>
+</p>
+Writer, academic and broadcaster Germaine Greer talks to Estelle Morris about being educated at a single-sex school by nuns, and how the experience has shaped her outlook on education today. 
+
+Estelle asks Germaine her views on the importance of the teacher in society and what it takes to be a good teacher. We also hear what writing The Female Eunuch meant not only for Germaine but also for Estelle's generation of female teachers, and Germaine's views on the pressures that schoolgirls face today.
+                <!--ZOOMSTOP-->
+            </div>
+        </div>
+
+
+        <div class="col-md-3 col-sm-4 sidebar-right grey" data-sameheight="PREV">
+            <div class="sidebar-item book-a-course book-a-course-mini no-border">
+    <div class="book-course-section">
+    <ul class="nav nav-tabs nav-justified" data-nowrap>
+        <li class="active"><a href="javascript:;" data-tabid="find-a-course">Find a course</a></li>
+        <li><a href="javascript:;" data-tabid="book-a-course">Book a course</a></li>
+    </ul>
+
+    <div class="content-area" id="find-a-course">
+        <form action="/find-a-course/land" method="POST">
+
+            <div class="panel-group" id="fc-accordion">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#fc-accordion" href="#filter-overview">
+                                Filter Search
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="filter-overview" class="panel-collapse collapse in">
+                        <div class="panel-body">
+                            <div class="form-group" id="course-type-radio">
+                                 <select id="phase_id" name="phase_id" class="form-control">
+
+                          
+                                     <option></option>
+                                    <option value="3">Secondary</option>
+                                    <option value="2">Primary</option>
+                                    <option value="4">Special</option>
+                                    <option value="5">FE</option>
+                                 
+                                </select>
+                               
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <select id="job-role" name="jobrole_id" class="form-control">
+
+                                    <option></option>
+                                    
+                                    <option value="43">Administrative Staff</option>
+                                    
+                                    <option value="50">Assistant Head</option>
+                                    
+                                    <option value="51">Business Manager</option>
+                                    
+                                    <option value="75">Child Protection Officer</option>
+                                    
+                                    <option value="37">Cover Supervisor</option>
+                                    
+                                    <option value="52">CPD Co-ordinator</option>
+                                    
+                                    <option value="53">Deputy Head</option>
+                                    
+                                    <option value="72">EAL Co-ordinator</option>
+                                    
+                                    <option value="73">G&T Co-ordinator</option>
+                                    
+                                    <option value="56">Governor</option>
+                                    
+                                    <option value="57">Head of Year</option>
+                                    
+                                    <option value="58">Headteacher</option>
+                                    
+                                    <option value="74">Health and Safety Officer</option>
+                                    
+                                    <option value="76">Induction Co-ordinator</option>
+                                    
+                                    <option value="44">Librarian</option>
+                                    
+                                    <option value="38">Newly & Recently Qualified</option>
+                                    
+                                    <option value="45">Premises Staff</option>
+                                    
+                                    <option value="47">SENCO</option>
+                                    
+                                    <option value="39">Subject Leader</option>
+                                    
+                                    <option value="40">Subject Teacher</option>
+                                    
+                                    <option value="41">Teaching Assistant</option>
+                                    
+                                    <option value="48">Technician</option>
+                                    
+                                </select>
+
+                            </div>
+
+                            <div class="form-group">
+
+                                <select id="subject" name="subject_id" class="form-control">
+                                    <option></option>
+                                    
+                                    <option value="2">Art</option>
+                                    
+                                    <option value="41">BTEC</option>
+                                    
+                                    <option value="5">Citizenship</option>
+                                    
+                                    <option value="15">Computing</option>
+                                    
+                                    <option value="6">Design Technology</option>
+                                    
+                                    <option value="7">Drama</option>
+                                    
+                                    <option value="9">English</option>
+                                    
+                                    <option value="12">Geography</option>
+                                    
+                                    <option value="14">History</option>
+                                    
+                                    <option value="18">Languages</option>
+                                    
+                                    <option value="16">Maths</option>
+                                    
+                                    <option value="19">Music</option>
+                                    
+                                    <option value="20">PE</option>
+                                    
+                                    <option value="24">PSHE</option>
+                                    
+                                    <option value="25">RE</option>
+                                    
+                                    <option value="26">Science</option>
+                                                                    </select>
+
+                            </div>
+                            
+                            <div class="form-group">
+                                
+                                <select id="focus_id" name="focus_id" class="form-control hide">
+                                    <option></option>
+                                    
+                                    <option value="64">A Level</option>
+                                    
+                                    <option value="2">Assessment</option>
+                                    
+                                    <option value="4">Behaviour and Attendance</option>
+                                    
+                                    <option value="62">Classroom Technology</option>
+                                    
+                                    <option value="56">Differentiation</option>
+                                    
+                                    <option value="11">EAL</option>
+                                    
+                                    <option value="14">Facilities & Site</option>
+                                    
+                                    <option value="63">GCSE</option>
+                                    
+                                    <option value="16">Gifted and Talented</option>
+                                    
+                                    <option value="19">Inspection & Self-Evaluation</option>
+                                    
+                                    <option value="21">Leadership and Management</option>
+                                    
+                                    <option value="23">Literacy and Numeracy</option>
+                                    
+                                    <option value="57">National Curriculum</option>
+                                    
+                                    <option value="49">Non-Specialists</option>
+                                    
+                                    <option value="58">Outstanding Lessons</option>
+                                    
+                                    <option value="26">Pastoral</option>
+                                    
+                                    <option value="28">Raising Attainment</option>
+                                    
+                                    <option value="6">Safeguarding</option>
+                                    
+                                    <option value="30">SEND</option>
+                                    
+                                    <option value="38">Vocational Learning</option>
+                                                                    </select>
+
+                            </div>
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#fc-accordion" href="#text-overview">
+                                Text Search
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="text-overview" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            <div class="form-group">
+                                
+                                <input type="text" class="form-control" id="text-search" name="q" placeholder="Enter keyword / course title / reference">
+                            </div>
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+
+            <div class="form-group">
+
+                <input type="submit" class="btn btn-orange btn-lg btn-block" value="Search Courses" />
+
+            </div>
+
+
+
+
+        </form>
+
+    </div>
+
+    <div class="content-area hide" id="book-a-course">
+        
+
+        <div class="form-group">
+            <select id='course-reference' name="reference" placeholder="Title or Reference" class="form-control" required>
+                <option></option>
+                            </select>
+
+        </div>
+
+        <div class="form-group">
+            <input type='hidden' id="location" name="location" class="form-control" required />
+        </div>
+
+        <div class="form-group">
+
+            <input id="date" name="date" type='hidden' class="form-control" required />
+
+
+        </div>
+
+        <div class="form-group">
+
+            <button class="btn btn-orange btn-lg btn-block" id="book-course-trigger" >Book Course</button>
+
+        </div>
+
+
+    </div>
+</div></div>
+
+<div class="sidebar-item">
+    <h4>Do you need further support?</h4>
+    <p>
+        We provide  in-house training and consultancy advice  in  this area. 
+    </p>
+    <p>
+        For further information call 020 8680 4077 or enquire below. 
+    </p>
+    <p class="text-center">
+        <a href="/inhouse-training/enquire" class="btn btn-primary btn-lg text-center">Further support</a>
+    </p>
+</div>
+        </div>
+
+    </div>
+
+</div>
+
+<div class="modal fade" id="login-modal" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Log In</h4>
+            </div>
+            <div class="modal-body">
+                                <form class="form-horizontal" role="form" method="post" action="/doLogin">
+                    <div class="form-group">
+                        <label for="inputEmail" class="col-sm-2 control-label">Email</label>
+                        <div class="col-sm-10">
+                            <input type="email" class="form-control" id="inputEmail3" name="inputEmail" placeholder="Email">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="inputPassword" class="col-sm-2 control-label">Password</label>
+                        <div class="col-sm-10">
+                            <input type="password" class="form-control" id="inputPassword3" name="inputPassword" placeholder="Password">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-sm-offset-2 col-sm-10">
+                            <button type="submit" class="btn btn-primary">Sign in</button>
+                            <a href="/forgot-password" title="Forgot your password?" class="btn btn-link pull-right">Forgotten your password?</a>
+                        </div>
+                    </div>
+                </form>
+
+            </div>            
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<!-- FOOTER START -->
+
+<div id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10 col-sm-10">
+                <div class="row">
+                    <div class="col-md-3 col-sm-3">
+                        <h4>Information</h4>
+                        <ul class="menu">
+                            <li>
+                                <a href="/find-a-course/fresh-search" title="Find a training course">Find a course</a>
+                            </li>                           
+                            <li>
+                                <a href="/inhouse-training" title="Inhouse training">In-house training</a>
+                            </li>
+                            <li>
+                                <a href="/e-learning" title="eLearning">E-Learning</a>
+                            </li>
+                            <li>
+                                <a href="/consultancy" title="Consultancy">Consultancy</a>
+                            </li>
+                            <li>
+					<a href="/videos">Teachers TV Videos</a>
+</li>
+				<li>
+                                <a href="/blog" title="Creative Education blog">Blog</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3 col-sm-3">
+                        <h4>Policies</h4>
+                        <ul class="menu">
+                            <li>
+                                <a href="/privacy-policy" title="Privacy Policy">Privacy policy</a>
+                            </li>
+                            <li>
+                                <a href="/terms-and-conditions" title="Terms and Conditions">Terms and conditions</a>
+                            </li>
+                             <li>
+                                <a href="/booking-terms-and-conditions" title="Course Booking Terms and Conditions">Booking terms and conditions</a>
+                            </li>
+                            <li>
+                                <a href="/cookies" title="Cookies">Cookies</a>
+                            </li>                                   
+                        </ul>
+                    </div>
+                    <div class="col-md-3 col-sm-3">
+                        <h4>For Trainers</h4>
+                        <ul class="menu">
+                            <li>
+                                <a href="http://legacy.creativeeducation.co.uk/extranet" title="Creative Education Extranet">Trainer website</a>
+                            </li>
+                            <li>
+                                <a href="/work-for-us" title="">Work for us</a>
+                            </li>                                    
+                        </ul>
+                    </div>
+                    <div class="col-md-3 col-sm-3">
+                        <h4>Contact Us</h4>
+                        
+                        <ul class="menu">
+                            <li>
+                                <a href="/contact/" title=""> Bookings / enquiries</a>
+                            </li>
+                            <!--<li>
+                                <a href="/contact/" title="">Customer services</a>
+                            </li>--> 
+                             <li>
+                                <a href="/contact/" title="">Accounts</a>
+                            </li> 
+                        </ul>
+                        
+                        <p></p>
+                        <p>
+                            <a href="https://twitter.com/creativeedu" class="twitter-follow-button" data-show-count="true" data-show-screen-name="true">Follow @creativeedu</a>
+                            <script>!function(d, s, id) {
+                                    var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+                                    if (!d.getElementById(id)) {
+                                        js = d.createElement(s);
+                                        js.id = id;
+                                        js.src = p + '://platform.twitter.com/widgets.js';
+                                        fjs.parentNode.insertBefore(js, fjs);
+                                    }
+                                }(document, 'script', 'twitter-wjs');</script>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 col-sm-2">
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 legal-footer">
+                &copy; Creative Education 2014
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- FOOTER END -->
+<!--ZOOMRESTART-->
+<!-- Creative Education Mobile Nav Container -->
+
+<div id="mobile-nav">
+    <a id="navbar-back" href="javascript:;">
+        &lt; Back
+    </a>
+</div>
+
+
+<script src="/js/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+<script type="text/javascript" src="/js/bootstrap.js"></script><script type="text/javascript" src="/js/mega-menu.js"></script><script type="text/javascript" src="/js/mega-search.js"></script><script type="text/javascript" src="/js/mobile-menu.js"></script><script type="text/javascript" src="/js/jquery.cycle2.min.js"></script><script type="text/javascript" src="/js/jquery.smooth.js"></script><script type="text/javascript" src="/js/jquery.creative.searchbox.js"></script><script type="text/javascript" src="/js/jquery.creative.sameheight.js"></script><script type="text/javascript" src="/js/slideshow.js"></script><script type="text/javascript" src="/js/select2.min.js"></script><script type="text/javascript" src="/js/moment.min.js"></script><script type="text/javascript" src="/js/book-course-overlay.js"></script><script type="text/javascript" src="/js/global.js"></script><script type="text/javascript" src="/js/mediaelement/mediaelement-and-player.min.js"></script><script type="text/javascript" src="/js/video.js"></script><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-189405-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+ 
+ 
+ <!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1068400114;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1068400114/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+ 
+ 
+</script>
+</body>
+</html>
+

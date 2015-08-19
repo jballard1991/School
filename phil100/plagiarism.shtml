@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/wts.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Plagiarism</title>
+<!-- InstanceEndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<style type="text/css" media="screen">
+<!--
+@import url("http://www.indiana.edu/~wts/wts_css/wts_pages.css");
+-->
+</style>
+<link rel="stylesheet" type="text/css" media="print" href="http://www.indiana.edu/~wts/wts_css/wts_pages_print.css" />
+</head>
+
+<body>
+<div id="container"> 
+  <div id="banner"> 
+    <!--"wts_banner.shtml" is the banner for all ~wts pages, called as a server-side include-->
+
+<a name="top"></a>
+<img src="http://www.indiana.edu/~wts/banner_images/wts_banner_2011.jpg" alt="Writing Tutorial Services banner" width="760" height="126" border="0" usemap="#Map" />
+<map name="Map" id="Map">
+  <area shape="rect" coords="3,4,185,36" href="http://www.iub.edu" alt="Link to IUB home page" />
+</map>
+
+  </div>
+  <div id="nav_bar"> 
+    <!--"wts_nav_menu.shtml" is the navigational menu for all ~wts pages, called as a server-side include-->
+
+<div class="head">
+<form action = "http://search.iu.edu/query.html" method = "get" name ="search" id="search">    
+    <label for="searchbox" class="medium">Search WTS</label>		
+    <input name="qt" type="text" id="searchbox" value="Search" size="12" maxlength="600" />
+      <input name="submit" type="submit" value="Go" />
+      <input type = "hidden" name="col" value = "www" />
+      <input type = "hidden" name="qc" value = "www" />
+      <input type = "hidden" name = "qp" value = "url:www.indiana.edu/~wts/" />
+      <input type = "hidden" name = "pw" value = "100%" />
+      <input type="hidden" name="iuhd" value="http://www.indiana.edu/~wts/search_navs/searchheader.shtml" />
+      <input type="hidden" name="iuft" value="http://www.indiana.edu/~wts/search_navs/searchfooter.shtml" />
+</form>
+<div class="head_solo">&nbsp;</div>
+</div>
+<div class="head">WTS Services
+<div class="service_resource"><a href="http://www.indiana.edu/~wts/faq_student.shtml">Student FAQs</a></div>
+<div class="service_resource"><a href="http://www.indiana.edu/~wts/faq_faculty.shtml">Faculty FAQs</a></div>
+<div class="service_resource"><a href="http://www.indiana.edu/~wts/policies.shtml">Policies</a></div>
+<div class="service_resource"><a href="http://www.indiana.edu/~wts/pamphlets.shtml">Pamphlets</a></div>
+  <div class="service_resource"><a href="http://www.indiana.edu/~wts/info.shtml#specific">Discipline- 
+    and Course-Specific Tutoring</a></div>
+</div>
+<div class="head"><a href="http://www.indiana.edu/~wts/staff.shtml">WTS Staff</a></div>
+<div class="head"><a href="http://www.indiana.edu/~wts/index.php">WTS Home</a></div>
+<div>&nbsp;</div>
+  </div>
+  <div id="content"> 
+    <!-- InstanceBeginEditable name="Content" --> 
+      <h1>Plagiarism: What It is and How to Recognize and Avoid It</h1>
+      <h3>What is Plagiarism and Why is it Important?</h3>
+      <p>In college courses, we are continually engaged with other people&#8217;s 
+        ideas: we read them in texts, hear them in lecture, discuss them in class, 
+        and incorporate them into our own writing. As a result, it is very important 
+        that we give credit where it is due. Plagiarism is using others&#8217; 
+        ideas and words without clearly acknowledging the source of that information.</p>
+      <h3>How Can Students Avoid Plagiarism?</h3>
+      <p>To avoid plagiarism, you must give credit whenever you use</p>
+      <ul>
+        <li>another person&#8217;s idea, opinion, or theory; </li>
+        <li>any facts, statistics, graphs, drawings&#8212;any pieces of information&#8212;that 
+          are not common knowledge; </li>
+        <li>quotations of another person&#8217;s actual spoken or written words; 
+          or </li>
+        <li>paraphrase of another person&#8217;s spoken or written words. </li>
+      </ul>
+      <p>These guidelines are taken from the <a
+href="http://dsa.indiana.edu/Code/">Code of Student Rights, Responsibilities, 
+        and Conduct</a>.</p>
+      <p>To help you recognize what plagiarism looks like and what strategies 
+        you can use to avoid it, select one of the following links or scroll down 
+        to the appropriate topic.</p>
+      <ul>
+        <li><a href="#original">How to Recognize Unacceptable and Acceptable Paraphrases</a> 
+          <ul>
+            <li><a href="#plagiarized">An Unacceptable Paraphrase</a> </li>
+            <li><a href="#acceptable1">An Acceptable Paraphrase</a> </li>
+            <li><a href="#acceptable2">Another Acceptable Paraphrase</a> </li>
+          </ul>
+        </li>
+        <li><a href="#wwwplagiarism">Plagiarism and the World Wide Web</a></li>
+        <li><a href="#strategies">Strategies for Avoiding Plagiarism</a> </li>
+        <li><a href="#terms">Terms You Need to Know (or What is Common Knowledge?)</a> 
+        </li>
+      </ul>
+      <hr align="left" />
+      <h3><a name="original" id="original"></a>How to Recognize Unacceptable and 
+        Acceptable Paraphrases</h3>
+      <p>Here&#8217;s the ORIGINAL text, from page 1 of <em>Lizzie Borden: A Case 
+        Book of Family and Crime in the 1890s</em> by Joyce Williams et al.:</p>
+      <p>The rise of industry, the growth of cities, and the expansion of the 
+        population were the three great developments of late nineteenth century 
+        American history. As new, larger, steam-powered factories became a feature 
+        of the American landscape in the East, they transformed farm hands into 
+        industrial laborers, and provided jobs for a rising tide of immigrants. 
+        With industry came urbanization the growth of large cities (like Fall 
+        River, Massachusetts, where the Bordens lived) which became the centers 
+        of production as well as of commerce and trade.</p>
+      <p><a name="plagiarized" id="plagiarized"></a>Here&#8217;s an UNACCEPTABLE 
+        paraphrase that is <strong>plagiarism:</strong></p>
+      <p><tt>The increase of industry, the growth of cities, and the explosion 
+        of the population were three large factors of nineteenth century America. 
+        As steam-driven companies became more visible in the eastern part of the 
+        country, they changed farm hands into factory workers and provided jobs 
+        for the large wave of immigrants. With industry came the growth of large 
+        cities like Fall River where the Bordens lived which turned into centers 
+        of commerce and trade as well as production.</tt></p>
+      <h4>What makes this passage plagiarism?</h4>
+      <p>The preceding passage is considered plagiarism for two reasons:</p>
+      <ul>
+        <li>the writer has only changed around a few words and phrases, or changed 
+          the order of the original&#8217;s sentences. </li>
+        <li>the writer has failed to cite a source for any of the ideas or facts. 
+        </li>
+      </ul>
+      <p><strong>If you do either or both of these things, you are plagiarizing.</strong><font color="#000000"><strong><br />
+        <br />
+        </strong></font><strong>NOTE: </strong>This paragraph is also problematic 
+        because it changes the sense of several sentences (for example, &quot;steam-driven 
+        companies&quot; in sentence two misses the original&#8217;s emphasis on 
+        factories).</p>
+      <p><a name="acceptable1" id="acceptable1"></a><strong>Here&#8217;s an ACCEPTABLE 
+        paraphrase:<br />
+        <br />
+        </strong><tt>Fall River, where the Borden family lived, was typical of 
+        northeastern industrial cities of the nineteenth century. Steam-powered 
+        production had shifted labor from agriculture to manufacturing, and as 
+        immigrants arrived in the US, they found work in these new factories. 
+        As a result, populations grew, and large urban areas arose. Fall River 
+        was one of these manufacturing and commercial centers (Williams 1).<br />
+        <br />
+        </tt><strong>Why is this passage acceptable?</strong></p>
+      <p>This is acceptable paraphrasing because the writer:</p>
+      <ul>
+        <li>accurately relays the information in the original</li>
+        <li>uses her own words. </li>
+        <li>lets her reader know the source of her information. </li>
+      </ul>
+      <p><a name="acceptable2" id="acceptable2"></a><strong>Here&#8217;s an example 
+        of quotation and paraphrase used together, which is also ACCEPTABLE:<br />
+        <br />
+        </strong><tt>Fall River, where the Borden family lived, was typical of 
+        northeastern industrial cities of the nineteenth century. As steam-powered 
+        production shifted labor from agriculture to manufacturing, the demand 
+        for workers &quot;transformed farm hands into industrial laborers,&quot; 
+        and created jobs for immigrants. In turn, growing populations increased 
+        the size of urban areas. Fall River was one of these hubs &quot;which 
+        became the centers of production as well as of commerce and trade&quot; 
+        (Williams 1).<br />
+        <br />
+        </tt><strong>Why is this passage acceptable?</strong></p>
+      <p>This is acceptable paraphrasing because the writer:</p>
+      <ul>
+        <li>records the information in the original passage accurately. </li>
+        <li>gives credit for the ideas in this passage. </li>
+        <li>indicated which part is taken directly from her source by putting 
+          the passage in quotation marks and citing the page number. </li>
+      </ul>
+      <p>Note that if the writer had used these phrases or sentences in her own 
+        paper without putting quotation marks around them, she would be PLAGIARIZING. 
+        Using another person&#8217;s phrases or sentences without putting quotation 
+        marks around them is considered plagiarism <b>EVEN IF THE WRITER CITES 
+        IN HER OWN TEXT THE SOURCE OF THE PHRASES OR SENTENCES SHE HAS QUOTED.</b></p>
+      <h3><a name="wwwplagiarism" id="wwwplagiarism"></a>Plagiarism and the World 
+        Wide Web</h3>
+      <p>The World Wide Web has become a more popular source of information for 
+        student papers, and many questions have arisen about how to avoid plagiarizing 
+        these sources. In most cases, the same rules apply as to a printed source: 
+        when a writer must refer to ideas or quote from a WWW site, she must cite 
+        that source.</p>
+      <p>If a writer wants to use visual information from a WWW site, many of 
+        the same rules apply. Copying visual information or graphics from a WWW 
+        site (or from a printed source) is very similar to quoting information, 
+        and the source of the visual information or graphic must be cited. These 
+        rules also apply to other uses of textual or visual information from WWW 
+        sites; for example, if a student is constructing a web page as a class 
+        project, and copies graphics or visual information from other sites, she 
+        must also provide information about the source of this information. In 
+        this case, it might be a good idea to obtain permission from the WWW site&#8217;s 
+        owner before using the graphics.</p>
+      <h3><a name="strategies" id="strategies"></a>Strategies for Avoiding Plagiarism</h3>
+      <p>1. Put in <b>quotations</b> everything that comes directly from the text 
+        especially when taking notes.</p>
+      <p>2. <b>Paraphrase</b>, but be sure you are not just rearranging or replacing 
+        a few words. </p>
+      <blockquote> 
+        <p>Instead, read over what you want to paraphrase carefully; cover up 
+          the text with your hand, or close the text so you can&#8217;t see any 
+          of it (and so aren&#8217;t tempted to use the text as a &#8220;guide&#8221;). 
+          Write out the idea in your own words without peeking.</p>
+      </blockquote>
+      <p>3. <b>Check your paraphrase</b> against the original text to be sure 
+        you have not accidentally used the same phrases or words, and that the 
+        information is accurate.
+      </p>
+      <h3><a name="terms" id="terms"></a>Terms You Need to Know (or What is Common 
+        Knowledge?)</h3>
+      <p><strong>Common knowledge</strong>: facts that can be found in numerous 
+        places and are likely to be known by a lot of people.</p>
+      <blockquote> 
+        <p><tt>Example</tt>: John F. Kennedy was elected President of the United 
+          States in 1960.</p>
+      </blockquote>
+      <p>This is generally known information. <strong>You do not need to document 
+        this fact.</strong></p>
+      <p>However, you must document facts that are not generally known and ideas 
+        that interpret facts.</p>
+      <blockquote> 
+        <p><tt>Example:</tt> According to the American Family Leave Coalition&#8217;s 
+          new book,<em> Family Issues and Congress</em>, President Bush&#8217;s relationship 
+          with Congress has hindered family leave legislation (6).</p>
+      </blockquote>
+      <p>The idea that &#8220;Bush&#8217;s relationship with Congress has hindered 
+        family leave legislation&#8221; is not a fact but an <em>interpretation</em>; 
+        <strong>consequently, you need to cite your source.</strong></p>
+      <p><strong>Quotation:</strong> using someone&#8217;s words. When you quote, 
+        place the passage you are using in quotation marks, and document the source 
+        according to a standard documentation style.</p>
+      <p>The following example uses the Modern Language Association&#8217;s style:</p>
+      <blockquote> 
+        <p><tt>Example</tt>: According to Peter S. Pritchard in <em>USA Today</em>, &#8220;Public 
+          schools need reform but they&#8217;re irreplaceable in teaching all 
+          the nation&#8217;s young&#8221; (14).</p>
+      </blockquote>
+      <p><strong>Paraphrase:</strong> using someone&#8217;s ideas, but putting 
+        them in your own words. This is probably the skill you will use most when 
+        incorporating sources into your writing. Although you use your own words 
+        to paraphrase, you must still acknowledge the source of the information.</p>
+      <p><em>Produced by Writing Tutorial Services, Indiana University, Bloomington, 
+        IN</em></p>
+      <p>[<a href="#top">Back to top</a>]</p>
+    <!-- InstanceEndEditable -->
+  </div>
+  <div id="footer">
+  <!--"wts_footer.shtml" is the first part of the footer for all ~wts pages, called as a server-side include-->
+
+<hr />
+<p><img src="http://www.indiana.edu/~wts/shtml_navs/iub.jpg" alt="Indiana University Bloomington wordmark" width="176" height="34" border="0" /><br />
+  Writing Tutorial Services<br />
+  Center for Innovative Teaching and Learning<br />
+  Wells Library Learning Commons, 1320 E. Tenth St., Bloomington, IN 47405<br />
+  Phone: (812) 855-6738<br />
+  <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#119;&#116;&#115;&#64;&#105;&#110;&#100;&#105;&#97;&#110;&#97;&#46;&#101;&#100;&#117;">Comments</a></p>
+    <p><!-- InstanceBeginEditable name="Update" -->Last updated: 7 April 2014<!-- InstanceEndEditable --><br />
+      <!--"wts_footer2.shtml" is the second part of the footer for all ~wts pages, called as a server-side include-->
+
+<a href="http://www.indiana.edu/copyright.html">Copyright</a> 2011, the Trustees 
+  of <a href="http://www.indiana.edu/">Indiana University</a><br />
+  <a href="http://www.indiana.edu/copyright_complaints.shtml">Copyright Complaints</a>
+
+    </p>
+  </div>
+</div>
+</body>
+<!-- InstanceEnd --></html>

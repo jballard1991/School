@@ -1,0 +1,362 @@
+
+<!DOCTYPE html>
+<html>
+ <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# podbayfm: http://ogp.me/ns/fb/podbayfm#">
+     <title>Jonathan Wolff on Marx on Alienation from Philosophy Bites on podbay</title>	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+	<link href="/css/bootstrap.css" rel="stylesheet">
+	  <meta property="fb:app_id" content="405518722826980" />
+	  <meta property="og:type"   content="podbayfm:podcast" />
+	  <meta property="og:title" content="Jonathan Wolff on Marx on Alienation from Philosophy Bites" on podbay.fm"/>	    <meta property="og:url" content="http://podbay.fm/show/257042117/e/1210504020"/>
+	    <meta property="og:image" content="http://is2.mzstatic.com/image/pf/us/r30/Podcasts4/v4/92/0e/99/920e995d-8a39-3fef-e952-ab3f0e9468d4/mza_5647111360199299869.600x600-75.jpg"/>
+	    <meta property="og:site_name" content="podbay"/>
+	    <meta property="fb:admins" content="545494252,3407053" />
+      <meta name="apple-itunes-app" content="app-id=578383413,affiliate-date='at=10l3KS&ct=app-banner',app-argument=podbay://257042117"/>
+	    <meta property="twitter:account_id" content="10791832" />
+	    <meta property="og:description" content="Listen to episodes of Philosophy Bites on podbay.fm."/>	<style>
+	body {
+		padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+	}
+	.thumbnail {
+		overflow: auto;
+	}
+	 table { table-layout: fixed; }
+	 table th, table td { overflow: hidden; }
+
+	</style>
+	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+	<link rel="stylesheet" href="/css/main.css" type="text/css" media="screen" charset="utf-8">
+	<link rel="stylesheet" href="/css/home.css" type="text/css" media="screen" charset="utf-8">
+	<link href='http://fonts.googleapis.com/css?family=Josefin+Slab:700' rel='stylesheet' type='text/css'>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script src="/js/lightbox.js"></script>
+	<link href="/css/lightbox.css" rel="stylesheet" />
+	<script type="text/javascript" src="/js/jwplayer.js"></script>
+		<script type="text/javascript">
+			var startTime;
+			var endTime;
+			$(window).unload(function() {
+				if (jwplayer().getState() == 'PLAYING') {
+					console.log(jwplayer().getState());
+					var theDate = new Date();
+					var oneYearLater = new Date( theDate.getTime() + 31536000000 );
+					var expiryDate = oneYearLater.toGMTString();
+					document.cookie='2570421171210504020=' + jwplayer().getPosition() + '; expires=' + expiryDate  + 'domain=podbay.fm;path=/;';
+				}
+			});
+			function startTime() {
+			    var dc = document.cookie;
+			    var cname = "2570421171210504020=";
+			    if (dc.length > 0) {
+			      begin = dc.indexOf(cname);
+			      if (begin != -1) {
+			        begin += cname.length;
+			        end = dc.indexOf(";",begin);
+			        if (end == -1) end = dc.length;
+			        return unescape(dc.substring(begin, end));
+			        }
+			      }
+			    return 0;
+			}
+			function secondstotime(secs)
+			{
+			    var t = new Date(1970,0,1);
+			    t.setSeconds(secs);
+			    var s = t.toTimeString().substr(0,8);
+			    if(secs > 86399)
+			        s = Math.floor((t - Date.parse("1/1/70")) / 3600000) + s.substr(2);
+			    return s;
+			 }
+			function clipper () {
+				if (document.getElementById('shareClip').innerHTML == '<h5>Cancel</h5>') {
+					document.getElementById('shareClip').innerHTML = '<h5>Share a clip (Beta)</h5>';
+					document.getElementById('sharer').style.display = 'none';
+					window.resizeTo(320,520);
+					jwplayer().resize(320,24);
+				} else {
+					document.getElementById('shareClip').innerHTML = '<h5>Cancel</h5>';
+					window.resizeTo(640,520);
+					jwplayer().resize(640,24);
+					document.getElementById('sharer').style.display = 'inline';
+				}
+			}
+			function saveStartTime() {
+				if ((jwplayer().getPosition() < endTime) || (endTime==null)) {
+					startTime = jwplayer().getPosition();
+					document.getElementById('startTime').innerHTML = secondstotime(startTime);
+					document.getElementById('startButton').innerHTML = 'Update Start Time';
+					if ((startTime != null) && (endTime != null)) {
+						document.getElementById('createClipBtn').style.display = 'inline';
+					}
+				}
+			}
+			function saveEndTime() {
+				if (jwplayer().getPosition() > startTime) {
+					endTime = jwplayer().getPosition();
+					document.getElementById('endTime').innerHTML = secondstotime(endTime);
+					document.getElementById('endButton').innerHTML = 'Update End Time';
+					if ((startTime != null) && (endTime != null)) {
+						document.getElementById('createClipBtn').style.display = 'inline-block';
+					}
+				}
+			}
+		</script>
+
+</head>
+<body>
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+	    <div class="container">
+          <a class="brand" href="/"><b>podbay.fm</b></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+			  <li class="dropdown">
+			    <a href="#"
+			          class="dropdown-toggle"
+			          data-toggle="dropdown">
+			          Browse
+			          <b class="caret"></b>
+			    </a>
+			    <ul class="dropdown-menu">
+	              <li><a href="/browse/all">All Genres</a></li>
+				  <li><a href="/browse/arts">Arts</a></li>
+				  <li><a href="/browse/business">Business</a></li>
+				  <li><a href="/browse/comedy">Comedy</a></li>
+				  <li><a href="/browse/education">Education</a></li>
+				  <li><a href="/browse/games-and-hobbies">Games & Hobbies</a></li>
+				  <li><a href="/browse/government-and-organizations">Government & Organizations</a></li>
+				  <li><a href="/browse/health">Health</a></li>
+				  <li><a href="/browse/kids-and-family">Kids & Family</a></li>
+				  <li><a href="/browse/music">Music</a></li>
+				  <li><a href="/browse/news-and-politics">News & Politics</a></li>
+				  <li><a href="/browse/religion-and-spirituality">Religion & Spirituality</a></li>
+				  <li><a href="/browse/science-and-medicine">Science & Medicine</a></li>
+				  <li><a href="/browse/society-and-culture">Society & Culture</a></li>
+				  <li><a href="/browse/sports-and-recreation">Sports & Recreation</a></li>
+				  <li><a href="/browse/technology">Technology</a></li>
+				  <li><a href="/browse/tv-and-film">TV & Film</a></li>
+			    </ul>
+			  </li>
+            </ul>
+
+<!--
+<script type = "text/javascript">
+function delete_cookie() {
+	document.cookie = 'recentshows=; expires=Thu, 01-Jan-70 00:00:01 GMT; path=/; domain=podbay.fm;';
+}
+</script>
+-->
+        <ul class="nav">
+			  <li class="dropdown">
+                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Recent<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                      <li class="no-recent">No recent shows</li>                    </ul>
+                  </li>
+			  </ul>
+     <ul class="nav">
+     	<li class="dropdown">
+     		<a href="#" class="dropdown-toggle" data-toggle="dropdown">Mobile Apps<b class="caret"></b></a>
+     		<ul class="dropdown-menu">
+	     		<li><a target="_blank" href="http://itunes.apple.com/app/id578383413?at=10l4LF&ct=app-nav">Podbay for iPhone</a></li>
+	     		<li><a target="_blank" href="https://play.google.com/store/apps/details?id=com.fountainla.podbay">Podbay for Android</a></li>
+     		</ul>
+     	</li>
+	</ul>
+
+     <ul class="nav"><li class="dropdown" style="margin-right:15px;">
+     <a href="/next/" target="_blank">Preview the <i>next</i> Podbay</a></li>
+     </ul>
+
+
+			<form class="navbar-search pull-right" action="/search/index.php" method="GET">
+			  <input type="text" class="search-query" placeholder="Search for any podcast..." name="term">
+			</form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+		<div class="span3">
+			<div class="well sidebar-nav">
+				<div class="thumbnail"><a href="http://is2.mzstatic.com/image/pf/us/r30/Podcasts4/v4/92/0e/99/920e995d-8a39-3fef-e952-ab3f0e9468d4/mza_5647111360199299869.600x600-75.jpg" rel="lightbox"><img src = "http://is2.mzstatic.com/image/pf/us/r30/Podcasts4/v4/92/0e/99/920e995d-8a39-3fef-e952-ab3f0e9468d4/mza_5647111360199299869.600x600-75.jpg" /></a></div><h4 style="margin-top:10px;">Philosophy Bites</h4><h6>Edmonds and Warburton - Arts</h6>				<div style="overflow:hidden;width:200px;margin-top:5px;margin-bottom:-10px;">
+					<iframe src="http://www.facebook.com/plugins/like.php?href=http://podbay.fm/show/257042117&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=20&amp;appId=405518722826980" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:85px; height:20px"></iframe>
+					<a href="https://twitter.com/share" class="twitter-share-button" data-related="podbayfm" data-url="http://podbay.fm/show/257042117" data-text="Listen to episodes of Philosophy Bites on podbay.fm">Tweet</a>
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+					<hr/><a href="http://podbay.fm/show/257042117"><h4 style="line-height:0px;color:#777;" >Episodes</h4></a><hr/><a href="http://podbay.fm/show/257042117/stats"><h4 style="line-height:0px" >Stats</h4></a><hr/><a href="http://podbay.fm/show/257042117/reviews"><h4 style="line-height:0px" >Reviews</h4></a><hr/><a href="https://itunes.apple.com/us/podcast/philosophy-bites/id257042117?mt=2&uo=4&at=10l4LF&ct=show-sidebar" target="_blank"><h4 style="line-height:0px;" >Open in iTunes</h4></a><hr/><a href="http://philosophybites.libsyn.com/rss" target="_blank"><h4 style="line-height:0px;" >Open RSS feed</h4></a><hr/><a href="http://www.philosophybites.com" target="_blank"><h4 style="line-height:0px;" >Open Website</h4></a><hr/><p><h6>Description</h6>David Edmonds (Uehiro Centre, Oxford University) and Nigel Warburton (The Open University) interview top philosophers on a wide range of topics. A book based on the series has recently been published by Oxford University Press. The Philosophy Bites podcast is made in association with the Institute of Philosophy.</p>&#169; copyright David Edmonds and Nigel Warburton			</div>
+		</div>
+		<div class="span8"><ul  style="width:631px !important" class="breadcrumb"><li><a href="http://podbay.fm/show/257042117">List of Episodes</a></li><span class="divider">/</span><li class="active">Jonathan Wolff on Marx on Alienation</li></ul></div><div class="span8 well"><h2>Jonathan Wolff on Marx on Alienation</h2><p></p><p id='detect'>Karl Marx's theory of alienated labour is the topic of this episode of the Philosophy Bites podcast. Jonathan Wolff, author of Why Read Marx Today? explains what Marx meant by alienation. He also sheds light on Marx's controversial description of what non-alienated labour would be like.<br/></p><iframe src="http://www.facebook.com/plugins/like.php?href=http://podbay.fm/show/257042117/e/1210504020&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=20&amp;appId=405518722826980" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:85px; height:20px"></iframe><a href="https://twitter.com/share" data-url="http://podbay.fm/show/257042117/e/1210504020" class="twitter-share-button" data-text="Listening to Jonathan Wolff on Marx on Alienation from Philosophy Bites." data-related="podbayfm">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><a onclick="return popup('../../popout.php?id=257042117&e=1210504020')" href="../../popout.php?id=257042117&e=1210504020" target="_blank" style='float:right;' class="btn btn-mini btn-info">Popout <i class="icon-share icon-white"></i></a><a style='float:right;margin-right:5px;' target='_blank' href='http://itunes.apple.com/app/id578383413?at=10l4LF&ct=app-btn' class='btn btn-success btn-mini'>Listen on iPhone</a><a style='float:right;margin-right:5px;' target='_blank' href='https://play.google.com/store/apps/details?id=com.fountainla.podbay' class='btn btn-success btn-mini'>Listen on Android</a><hr style='margin-top:10px;margin-bottom:10px;'/><div id="container">Loading...</div><script type="text/javascript">jwplayer("container").setup({ flashplayer: "/js/player.swf", file: "http://traffic.libsyn.com/philosophybites/Johnathan_Wolff_on_Marx_on_Alienation_1.mp3",height: 24,width: 550,controlbar: 'bottom','plugins': 'backstroke-1', start: startTime(),autostart: false,skin: "/js/stormtrooper.zip"});</script><div title='Right click and select Save As...' class='pull-right' id='download' style='margin-top:-22px'><a class='btn btn-mini btn-primary' href='http://hwcdn.libsyn.com/p/9/f/b/9fb69a01a24b8098/Johnathan_Wolff_on_Marx_on_Alienation_1.mp3?c_id=1779379&expiration=1439240305&hwt=102268d0dc1983585833093d56e2647d'>Download</a></div></div><div class="span8 well"><script type="text/javascript">var disqus_identifier = '257042117/e1210504020';</script><div id="disqus_thread"></div><script type="text/javascript">var disqus_shortname = 'podbayfm';(function() {var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);})();</script></div>	</div>
+<!-- 	<script type="text/javascript" src="http://srvpub.com/adServe/banners?tid=SHAHRUZ_28111_0&size=728x90" ></script> -->
+      <hr>
+
+      <footer style="color:#3B6D83">
+        <p>&copy; Podbay 2012 | <span class="legal"><a href="/terms/">terms</a> <a href="/privacy/">privacy</a> <a href="mailto:hello@podbay.fm">contact</a></span> <span style="float:right;color:#888">Podbay.fm neither hosts nor alters podcast files. All content &#169; its respective owners.</span></p>
+      </footer>
+
+    </div> <!-- /container -->
+		<script type="text/javascript">
+			$(function chart() {
+				if(5 == 0){
+					$('#visualization').append('<h3 class="no-stats">Not enough data to display stats</h3>');
+				} else {
+					var seriesOptions = [],
+					yAxisOptions = [],
+					seriesCounter = 0,
+					names = ["All","Arts"],
+					colors = Highcharts.getOptions().colors;
+					$.each(names, function(i, name) {
+						$.getJSON('/show/chart-data.php?id='+ 257042117 +'&key=' + name.toLowerCase(), function(data) {
+							seriesOptions[i] = {
+								name: name,
+								data: data
+							};
+							seriesCounter++;
+							if (seriesCounter == names.length) {
+								createChart();
+							}
+						});
+					});
+				}
+				function createChart() {
+				chart = new Highcharts.StockChart({
+				    chart: {
+				        renderTo: 'visualization',
+				        backgroundColor: "#fff"
+				    },
+			    	global: {
+						useUTC: false
+					},
+				    rangeSelector: {
+				        selected: 4
+				    },
+				    yAxis: {
+				    	labels: {
+				    		formatter: function() {
+				    			return this.value;
+				    		}
+				    	},
+				    	plotLines: [{
+				    		value: 0,
+				    		width: 2,
+				    		color: 'silver'
+				    	}],
+					    reversed: true
+				    },
+		            plotOptions: {
+			            line: {
+		                	gapSize: 2
+		                }
+		            },
+				    tooltip: {
+				    	pointFormat: '<span style="color:{series.color}">{series.name}</span>: <b>{point.y}</b><br/>'
+				    },
+			        rangeSelector: {
+				        buttons: [{
+							type: 'day',
+							count: 1,
+							text: '24h'
+						}, {
+							type: 'week',
+							count: 1,
+							text: '1w'
+						}, {
+							type: 'week',
+							count: 2,
+							text: '2w'
+						}, {
+							type: 'month',
+							count: 1,
+							text: '1m'
+						}, {
+							type: 'month',
+							count: 6,
+							text: '6m'
+						}],
+						selected: 2
+				    },
+				    series: seriesOptions,
+				    credits: {
+				    	enabled: true,
+				    	href: "http://podbay.fm",
+				    	text: "podbay.fm."
+				    },
+				    title: {
+					    text: 'iTunes Ranking History'
+				    }
+				});
+				}
+			});
+
+		</script>
+		<script src="http://code.highcharts.com/stock/highstock.js"></script>
+		<script src="http://code.highcharts.com/stock/modules/exporting.js"></script>
+		<script language="javascript" type="text/javascript">
+			function popup(url) {
+				if (jwplayer()) {
+					var theDate = new Date();
+					var oneYearLater = new Date( theDate.getTime() + 31536000000 );
+					var expiryDate = oneYearLater.toGMTString();
+					document.cookie='2570421171210504020=' + jwplayer().getPosition() + '; expires=' + expiryDate + 'domain=podbay.fm;path=/;';
+					jwplayer().pause(true);
+				}
+newwindow=window.open(url,'name','toolbar=0,location=0,statusbar=0,menubar=0,resizable=0,height=510,width=320');
+				if (window.focus) {newwindow.focus()}
+				return false;
+			}
+			function popupvideo(url) {
+newwindow=window.open(url,'name','toolbar=0,location=0,statusbar=0,menubar=0,resizable=0,height=480,width=640');
+				if (window.focus) {newwindow.focus()}
+				return false;
+			}
+		</script>
+
+<!--Analytics-->
+	<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33062090-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!--End Analytics-->
+	<script src="/js/jquery.js"></script>
+	<script src="/js/bootstrap-alert.js"></script>
+	<script src="/js/bootstrap-modal.js"></script>
+	<script src="/js/bootstrap-dropdown.js"></script>
+	<script src="/js/bootstrap-scrollspy.js"></script>
+	<script src="/js/bootstrap-tab.js"></script>
+	<script src="/js/bootstrap-tooltip.js"></script>
+	<script src="/js/bootstrap-popover.js"></script>
+	<script src="/js/bootstrap-button.js"></script>
+	<script src="/js/bootstrap-collapse.js"></script>
+	<script type="text/javascript">
+	  $(document).ready(function () {
+	    $("[rel=tooltip]").tooltip({'placement':'bottom'});
+	       $("[rel=popover]").popover({'placement':'bottom'});
+	    	  });
+	</script>
+<script type="text/javascript">
+  var _sf_async_config = { uid: 39592, domain: 'podbay.fm' };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+        (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+        "js/chartbeat.js");
+      document.body.appendChild(e);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+</body>
+</html>

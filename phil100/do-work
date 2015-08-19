@@ -1,0 +1,606 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://thework.com/sites/all/themes/thework/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta property="og:url" content="http://thework.com/do-work" />
+<link rel="apple-touch-icon" href="http://thework.com/sites/all/themes/thework/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon-precomposed" href="http://thework.com/sites/all/themes/thework/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta charset="utf-8" />
+<meta property="og:site_name" content="The Work" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Do The Work" />
+<meta name="description" content="What is the Work?    The Work Process    Resources    Do The Work   What is the Work?" />
+<meta property="og:description" content="What is the Work?    The Work Process    Resources    Do The Work   What is the Work?" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://thework.com/do-work" />
+<link rel="shortlink" href="http://thework.com/node/40" />
+  <title>Do The Work | The Work</title>
+  <style type="text/css" media="all">
+@import url("http://thework.com/modules/system/system.base.css?nrjhyv");
+@import url("http://thework.com/modules/system/system.menus.css?nrjhyv");
+@import url("http://thework.com/modules/system/system.messages.css?nrjhyv");
+@import url("http://thework.com/modules/system/system.theme.css?nrjhyv");
+</style>
+<style type="text/css" media="all">
+@import url("http://thework.com/modules/aggregator/aggregator.css?nrjhyv");
+@import url("http://thework.com/sites/all/modules/calendar/css/calendar_multiday.css?nrjhyv");
+@import url("http://thework.com/sites/all/modules/date/date_api/date.css?nrjhyv");
+@import url("http://thework.com/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?nrjhyv");
+@import url("http://thework.com/sites/all/modules/environment_indicator/environment_indicator.css?nrjhyv");
+@import url("http://thework.com/modules/field/theme/field.css?nrjhyv");
+</style>
+<style type="text/css" media="all">
+@import url("http://thework.com/modules/node/node.css?nrjhyv");
+@import url("http://thework.com/modules/search/search.css?nrjhyv");
+@import url("http://thework.com/modules/user/user.css?nrjhyv");
+@import url("http://thework.com/sites/all/modules/youtube/css/youtube.css?nrjhyv");
+@import url("http://thework.com/sites/all/modules/views/css/views.css?nrjhyv");
+</style>
+<style type="text/css" media="all">
+@import url("http://thework.com/sites/all/modules/colorbox/styles/default/colorbox_style.css?nrjhyv");
+@import url("http://thework.com/sites/all/modules/ctools/css/ctools.css?nrjhyv");
+@import url("http://thework.com/sites/all/libraries/fontawesome/css/font-awesome.css?nrjhyv");
+</style>
+<style type="text/css" media="all">
+@import url("http://thework.com/sites/all/themes/thework/dist/css/bootstrap.css?nrjhyv");
+@import url("http://thework.com/sites/all/themes/thework/dist/css/flat-ui.css?nrjhyv");
+@import url("http://thework.com/sites/all/themes/thework/css/screen.css?nrjhyv");
+@import url("http://thework.com/sites/all/themes/thework/css/customizations.css?nrjhyv");
+@import url("http://thework.com/sites/all/themes/thework/css/style-responsive.css?nrjhyv");
+</style>
+<style type="text/css" media="screen, projection">
+@import url("http://thework.com/sites/all/themes/thework/css/mmenu/jquery.mmenu.all.css?nrjhyv");
+</style>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-40 node-type-page" >
+    
+<div class="navbar navbar-inverse navbar-fixed-top header-navbar" role="navigation">
+  <div class="container header-container">
+    <div class="navbar-header">
+      <a class="navbar-brand pull-left" href="/">The Work</a>
+      <div class="pull-right nav-search-container">
+      
+        <div class="searchn">
+          <span class="input-group-addon glyph-search searchn-span">
+            <span class="glyphicon glyphicon-search" style="font-size:15px;"></span>
+          </span>
+          <div style="float: left; margin-top:11px; ">  <div class="region region-search">
+    
+<div id="block-search-form" class="block block-search">
+
+      
+  <div class="content">
+    <form action="/do-work" method="post" id="search-block-form" accept-charset="UTF-8"><div class="input-group"><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-vhZ3fHqu8rL5LUS6fJ_pRFPGjAiDoHbA2Kyn-CvWffA" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+
+  </div>
+</div>
+			  </div>
+        
+        <a href="" class="navbar-toggle">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </a>
+        
+        <div id="header-form">
+          <form class="navbar-form" action="/search/node" method="post" id="search-form" accept-charset="UTF-8"><div class="input-group"><input type="hidden" name="form_build_id" value="form-F0wjqt_4PGtJg3gWNsU7fKLqufMkALMqPgltb-ve05Q" />
+<input type="hidden" name="form_id" value="search_form" />
+<span class="input-group-addon glyph-search"><span class="glyphicon glyphicon-search"></span></span><div class="form-item form-type-textfield form-item-keys">
+ <input class="form-control form-text" placeholder="Search" type="text" id="edit-keys--2" name="keys" value="" size="60" maxlength="255" />
+</div>
+</div></form>            <div class="region region-search">
+      <div class="region region-search">
+    
+<div id="block-search-form" class="block block-search">
+
+      
+  <div class="content">
+    <form action="/do-work" method="post" id="search-block-form" accept-charset="UTF-8"><div class="input-group"><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-vhZ3fHqu8rL5LUS6fJ_pRFPGjAiDoHbA2Kyn-CvWffA" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+
+  </div>
+  </div>
+        </div>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div id="header-menu" class="navbar">
+    <div class="container">
+      <ul class="col-xs-12 col-sm-6 col-md-3 col-lg-2 "><li class="top-item"><a href="/events">Events</a></li><li><a href="/events">Events With Byron Katie</a></li><li><a href="http://www.instituteforthework.com/itw/content/events-certified-facilitators">Events with Certified Facilitators</a></li><li><a href="/school-work">The School for The Work</a></li><li><a href="/turnaround-house">Turnaround House</a></li></ul><ul class="col-xs-12 col-sm-6 col-md-3 col-lg-2 "><li class="top-item"><a href="/tools-do-work">Resources</a></li><li><a href="/do-work" class="active">The Work</a></li><li><a href="/tools-do-work">Tools to Do The Work</a></li><li><a href="/certified_facilitators">Certified Facilitators</a></li><li><a href="/resources/videos">Videos</a></li></ul><ul class="col-xs-12 col-sm-6 col-md-3 col-lg-2 "><li class="top-item"><a href="/newsroom">Newsroom</a></li><li><a href="/about-byron-katie">About Byron Katie</a></li><li><a href="/newsroom">Press Kit</a></li></ul><ul class="col-xs-12 col-sm-6 col-md-3 col-lg-2 "><li class="top-item"><a href="http://www.storeforthework.com/">Store</a></li><li><a href="http://www.storeforthework.com/collections/byron-katie-books">Books</a></li><li><a href="http://www.storeforthework.com/collections/clothing">Clothing</a></li><li><a href="http://www.storeforthework.com/collections/digital-downloads">Digital Downloads</a></li><li><a href="http://www.storeforthework.com/collections/gifts">Gifts</a></li><li><a href="http://www.storeforthework.com/collections/recordings">Recordings</a></li></ul><ul class="col-xs-12 col-sm-6 col-md-3 col-lg-2 "><li class="top-item"><a href="/contact-directory">Contact Us</a></li><li><a href="/contact/faq">Frequent Questions</a></li><li><a href="/request-interview">Request an Interview</a></li><li><a href="/invite-katie-speak">Host an Event</a></li><li><a href="/contact-directory">Contact Directory</a></li></ul>      <span class="stretch"></span>
+    </div>
+  </div>
+  
+  </div>
+
+<div class="wrapper wrapper-do-work">
+    <div id='jumbotron' class="jumbotron ">
+    
+      
+            
+      <div class="container">
+        <div class='row'>
+          <div class="col-sm-10 col-xs-12">
+                                      <h1>Do The Work</h1>
+                        </div>
+                        
+                  </div>  
+        
+              </div>
+    </div>
+
+    <div class="container">
+            
+              <div class="tabs"></div>
+            
+            
+        <div class="row">
+            <div class="region region-content">
+    
+<div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+    
+
+
+<div id="node-40" class="node node-page clearfix">
+
+  
+      
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><div class="row">
+    <div class="col-md-8 col-sm-10">
+      <div class="row">
+        <div class="col-md-12">
+          <ol class="index-list">
+            <li><a href="#what-is-the-work">What is the Work?</a></li>
+            <li><a href="#the-work-process">The Work Process</a></li>
+            <li><a href="/tools-do-work">Resources</a></li>
+            <li><a href="#do-the-work">Do The Work</a></li>
+          </ol>
+          <hr>
+          <h2 id="what-is-the-work">What is the Work?</h2>
+          <p>The Work is a simple yet powerful process of inquiry that teaches you to identify and question the thoughts that cause all the suffering in the world. It’s a way to understand what’s hurting you, and to address the cause of your problems with clarity. In its most basic form, The Work consists of fours questions and the turnarounds.</p>
+          <p>Everything you need to do The Work is <a href="/tools-do-work">available for free on this website</a>.</p>
+          <blockquote cite="">&ldquo;I discovered that when I believed my thoughts, I suffered, but that when I didn't believe them, I didn't suffer, and that this is true for every human being. Freedom is as simple as that. I found that suffering is optional. I found a joy within me that has never disappeared, not for a single moment. That joy is in everyone, always.&rdquo;<br>
+          &mdash;Byron Katie
+          </blockquote>
+          <p>People who do The Work as an ongoing practice commonly report:</p>
+          <ul>
+            <li><strong>Alleviation of depression:</strong> Find resolution, even happiness, in situations that were once debilitating.</li>
+            <li><strong>Decreased stress:</strong> Live with less anxiety or fear.</li>
+            <li><strong>Improved relationships:</strong> Experience deeper connection and intimacy with your partner, your parents, your children, your friends, and yourself.</li>
+            <li>Reduced anger: Understand what makes you angry and resentful and become reactive less often, with less intensity.</li>
+            <li>Increased mental clarity: Live and work more intelligently and effectively, with integrity.</li>
+            <li>More energy: Experience a new sense of ongoing vigor and well-being.</li>
+            <li>More peace: Discover how to become “a lover of what is.”</li>
+          </ul>
+          <p><a class="btn btn-primary btn-embossed" role="button" href="#jyn">Begin The Work</a></p>
+          <h2 id="the-work-process">The Work Process</h2>
+              <h3>1. Fill in the Judge-Your-Neighbor Worksheet</h3>
+              <p>For thousands of years we’ve been told not to judge&mdash;but let’s face it, we do it all the time. We all have judgments running in our heads. Through The Work we finally have permission to let those judgments speak out, or even scream out, on paper. We may find that even the most unpleasant thoughts can be met with unconditional love.</p>
+              <p><a class="btn btn-default btn-embossed" role="button" href="#jyn">Learn More</a></p>
+          <hr>
+              <h3>2. Ask the Four Questions</h3>
+              <p>Each statement from the Judge-Your-Neighbor Worksheet is then investigated using the four questions. </p>
+              <p><a class="btn btn-default btn-embossed" role="button" href="#questions">Learn More</a></p>
+	      <hr>
+              <h3>3. Find the Turnarounds</h3>
+              <p>Finally, turn around the concept you just questioned. This is an opportunity to experience the opposite of what you originally believed.</p>
+              <p><a class="btn btn-default btn-embossed" role="button" href="#turnarounds">Learn More</a></p>
+		
+
+  
+
+          <h2 id="do-the-work">Do The Work</h2>
+          <h3 id="jyn">1. Fill in the Judge-Your-Neighbor Worksheet</h3>
+          <p>For example, your first statement might be &ldquo;John doesn't listen to me.&rdquo; Find someone in your life about whom you have had that thought. The take that statement to inquiry using the four questions and turnarounds of The Work.</p>
+          <p><!-- Fill in a <a href="/sites/thework/downloads/worksheets/JudgeYourNeighbor_Worksheet.pdf">Judge-Your-Neighbor Worksheet</a>. -->Watch the videos below to hear Katie explain in detail how to fill in a Judge-Your-Neighbor Worksheet.</p>
+          <div class="row">
+            <div class="col-md-6">
+              <object width="540" height="315"><param name="movie" value="http://www.youtube.com/v/Vqjj7nvqczo?version=3&amp;hl=en_US&amp;fs=1&amp;"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/Vqjj7nvqczo?version=3&amp;hl=en_US&amp;fs=1&amp;showinfo=0&amp;" type="application/x-shockwave-flash" width="540" height="315" allowscriptaccess="always" allowfullscreen="true"></object>
+            <p class="small">Katie takes you through every step of the worksheet.</p>
+            </div>
+            <div class="col-md-6">
+              <object width="540" height="315"><param name="movie" value="http://www.youtube.com/v/9VO2J4MynwY?version=3&amp;hl=en_US&amp;fs=1&amp;showinfo=0&amp;"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/9VO2J4MynwY?version=3&amp;hl=en_US&amp;fs=1&amp;showinfo=0&amp;" type="application/x-shockwave-flash" width="540" height="315" allowscriptaccess="always" allowfullscreen="true"></object>
+            <p class="small">Byron Katie and her daughter, Roxann, fill in a Judge-Your-Neighbor Worksheet.</p>
+            </div>
+            </div>
+            <div class="row">
+            <div class="col-md-6">
+              <object width="540" height="315"><param name="movie" value="http://www.youtube.com/v/x4_iejhT6AA?version=3&amp;hl=en_US&amp;fs=1&amp;"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/x4_iejhT6AA?version=3&amp;hl=en_US&amp;fs=1&amp;showinfo=0&amp;rel=0&amp;" type="application/x-shockwave-flash" width="540" height="315" allowscriptaccess="always" allowfullscreen="true"></object>
+            <p class="small">Katie takes a webcast caller through the process of filling in the worksheet.</p>
+            </div>
+            <div class="col-md-6">
+            <object width="540" height="315"><param name="movie" value="http://www.youtube.com/v/ee1Fl16CaUg?version=3&amp;hl=en_US&amp;fs=1&amp;showinfo=0&amp;rel=0&amp;"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/ee1Fl16CaUg?version=3&amp;hl=en_US&amp;fs=1&amp;showinfo=0&amp;rel=0&amp;" type="application/x-shockwave-flash" width="540" height="315" allowscriptaccess="always" allowfullscreen="true"></object>
+            <p class="small">Katie guides a mother step-by-step through a Judge-Your-Neighbor Worksheet on the death of her daughter.</p>
+            </div>
+          </div>
+          <h3 id="questions">2. Ask the Four Questions</h3>
+          <p>Investigate each of your statements from the Judge-Your-Neighbor Worksheet using the <strong>four questions</strong>. The Work is meditation. It’s about opening to your heart, not about trying to change your thoughts. Ask the questions, then go inside and wait for the deeper answers to surface. </p>
+          <!-- <p>In its most basic form, The Work consists of <strong>four questions and turnarounds</strong>. For example, your statement might be “[Name] doesn't listen to me.” Find someone in your life about whom you have had that thought. Then take that statement and put it up against the four questions and turnarounds of The Work.</p> -->
+          <ol>
+            <li><strong>Is it true?</strong> (Yes or no. If no, move to 3.)</li>
+            <li><strong>Can you absolutely know that it's true?</strong> (Yes or no.)</li>
+            <li><strong>How do you react, what happens, when you believe that thought? </strong></li>
+            <li><strong>Who would you be without the thought?</strong></li>
+          </ol>
+<p>Download the <a href="/sites/thework/downloads/worksheets/facilitationguide_Eng.pdf">Facilitation Guide</a> for helpful sub-questions.</p>
+          <!-- <p><strong>Turn the thought around.</strong> Then find at least three specific, genuine examples of how each turnaround is true for you in this situation.</p> -->
+          <h3 id="turnarounds">3. Find the Turnarounds</h3>
+          <p>After you have investigated your statement with the four questions, you’re ready to turn around the concept you’re questioning.</p>
+          <p>Each turnaround is an opportunity to experience the opposite of what you originally believed.</p>
+          <p>A statement can be turned around to the self, to the other, and to the opposite (and sometimes to “my thinking,” when that feels appropriate). Find at least three specific, genuine examples of how each turnaround is true in your life, and then allow yourself the time and presence to feel them deeply.</p>
+          <p>For example, &ldquo;Paul doesn’t understand me&rdquo; turns around to &ldquo;I don’t understand me.&rdquo; In that situation, find at least three specific, genuine examples of how you did not understand yourself.</p>
+          <p>Another turnaround is &ldquo;I don’t understand Paul.&rdquo; Relax, close your eyes, and with an open mind witness as the images and feelings within you begin to show you, example by example, where you do not understand Paul in that situation. Be very gentle and thorough. </p>
+          <p>A third turnaround is &ldquo;Paul does understand me.&rdquo; Relax, close your eyes, and with an open mind witness as the images and feelings within you begin to show you, example by example, where Paul does understand you in that situation. Be very gentle and thorough. </p>
+
+<p>For this turnaround, examples might be:</p>
+          <ul>
+            <li>He understands that when I’m angry I always get over it.</li>
+            <li>He understood me last week when he laughed at the joke I was telling him.</li>
+            <li>He understood me yesterday when I told him I really needed to get away with friends. He even stayed home with the kids.</li>
+          </ul>
+<p>Can you find another turnaround? Another in this example is &ldquo;Paul really knows me.&rdquo; Just find a word or phrase that is the extreme opposite in meaning to &ldquo;doesn't understand.&rdquo;</p>
+          <blockquote cite="">As I began living my turnarounds, I noticed that <strong>I was everything I called you</strong>. You were merely my projection. Now, instead of trying to change the world around me (this didn't work, but only for 43 years), I can put the thoughts on paper, investigate them, turn them around, and find that I am the very thing I thought you were. In the moment I see you as selfish, I am selfish (deciding how you should be). In the moment I see you as unkind, I am unkind. If I believe you should stop waging war, I am waging war on you in my mind.<br>
+          &mdash;Byron Katie
+          </blockquote>
+          <!-- <p><strong>The turnarounds are your prescription for happiness. Live the medicine you have been prescribing for others. The world is waiting for just one person to live it. You're the one.</strong></p> -->
+          <h2>Embracing Reality</h2>
+          <p>After you have turned around statements 1 through 5 from the <a href="/sites/thework/downloads/worksheets/JudgeYourNeighbor_Worksheet.pdf">Worksheet</a> (and found at least three examples for each turnaround), <strong>turn statement 6 around</strong> using <strong>&ldquo;I am willing to &hellip;&rdquo;</strong> and <strong>&ldquo;I look forward to &hellip;&rdquo;</strong></p>
+          <p>For example, "I don't ever want to experience an argument with Paul" turns around to "I am willing to experience an argument with Paul" and "I look forward to experiencing an argument with Paul." Why would you look forward to it?</p>
+<p>Why would you look forward to it?</p>
+          <p><strong>The turnaround to statement 6 is about fully embracing all of life without fear, and being open to reality.</strong> If you experience an argument with Paul again, good. If it hurts, write another Judge-Your-Neighbor Worksheet and investigate the thoughts. Uncomfortable feelings are clear reminders that we've attached to something that may not be true for us. They are gifts that let us know it's time to identify the stressful thoughts and do The Work.</p>
+          <p><strong>Until you can see the enemy as a friend, your Work is not done.</strong> This doesn't mean that you have to invite your enemy to dinner. Friendship is an internal experience. You may never see the person again, you may even divorce him or her, but as you think about the person, are you feeling stress or peace?</p>
+          <p>In my experience, it takes only one person to have a successful relationship, and that's me. I like to say that I have the perfect marriage, and I can never know what kind of marriage my husband has.</p>
+        </div>
+      </div>
+          </div><!-- end COL -->
+          <div class="col-md-3 col-md-offset-1 col-sm-2">
+          <!-- empty column -->
+          </div>
+    </div></div></div></div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+
+  </div>
+        </div>
+      
+    </div>
+  
+</div>
+
+
+<div class="bki-row-newsletter">     
+  <div class="container">
+    <div class="row">
+        <div class="region region-content-footer">
+    
+<div id="block-block-19" class="block block-block">
+
+      
+  <div class="content">
+    <div class='container'>
+  <div class='row'>
+
+      <div class="col-sm-6">
+        <h2>Newsletter</h2>
+        <p>Tune in to the latest updates from around the world</p>
+      </div>
+
+      <div class="col-sm-2 newsletter-form-input">
+        <div class="form-group">
+          <button onclick="location.href='https://www.etouches.com/ehome/103198';" type="submit" class="btn btn-special btn-embossed" role="button">Sign up</button>
+        </div>
+      </div>   
+
+  </div>
+</div>     </div>
+</div>
+
+  </div>
+    </div>
+  </div>
+</div>
+
+<div class="bottom-menu bki-footer">
+  <div class="container">
+    <div class="row bki-row-footer">
+    
+      <div class="col-md-3">
+          <div class="region region-footer-col-first">
+    
+<div id="block-block-15" class="block block-block">
+
+      
+  <div class="content">
+    <h5 class="title">Social Media</h5>
+<ul class="footer-sm-icons">
+  <li><a href="http://www.facebook.com/theworkofbyronkatie" target="_blank"><img src="/sites/all/themes/thework/images/sm-icons32/facebook.png" alt="Facebook"></a></li>
+  <li><a href="http://www.twitter.com/ByronKatie" target="_blank"><img src="/sites/all/themes/thework/images/sm-icons32/twitter.png" alt="Twitter"></a></li>
+  <li><a href="https://plus.google.com/104832041166519509853?rel=author" target="_blank"><img src="/sites/all/themes/thework/images/sm-icons32/google-plus.png" alt="Google+"></a></li>
+  <li><a href="http://www.youtube.com/user/TheWorkofBK" target="_blank"><img src="/sites/all/themes/thework/images/sm-icons32/youtube.png" alt="YouTube"></a></li>
+  <li><a href="http://www.pinterest.com/byronkatie/" target="_blank"><img src="/sites/all/themes/thework/images/sm-icons32/pinterest.png" alt="Pinterest"></a></li>
+
+
+</ul>  </div>
+</div>
+
+
+<div id="block-block-16" class="block block-block">
+
+      
+  <div class="content">
+    
+<h5 class="title">International</h5>
+<div class="bki-flags">
+  <a href="/af" title="" class="flagtip" data-original-title="AFRIKAANS&nbsp;&nbsp;|&nbsp;&nbsp;Afrikaans"><img lang="af" src="/sites/all/themes/thework/images/flags_fpo/south-africa-flag.png" alt="AFRIKAANS&nbsp;&nbsp;|&nbsp;&nbsp;Afrikaans"></a>
+  <a href="/ar" title="" class="flagtip" data-original-title="لعربية&nbsp;&nbsp;|&nbsp;&nbsp;Arabic"><img lang="ar" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/egypt-flag.png" alt="العربية&nbsp;&nbsp;|&nbsp;&nbsp;Arabic"></a>
+  <a href="/mw" title="" class="flagtip" data-original-title="CHICHEWA&nbsp;&nbsp;|&nbsp;&nbsp;Malawi"><img lang="mw" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/malawi-flag.png" alt="CHICHEWA&nbsp;&nbsp;|&nbsp;&nbsp;Malawi"></a>
+  <a href="/cs" title="" class="flagtip" data-original-title="ČESKÝ&nbsp;&nbsp;|&nbsp;&nbsp;Czech"><img lang="cs" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/czech-flag.png" alt="ČESKÝ&nbsp;&nbsp;|&nbsp;&nbsp;Czech"></a>
+  <a href="/da" title="" class="flagtip" data-original-title="DANSK&nbsp;&nbsp;|&nbsp;&nbsp;Danish"><img lang="da" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/denmark-flag.png" alt="DANSK&nbsp;&nbsp;|&nbsp;&nbsp;Danish"></a>
+  <a href="/de" title="" class="flagtip" data-original-title="DEUTSCH&nbsp;&nbsp;|&nbsp;&nbsp;German"><img lang="de" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/germany-flag.png" alt="DEUTSCH&nbsp;&nbsp;|&nbsp;&nbsp;German"></a>
+  <a href="/ee" title="" class="flagtip" data-original-title="EESTI&nbsp;&nbsp;|&nbsp;&nbsp;Estonian"><img lang="ee" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/estonian-flag.png" alt="EESTI&nbsp;&nbsp;|&nbsp;&nbsp;Estonian"></a>
+  <a href="/gr" title="" class="flagtip" data-original-title="ΕΛΛΗΝΙΚΑ&nbsp;&nbsp;|&nbsp;&nbsp;Greek"><img lang="gr" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/flag_gr.png" alt="ΕΛΛΗΝΙΚΑ&nbsp;&nbsp;|&nbsp;&nbsp;Greek"></a>
+  <a href="/en" title="" class="flagtip" data-original-title="ENGLISH&nbsp;&nbsp;|&nbsp;&nbsp;ENGLISH"><img lang="en" src="/sites/all/themes/thework/images/flags_fpo/us-flag.png" alt="ENGLISH&nbsp;&nbsp;|&nbsp;&nbsp;ENGLISH"></a>
+  <a href="/es" title="" class="flagtip" data-original-title="ESPAÑOL&nbsp;&nbsp;|&nbsp;&nbsp;Spanish"><img lang="es" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/spain-flag.png" alt="ESPAÑOL&nbsp;&nbsp;|&nbsp;&nbsp;Spanish"></a>
+  <a href="/fa" title="" class="flagtip" data-original-title="فارسی&nbsp;&nbsp;|&nbsp;&nbsp;Farsi"><img lang="fa" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/farsi-flag.png" alt="فارسی&nbsp;&nbsp;|&nbsp;&nbsp;Farsi"></a>
+  <a href="/fr" title="" class="flagtip" data-original-title="FRANÇAIS&nbsp;&nbsp;|&nbsp;&nbsp;French"><img lang="fr" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/france-flag.png" alt="FRANÇAIS&nbsp;&nbsp;|&nbsp;&nbsp;French"></a>
+  <a href="/ko" title="" class="flagtip" data-original-title="한국의&nbsp;&nbsp;|&nbsp;&nbsp;Korean"><img lang="ko" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/south-korea-flag.png" alt="한국의&nbsp;&nbsp;|&nbsp;&nbsp;Korean"></a>
+  <a href="/hr" title="" class="flagtip" data-original-title="HRVATSKI&nbsp;&nbsp;|&nbsp;&nbsp;Croatian"><img lang="hr" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/croatian-flag-small.png" alt="HRVATSKI&nbsp;&nbsp;|&nbsp;&nbsp;Croatian"></a>
+  <a href="/it" title="" class="flagtip" data-original-title="ITALIANO&nbsp;&nbsp;|&nbsp;&nbsp;Italian"><img lang="it" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/italy-flag.png" alt="ITALIANO&nbsp;&nbsp;|&nbsp;&nbsp;Italian"></a>
+  <a href="/he" title="" class="flagtip" data-original-title="עברית&nbsp;&nbsp;|&nbsp;&nbsp;Hebrew"><img lang="iw" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/israeli-flag.png" alt="עברית&nbsp;&nbsp;|&nbsp;&nbsp;Hebrew"></a>
+  <a href="/lv" title="" class="flagtip" data-original-title="LATVIESU&nbsp;&nbsp;|&nbsp;&nbsp;Latvian"><img lang="lv" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/latvia-flag.png" alt="LATVIESU&nbsp;&nbsp;|&nbsp;&nbsp;Latvian"></a>
+  <a href="/hu" title="" class="flagtip" data-original-title="MAGYAR&nbsp;&nbsp;|&nbsp;&nbsp;Hungarian"><img lang="hu" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/hungarian-flag.png" alt="MAGYAR&nbsp;&nbsp;|&nbsp;&nbsp;Hungarian"></a>
+  <a href="/mk" title="" class="flagtip" data-original-title="македонски&nbsp;&nbsp;|&nbsp;&nbsp;Macedonian"><img lang="mk" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/macedonian-flag.png" alt="македонски&nbsp;&nbsp;|&nbsp;&nbsp;Macedonian"></a>
+  <a href="/nl" title="" class="flagtip" data-original-title="NEDERLANDS&nbsp;&nbsp;|&nbsp;&nbsp;Dutch"><img lang="nl" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/netherlands-flag.png" alt="NEDERLANDS&nbsp;&nbsp;|&nbsp;&nbsp;Dutch"></a>
+  <a href="/ja" title="" class="flagtip" data-original-title="日本語&nbsp;&nbsp;|&nbsp;&nbsp;Japanese"><img lang="ja" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/japan-flag.png" alt="日本語&nbsp;&nbsp;|&nbsp;&nbsp;Japanese"></a>
+  <a href="/nn" title="" class="flagtip" data-original-title="NORSK&nbsp;&nbsp;|&nbsp;&nbsp;Norwegian"><img lang="no" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/norway-flag.png" alt="NORSK&nbsp;&nbsp;|&nbsp;&nbsp;Norwegian"></a>
+  <a href="/pap" title="" class="flagtip" data-original-title="PAPIAMENTU&nbsp;&nbsp;|&nbsp;&nbsp;Papiamentu"><img lang="pap" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/curacao-flag.png" alt="PAPIAMENTU&nbsp;&nbsp;|&nbsp;&nbsp;Papiamentu"></a>
+  <a href="/pl" title="" class="flagtip" data-original-title="POLSKI&nbsp;&nbsp;|&nbsp;&nbsp;Polish"><img lang="pl" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/poland-flag.png" alt="POLSKI&nbsp;&nbsp;|&nbsp;&nbsp;Polish"></a>
+  <a href="/pt" title="" class="flagtip" data-original-title="PORTUGUÊS&nbsp;&nbsp;|&nbsp;&nbsp;Portuguese"> <img lang="pt" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/brazil-flag.png" alt="PORTUGUÊS&nbsp;&nbsp;|&nbsp;&nbsp;Portuguese"></a>
+  <a href="/ro" title="" class="flagtip" data-original-title="ROMÂNÅ&nbsp;&nbsp;|&nbsp;&nbsp;Romanian"> <img lang="ro" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/romania-flag.png" alt="ROMÂNÅ&nbsp;&nbsp;|&nbsp;&nbsp;Romanian"></a>
+  <a href="/ru" title="" class="flagtip" data-original-title="РОССИЯ&nbsp;&nbsp;|&nbsp;&nbsp;Russian"> <img lang="ru" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/russia-flag.png" alt="РОССИЯ&nbsp;&nbsp;|&nbsp;&nbsp;Russian"></a>
+  <a href="/sl" title="" class="flagtip" data-original-title="SLOVENŠČINA&nbsp;&nbsp;|&nbsp;&nbsp;Slovenian"> <img lang="sl" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/slovenia-flag.png" alt="SLOVENŠČINA&nbsp;&nbsp;|&nbsp;&nbsp;Slovenian"></a>
+  <a href="/rs" title="" class="flagtip" data-original-title="SRPSKI&nbsp;&nbsp;|&nbsp;&nbsp;Serbian"> <img lang="rs" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/serbia-flag.png" alt="SRPSKI&nbsp;&nbsp;|&nbsp;&nbsp;Serbian"></a>
+  <a href="/fi" title="" class="flagtip" data-original-title="SUOMI&nbsp;&nbsp;|&nbsp;&nbsp;Finnish"><img lang="fi" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/finland-flag.png" alt="SUOMI&nbsp;&nbsp;|&nbsp;&nbsp;Finnish"></a>
+  <a href="/sv" title="" class="flagtip" data-original-title="SVENSKA&nbsp;&nbsp;|&nbsp;&nbsp;Swedish"><img lang="sv" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/sweden-flag.png" alt="SVENSKA&nbsp;&nbsp;|&nbsp;&nbsp;Swedish"></a>
+  <a href="/tr" title="" class="flagtip" data-original-title="TÜRK&nbsp;&nbsp;|&nbsp;&nbsp;Turkish"><img lang="tr" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/turkey-flag.png" alt="TÜRK&nbsp;&nbsp;|&nbsp;&nbsp;Turkish"></a>
+  <a href="/yi" title="" class="flagtip" data-original-title="ייִדיש&nbsp;&nbsp;|&nbsp;&nbsp;Yiddish"> <img lang="yi" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/yiddish-flag.png" alt="ייִדיש&nbsp;&nbsp;|&nbsp;&nbsp;Yiddish"></a>
+  <a href="/zh-hans" title="" class="flagtip" data-original-title="中文&nbsp;&nbsp;|&nbsp;&nbsp;Chinese"> <img lang="zh" class="flagpad" src="/sites/all/themes/thework/images/flags_fpo/prchina-flag.png" alt="中文&nbsp;&nbsp;|&nbsp;&nbsp;Chinese"> </a>
+</div>  </div>
+</div>
+
+  </div>
+      </div>
+      
+      <div class="col-md-3">
+          <div class="region region-footer-col-second">
+    
+<div id="block-views-press-block" class="block block-views">
+
+        <h2>In The Media</h2>
+    
+  <div class="content">
+    <div class="view view-press view-id-press view-display-id-block view-dom-id-abbfe28bff68c56899a8b04b0e0f917f">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul class="bottom-links">          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.lamag.com/features-hidden/jane-lynch-and-byron-katie-do-the-work1/" target="_blank">Los Angeles Magazine  - Jane Lynch and Byron Katie Do The Work</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.time.com/time/magazine/article/0,9171,998759,00.html" target="_blank">Time  - Four Questions to Inner Peace</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.huffingtonpost.com/stephan-spencer/happiness-tips_b_1739238.html" target="_blank">Huffington Post  - Stephan Spencer:  Byron Katie Just Wants You to Be Happy </a></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.oprah.com/spirit/Testing-the-Work-of-Byron-Katie" target="_blank">Oprah.com  - Testing The Work of  Byron Katie</a></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.oprah.com/spirit/Byron-Katies-Four-Questions" target="_blank">Oprah.com  - Byron Katie&#039;s Four Questions</a></span>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://realization.org/p/byron-katie/massad.byron-katie-interview/massad.byron-katie-interview.1.html" target="_blank">Realization.org  - An Interview with Byron Katie</a></span>  </div></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.lamag.com/features-hidden/ready-to-get-to-work-bring-it-on/" target="_blank">Los Angeles Magazine  - Ready to Get to Work?  Bring it On!</a></span>  </div></li>
+          <li class="views-row views-row-8 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.amazon.com/Byron-Katie/e/B001H6S8B4/ref=sr_tc_2_0?qid=1349808313&amp;sr=8-2-ent" target="_blank">Amazon.com  - Byron Katie Author Page</a></span>  </div></li>
+          <li class="views-row views-row-9 views-row-odd views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://en.wikiquote.org/wiki/Byron_Katie" target="_blank">Wikiquotes  - Quotes from Byron Katie</a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+
+  </div>
+      </div>
+      
+      <div class="col-md-3">
+          <div class="region region-footer-col-third">
+    
+<div id="block-aggregator-feed-1" class="block block-aggregator">
+
+        <h2>From Katie&#039;s Blog</h2>
+    
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="http://www.byronkatie.com/2015/08/video-introduction-to-the-work-of-byron-katie-he-lied-to-me/" target="_blank">Video: Introduction to The Work of Byron Katie—He Lied to Me</a>
+</li>
+<li><a href="http://www.byronkatie.com/2015/08/peace-is-found/" target="_blank">Peace is found…</a>
+</li>
+<li><a href="http://www.byronkatie.com/2015/08/thought-thursday-self-realization/" target="_blank">Thought Thursday: Self-Realization</a>
+</li>
+<li><a href="http://www.byronkatie.com/2015/08/the-world-beyond-thought/" target="_blank">The World Beyond Thought</a>
+</li>
+<li><a href="http://www.byronkatie.com/2015/08/anyone-who-is-angry/" target="_blank">Anyone who is angry…</a>
+</li>
+<li><a href="http://www.byronkatie.com/2015/08/video-i-need-mom-to-accept-my-bisexuality/" target="_blank">Video: I Need Mom to Accept My Bisexuality</a>
+</li>
+<li><a href="http://www.byronkatie.com/2015/07/thought-thursday-on-parents-and-children/" target="_blank">Thought Thursday: On Parents and Children</a>
+</li>
+<li><a href="http://www.byronkatie.com/2015/07/im-not-grateful-2/" target="_blank">I’m not grateful…</a>
+</li>
+<li><a href="http://www.byronkatie.com/2015/07/2014-summer-camp-for-the-work-questions-for-katie/" target="_blank">2014 Summer Camp for The Work: Questions for Katie</a>
+</li>
+<li class="last"><a href="http://www.byronkatie.com/2015/07/photos-from-the-june-2015-no-body-intensive/" target="_blank">Photos from the June 2015 No-Body Intensive</a>
+</li>
+</ul></div><div class="more-link"><a href="/aggregator/sources/1" title="View this feed&#039;s recent news.">More</a></div>  </div>
+</div>
+
+  </div>
+      </div>
+      
+      <div class="col-md-3">
+          <div class="region region-footer-col-fourth">
+    
+<div id="block-block-17" class="block block-block">
+
+      
+  <div class="content">
+    <h5 class="title">Related Sites</h5>
+<ul class="bottom-links">
+  <li><a href="http://www.byronkatie.com" target="_blank">Byron Katie's Blog</a></li>
+  <li><a href="http://www.livewithbyronkatie.com" target="_blank">Live with Byron Katie</a></li>
+  <li><a href="http://www.theworkfoundationinc.org/" target="_blank">The Work Foundation </a></li>
+  <li><a href="http://www.instituteforthework.com/itw" target="_blank">Institute for The Work </a></li>
+  <li><a href="http://storeforthework.myshopify.com" target="_blank">Store for The Work</a></li>
+  <li><a href="http://www.facebook.com/theworkofbyronkatie" target="_blank">Byron Katie on Facebook </a></li>
+  <li><a href="http://twitter.com/ByronKatie" target="_blank">Byron Katie on Twitter</a></li>
+</ul>  </div>
+</div>
+
+  </div>
+      </div>
+    
+    </div>
+  </div>
+  
+  <div class="container">
+    <div class="row bki-row-colophon">
+          <div class="region region-colophon">
+    
+<div id="block-block-18" class="block block-block">
+
+      
+  <div class="content">
+            <h6>&copy; 2015 Byron Katie International, Inc. All rights reserved.</h6>
+        <h6><a href="/privacy">Privacy and Legal Statement</a>. <a href="/terms">Terms of Use</a>. <a href="/sitemap">Sitemap</a></h6>
+  </div>
+</div>
+
+  </div>
+    </div>
+  </div>
+  
+</div>
+    <a href="#" class="back-to-top" style="display:none;">Back to Top</a>
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  
+  <script>window.jQuery || document.write('<script src="http://thework.com/sites/all/themes/thework/vendor/jquery/jquery.min.js"><\/script>')</script>
+  
+  
+  <script type="text/javascript" src="http://thework.com/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js"></script>
+<script type="text/javascript" src="http://thework.com/sites/default/files/js/js_6RfqyQ6dGB15EZV8a7SPpd5EOSSerQR7s-GxPVyVTqA.js"></script>
+<script type="text/javascript" src="http://thework.com/sites/default/files/js/js_u-5YJ6vNkHBXx8llbX9Y7Y75Dm2e19J9Av2Gu8vrJog.js"></script>
+<script type="text/javascript" src="http://thework.com/sites/default/files/js/js_UOT-byspu1D3pPpaNxVFaW5eW6ZZwYXGiabBpNwjHU0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"thework","theme_token":"Gv8X1duwG_27Jg-HXT0fdByNm-APtLAYidhZySb6aWw","js":{"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/environment_indicator\/tinycon.min.js":1,"sites\/all\/modules\/environment_indicator\/environment_indicator.js":1,"sites\/all\/modules\/environment_indicator\/color.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/themes\/thework\/dist\/js\/bootstrap.min.js":1,"sites\/all\/themes\/thework\/dist\/js\/bootstrap-select.js":1,"sites\/all\/themes\/thework\/js\/mmenu\/jquery.mmenu.js":1,"sites\/all\/themes\/thework\/js\/facebox.js":1,"sites\/all\/themes\/thework\/js\/tubular\/js\/jquery.tubular.1.0.js":1,"sites\/all\/themes\/thework\/js\/behavior.js":1,"sites\/all\/themes\/thework\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/environment_indicator\/environment_indicator.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/find_content\/find_content.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"sites\/all\/themes\/thework\/dist\/css\/bootstrap.css":1,"sites\/all\/themes\/thework\/dist\/css\/flat-ui.css":1,"sites\/all\/themes\/thework\/css\/screen.css":1,"sites\/all\/themes\/thework\/css\/customizations.css":1,"sites\/all\/themes\/thework\/css\/style-responsive.css":1,"sites\/all\/themes\/thework\/css\/mmenu\/jquery.mmenu.all.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"}});
+//--><!]]>
+</script>
+    
+  
+  
+  
+  <script type="text/javascript" src="http://www.topica.com/global/DHTMLAPI.js"></script>
+  <script>
+        initDHTMLAPI();
+        if ((isMac && isIE5 == 5)) {
+    // disables the validation for IE5 on Mac...
+    // for some reason it's not working on that platform
+    function validateForm() { }
+        } else {
+    document.write('<script type="text/javascript" src="http://www.topica.com/js/fValidate.config.js"></' + 'script><script type="text/javascript" src="http://www.topica.com/js/fValidate.core.js"></' + 'script><script type="text/javascript" src="http://www.topica.com/js/fValidate.lang-enUS.js"></' + 'script><script type="text/javascript" src="http://www.topica.com/js/fValidate.validators.js"></' + 'script>');
+        }
+
+  </script>
+  
+<!-- www.hitslink.com/ web tools statistics hit counter code -->
+<script type="text/javascript" id="wa_u"></script>
+<script type="text/javascript">//<![CDATA[
+   // Begin Variable Declarations
+   wa_account="8B979A88908D94"; wa_location=209;
+wa_pageName=location.pathname;  // you can customize the page name here
+// End Variable Declarations
+document.cookie='__support_check=1;path=/';wa_hp='http';
+wa_rf=document.referrer;wa_sr=window.location.search;
+wa_tz=new Date();if(location.href.substr(0,6).toLowerCase()=='https:')
+		   wa_hp='https';wa_data='&an='+escape(navigator.appName)+ 
+				   '&sr='+escape(wa_sr)+'&ck='+document.cookie.length+
+				   '&rf='+escape(wa_rf)+'&sl='+escape(navigator.systemLanguage)+
+				   '&av='+escape(navigator.appVersion)+'&l='+escape(navigator.language)+
+				   '&pf='+escape(navigator.platform)+'&pg='+escape(wa_pageName);
+wa_data=wa_data+'&cd='+
+  screen.colorDepth+'&rs='+escape(screen.width+ ' x '+screen.height)+
+  '&tz='+wa_tz.getTimezoneOffset()+'&je='+ navigator.javaEnabled();
+wa_img=new Image();wa_img.src=wa_hp+'://counter.hitslink.com/statistics.asp'+
+		     '?v=1&s='+wa_location+'&eacct='+wa_account+wa_data+'&tks='+wa_tz.getTime();
+document.cookie='__support_check=1;path=/;expires=Thu, 01-Jan-1970 00:00:01 GMT';
+document.getElementById('wa_u').src=wa_hp+'://counter.hitslink.com/track.js';
+//]]>
+</script>
+<!-- End www.hitslink.com/ statistics web tools hit counter code -->
+
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0012/4913.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script> 
+
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"rQ/Jg1awO700a1", domain:"thework.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=rQ/Jg1awO700a1" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->  
+
+</body>
+</html>
+
+<!-- Page cached by Boost @ 2015-08-10 12:55:10, expires @ 2015-08-10 13:55:10, lifetime 1 hour -->

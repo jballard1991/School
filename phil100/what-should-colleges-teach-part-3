@@ -1,0 +1,1495 @@
+<!DOCTYPE html>
+<!--[if (gt IE 9)|!(IE)]> <!--> <html lang="en" class="no-js blog-fish section-opinion dfp-enabled"  itemscope xmlns:og="http://opengraphprotocol.org/schema/"> <!--<![endif]-->
+<!--[if IE 9]> <html lang="en" class="no-js ie9 lt-ie10 blog-fish section-opinion dfp-enabled" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="no-js ie8 lt-ie10 lt-ie9 blog-fish section-opinion dfp-enabled" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<!--[if (lt IE 8)]> <html lang="en" class="no-js lt-ie10 lt-ie9 lt-ie8 blog-fish section-opinion dfp-enabled" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+		<meta name="PT" content="Blogs" />
+<meta name="PST" content="Blog Post" />
+<meta name="sourceApp" content="blogs" />
+<meta name="author" content="" />
+<meta name="CLMST" content="" />
+<meta name="byl" content="" />
+<meta name="GBLC" content="">
+<meta name="PUV" content="normal" />
+<meta property="article:published_time" itemprop="datePublished" content="2009-09-07" />
+<meta name="PUD" content="20090907" />
+<meta name="pdate" content="20090907" />
+<meta name="ptime" content="20090907213046" />
+<meta name="utime" content="20090909214809" />
+<meta property="article:modified_time" itemprop="dateModified" content="2009-09-09T21:48:09-04:00" />
+<meta name="DISPLAYDATE" content="September 7, 2009" />
+<meta name="dat" content="September 7, 2009" />
+<meta itemprop="articleSection" property="article:section" content="Opinion" />
+<meta name="CG" content="Opinion" />
+<meta name="SCG" content="fish" />
+<meta name="BN" content="fish" />
+<meta property="article:tag" content="Uncategorized" />
+<meta name="keywords" content="Uncategorized" />
+<meta name="description" content="How writing should be taught in college, with specific suggestions." />
+<meta name="hdl" content="What Should Colleges Teach? Part 3" />
+<meta property="og:title" content="What Should Colleges Teach? Part 3" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://fish.blogs.nytimes.com/2009/09/07/what-should-colleges-teach-part-3/" />
+<meta property="og:site_name" content="Stanley Fish Blog" />
+<meta property="og:description" content="How writing should be taught in college, with specific suggestions." />
+<meta property="og:image" content="http://graphics8.nytimes.com/images/blogs_v5/../icons/t_logo_2048_black.png"/>
+<meta name="thumbnail_150" content="http://graphics8.nytimes.com/packages/images/icons/t_logo_300_black.png"/>
+<meta name="twitter:card" value="summary"><meta name="twitter:title" content="What Should Colleges Teach? Part 3" />
+<meta name="twitter:url" content="http://fish.blogs.nytimes.com/2009/09/07/what-should-colleges-teach-part-3/" />
+<meta name="twitter:description" content="How writing should be taught in college, with specific suggestions." />
+<meta name="twitter:image" content="http://graphics8.nytimes.com/packages/images/icons/t_logo_300_black.png"/>
+<meta itemprop="thumbnailUrl" content="http://graphics8.nytimes.com/packages/images/icons/t_logo_300_black.png" name="thumbnail" />
+<meta name='robots' content='noindex,follow' />
+<link rel="alternate" type="application/rss+xml" title="Stanley Fish &raquo; What Should Colleges Teach? Part 3 Comments Feed" href="http://fish.blogs.nytimes.com/2009/09/07/what-should-colleges-teach-part-3/feed/" />
+<link rel='prev' title='What Should Colleges Teach? Part 2' href='http://fish.blogs.nytimes.com/2009/08/31/what-should-colleges-teach-part-2/' />
+<link rel='next' title='Does Curiosity Kill More Than the Cat?' href='http://fish.blogs.nytimes.com/2009/09/14/does-curiosity-kill-more-than-the-cat/' />
+<link rel='canonical' href='http://fish.blogs.nytimes.com/2009/09/07/what-should-colleges-teach-part-3/' />
+<link rel='shortlink' href='http://fish.blogs.nytimes.com/?p=937' />
+<link rel='https://github.com/WP-API/WP-API' href='http://fish.blogs.nytimes.com/json' />
+<meta name="adxPage" content="blog.nytimes.com/fish/post" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://fish.blogs.nytimes.com/feed/" />
+<meta property="article:collection" content="http://json8.nytimes.com/services/json/sectionfronts/opinion/index.jsonp" />
+<link rel="alternate" href="http://mobile.nytimes.com/blogs/fish/2009/09/07/what-should-colleges-teach-part-3/" />
+<meta name="dfp-ad-unit-path" content="opinion/fish" />			<title>What Should Colleges Teach? Part 3 - The New York Times</title>
+            <!--[if (gt IE 9)|!(IE)]> <!-->
+    <link rel="stylesheet" type="text/css" media="screen" href="http://a1.nyt.com/assets/blogs/20150806-124338/css/blogs/styles.css" />
+<!--<![endif]-->
+<!--[if lte IE 9]>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://a1.nyt.com/assets/blogs/20150806-124338/css/blogs/styles-ie.css" />
+<![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="http://a1.nyt.com/assets/blogs/20150806-124338/css/blogs/universal.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://a1.nyt.com/assets/blogs/20150806-124338/css/blogs/styles-print.css" />
+<script>
+var NYT = NYT || {}, NYTD = NYTD || {};
+</script>
+                        			<script src="http://a1.nyt.com/assets/blogs/20150806-124338/js/blogs/layout.js"></script>
+				<script type="text/javascript">var googletag=googletag||{};googletag.cmd=googletag.cmd||[],function(){var t=document.createElement("script");t.async=!0,t.type="text/javascript";var e="https:"==document.location.protocol;t.src=(e?"https:":"http:")+"//www.googletagservices.com/tag/js/gpt.js";var o=document.getElementsByTagName("script")[0];o.parentNode.insertBefore(t,o)}();</script>
+	<script>
+var require = {
+    baseUrl: 'http://a1.nyt.com/assets/',
+    waitSeconds: 20,
+    paths: {
+        'foundation': 'blogs/20150806-124338/js/foundation',
+        'shared': 'blogs/20150806-124338/js/shared',
+        'blogs': 'blogs/20150806-124338/js/blogs',
+        'auth/mtr': 'http://graphics8.nytimes.com/js/mtr',
+        'auth/growl': 'http://graphics8.nytimes.com/js/auth/growl/default',
+        'vhs': 'http://graphics8.nytimes.com/video/vhs/build/vhs-2.x.min'
+    }
+};
+</script>
+<!--[if (gte IE 9)|!(IE)]> <!-->
+<script data-main="foundation/main" src="http://a1.nyt.com/assets/blogs/20150806-124338/js/foundation/lib/framework.js"></script>
+<!--<![endif]-->
+<!--[if lt IE 9]>
+<script>
+require.map = { '*': { 'foundation/main': 'foundation/legacy_main' } };
+</script>
+<script data-main="foundation/legacy_main" src="http://a1.nyt.com/assets/blogs/20150806-124338/js/foundation/lib/framework.js"></script>
+<![endif]-->
+<script>
+require(['foundation/main'], function () {
+    require(['auth/mtr']);
+});
+</script>
+<script>
+window.magnum.processFlags(["limitFabrikSave","dfpAds","dfpWhitelist","facebookOauthButton","videoVHSCover"]);
+</script>
+    	</head><body class="single single-post postid-937 blog-universal nyt-blog-fish" id="" data-env="production" data-region="ewr1">
+	<div id="shell" class="shell">
+			<header id="masthead" class="masthead masthead-theme-standard" role="banner">
+    <div class="container">
+        <div class="quick-navigation button-group">
+            <button class="button sections-button"><i class="icon sprite-icon"></i><span class="button-text">Sections</span></button>
+            <button class="button home-button" data-href="http://www.nytimes.com/" title="Go to the home page to see the latest top stories."><i class="icon sprite-icon"></i>
+                <span class="button-text">Home</span>
+            </button>
+            <button class="button search-button"><i class="icon sprite-icon"></i><span class="button-text">Search</span></button>
+            <a class="button skip-button skip-to-content visually-hidden focusable" href="#main">Skip to content</a>
+                                </div><!-- close button-group -->
+        <div class="branding">
+            <h2 class="branding-heading">
+                <a id="branding-heading-link" href="http://www.nytimes.com/">
+                    <span class="visually-hidden">The New York Times</span>
+                </a>
+            </h2>
+            <script>window.magnum.writeLogo('small', 'http://a1.nyt.com/assets/blogs/20150806-124338/images/foundation/logos/', 'Opinion', 'masthead-theme-standard', 'standard', 'branding-heading-link');</script>
+        </div><!-- close branding -->
+        <div class="story-meta">
+    <h6 class="kicker">
+        <span class="kicker-label">
+			            <a href="http://fish.blogs.nytimes.com">
+                Stanley Fish            </a>
+			        </span>
+
+                <span class="pipe">|</span>
+        What Should Colleges Teach? Part 3        
+    </h6>
+</div><!-- close story-meta -->
+
+
+        <div id="TopNavAd" class="ad top-nav-ad nocontent robots-nocontent">
+    <div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div>
+</div>
+        <div class="user-tools">
+            <div id="sharetools-masthead" class="sharetools theme-classic"
+	 data-shares="email,facebook,twitter,show-all|More"
+	 data-url="http://fish.blogs.nytimes.com/2009/09/07/what-should-colleges-teach-part-3/"
+	 data-title="What Should Colleges Teach? Part 3"
+	 data-description="&lt;span class=&quot;excerpt-inner&quot;&gt;How writing should be taught in college, with specific suggestions.&lt;/span&gt;&lt;a href=&quot;http://fish.blogs.nytimes.com/2009/09/07/what-should-colleges-teach-part-3/&quot; class=&quot;more-link&quot;&gt;Read&nbsp;more...&lt;/a&gt;"
+	data-publish-date="September 7, 2009 9:30 pm">
+<div class="ad sharetools-inline-article-ad hidden"></div>
+</div><!-- close shareTools -->
+            <button class="button search-button"><i class="icon sprite-icon"></i><span class="button-text">Search</span></button>
+            <div id="Bar1" class="ad bar1-ad nocontent robots-nocontent"></div>
+            <div class="user-tools-button-group button-group">
+                <button class="button login-button login-modal-trigger hidden">Log In</button>
+                                                <button class="button notifications-button hidden"><i class="icon sprite-icon"></i><span class="button-text">0</span></button>
+                <button class="button user-settings-button"><i class="icon sprite-icon"></i><span class="button-text">Settings</span></button>
+            </div><!-- close user-tools-button-group -->
+        </div><!-- close user-tools -->
+    </div><!-- close container -->
+    <div class="search-flyout-panel flyout-panel">
+    <button class="button close-button" type="button"><i class="icon"></i><span class="visually-hidden">Close search</span></button>
+    <div class="ad">
+        <small class="ad-sponsor">search sponsored by</small>
+        <div id="SponsorAd" class="sponsor-ad"></div>
+    </div>
+    <nav class="search-form-control form-control layout-horizontal">
+    <form class="search-form" role="search">
+        <div class="control">
+            <div class="label-container visually-hidden">
+                                <label for="search-input">Search NYTimes.com</label>
+                            </div>
+            <div class="field-container">
+                                <input id="search-input" name="search-input" type="text" class="search-input text" autocomplete="off" placeholder="Search NYTimes.com" />
+                
+                <button type="button" class="button clear-button" tabindex="-1" aria-describedby="clear-search-input"><i class="icon"></i><span id="clear-search-input" class="visually-hidden">Clear this text input</span></button>
+                <div class="auto-suggest" style="display: none;">
+                    <ol></ol>
+                </div>
+                <button class="button submit-button" type="submit">Go</button>
+            </div>
+        </div><!-- close control -->
+    </form>
+</nav>
+
+
+</div><!-- close flyout-panel -->
+    <div id="notification-modals" class="notification-modals"></div>
+</header>
+					<nav id="ribbon" class="ribbon ribbon-start nocontent robots-nocontent" aria-hidden="true">
+    <div class="nocontent robots-nocontent">
+        <ol class="ribbon-menu">
+            <li class="collection ribbon-loader">
+                <div class="loader "><span class="visually-hidden">Loading...</span></div>
+            </li>
+        </ol>
+        <div class="ribbon-navigation-container">
+            <nav class="ribbon-navigation next">
+                <span class="visually-hidden">See next articles</span>
+                <div class="arrow arrow-right">
+                    <div class="arrow-conceal"></div>
+                </div>
+            </nav>
+            <nav class="ribbon-navigation previous">
+                <span class="visually-hidden">See previous articles</span>
+                <div class="arrow arrow-left">
+                    <div class="arrow-conceal"></div>
+                </div>
+            </nav>
+        </div>
+    </div><!-- close nocontent -->
+</nav>
+						<nav id="navigation" class="navigation" role="navigation">
+</nav> <!-- close navigation -->
+
+<nav id="mobile-navigation" class="mobile-navigation hidden">
+</nav>
+
+    <div id="navigation-edge" class="navigation-edge"></div>
+				<main id="main" class="main" role="main">
+				<div id="TopAd" class="ad top-ad"></div>
+				<div id="mobilebanner" class="ad mobilebanner"></div>
+								<div id="story" class="story theme-main">
+		<div id="fish" class="spanAC blog">
+			<header id="blogs-masthead" class="wrap">
+	<div class="ad sponsortile-ad hidden nocontent robots-nocontent">
+		<div class="caption">Supported by</div>
+		<div id="sponsortile" class="ad sponsortile-ad-creative"></div>
+	</div>
+			<a href="http://www.nytimes.com/pages/opinion/" class="opinion-kicker">
+			<img src="http://graphics8.nytimes.com/images/blogs_v5/_misc/kicker-opinionpages.png" />
+		</a>
+		<div class="element1">
+	<a href="http://fish.blogs.nytimes.com/?module=BlogMain&action=Click&region=Header&pgtype=Blogs&version=Blog Post&contentCollection=Opinion"><div id="logo" class="archived-blog-post"><div class="site-title">Stanley Fish</div><div class="site-description">Think Again</div></div></a>    </div>
+    <div class="element2">
+    <div class="inlineSearchControl">
+	<form method="get" id="searchform" action="http://fish.blogs.nytimes.com/">
+		<input type="text" value="" name="s" id="s" class="text" placeholder="Search Stanley Fish">
+		<button type="submit" class="searchsubmit">Search</button>
+	</form>
+</div>	</div>
+	<div class="clear"></div>
+		</header>
+	<div class="a-column " id="a-col">
+	<div id="content" class="hfeed">
+	<article class="post-937 post type-post status-publish hentry tag-colleges tag-curriculum tag-reader-mail tag-writing" id="post-937">
+	<header class="postHeader">
+				<div class="postKicker">
+					</div>
+				<h1 itemprop="headline" class="entry-title">What Should Colleges Teach? Part 3</h1>
+		<div class="story-meta-footer">
+			<address class="byline author vcard" itemprop="author creator" itemtype="http://schema.org/Person">
+							</address>
+			<!-- date published --><time class="dateline " datetime="2009-09-08T01:30:46+00:00" itemprop="datePublished">September 7, 2009 9:30 pm</time>
+			<!-- date updated --><span class="visually-hidden updated">September 7, 2009 9:30 pm</span>		</div>
+			</header>
+		<div class="entry-content"><p class="story-body-text" itemprop="articleBody">I write a third column on the teaching of writing in colleges and universities because three important questions posed by a large number of posters  remain unanswered: (1) Isn’t the mastery of  forms something that should be taught in high school or earlier? (2) Isn’t extensive reading the key to learning how to write? (3) What would a composition course based on the method I urge look like?</p>
+<p class="story-body-text" itemprop="articleBody">Questions (1) and (2) can be answered briefly.  Question (3) is, as they say, a work in progress.</p>
+<div class="w190 right module">
+<div class="entry">
+<h6 class="kicker">Previous Columns </h6>
+<ul class="refer">
+<li><a href="hhttp://fish.blogs.nytimes.com/2009/08/24/what-should-colleges-teach/" title="What Should Colleges Teach? Part 1">What Should Colleges Teach?</a> (Aug. 24)</li>
+<li><a href="http://fish.blogs.nytimes.com/2009/08/31/what-should-colleges-teach-part-2/" title="What Should Colleges Teach? Part 2">What Should Colleges Teach? Part 2</a> (Aug. 31)</li>
+</ul>
+</div>
+<div class="entry">
+<h6 class="kicker">Also by Stanley Fish</h6>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2009/09/06/opinion/06fish.html" title="Op-Ed: The Hunt for a Good Teacher">Op-Ed: The Hunt for a Good Teacher</a> (Sept. 5)</li>
+</ul></div>
+</p></div>
+<p class="story-body-text" itemprop="articleBody">By all the evidence, high schools and middle schools are not teaching writing skills in an effective way, if they are teaching them at all. The exception seems to be Catholic schools. More than a few commentators remembered with a mixture of fondness and pain the instruction they received at the hands of severe nuns. And I have found that those students in my classes who do have a grasp of the craft of writing are graduates of parochial schools. (I note parenthetically that in many archdioceses such schools are being closed, not a good omen for those who prize writing.) <span id="more-937"></span></p>
+<p class="story-body-text" itemprop="articleBody">I cannot see, however, why a failure of secondary education relieves college teachers of a responsibility to make up the deficit. Quite the reverse. It is because our students come to us unable to write clean English sentences that we are obligated to supply what they did not receive from their previous teachers. No doubt this obligation constitutes a burden on an already overworked labor force, but (and this is one of those times a cliché can acquire renewed force), somebody has to do it.</p>
+<p class="story-body-text" itemprop="articleBody">The question of the relationship of reading  and learning to write is more complicated. Classical rhetoricians preached the virtue of imitation; students were presented with sentences from the work of great authors and asked to reproduce their form with a different content. I like this exercise because its emphasis is so obviously formal. </p>
+<p class="story-body-text" itemprop="articleBody">But what about just doing a lot of reading and hoping that by passing your eyes over many pages you will learn how to write through osmosis? I’m not so sure. If to wide reading were added daily dinner-table discussions of the sophistication and wit found in many 18th and 19th century novels, I might be more sanguine. And if your experience with words were also to include training in public speaking and debate (itself a matter of becoming practiced in forms), I might say, O.K., you probably don’t need a form-based composition course.  Unfortunately, however, reading is not the favorite pastime of today’s youth and debate societies don’t have the cachet they once did; so my insistence that a narrowly focused writing course be required for everyone stands.</p>
+<p class="story-body-text" itemprop="articleBody">How does one teach such a course?  What texts can one use? How does one effect the passage from sentences to larger prose units? “How do you determine whether and in what ways  [this] approach improves . . . students’ writing,” asks <a href="http://fish.blogs.nytimes.com/2009/08/31/what-should-colleges-teach-part-2/?apage=11#comment-93585" target="new">James Gee</a>. My answers to these questions are provisional. I’m still trying to work them out. </p>
+<p class="story-body-text" itemprop="articleBody">I have reached some conclusions. First, you must clear your mind of the orthodoxies that have taken hold in the composition world.  The main orthodoxy is nicely encapsulated in this resolution adopted in 1974 by the Conference on College Composition and Communication: “We affirm the students’ right to their own patterns and varieties of language — the dialects of their nurture or whatever dialects in which they find their own identity and style.”  </p>
+<p class="story-body-text" itemprop="articleBody">Of course, as a matter of law students have the right to any dialect they choose to deploy (although in some small cities where the “English Only” movement has succeeded in the ballot box, linguistic rights have been curtailed). The issue is whether students accorded this right will prosper in a society where norms of speech and writing are enforced not by law but by institutional decorums. If you’re about to be fired because your memos reflect your “own identity and style,” citing the CCC resolution is not going to do you any good.  </p>
+<p class="story-body-text" itemprop="articleBody">Behind the resolution is a theoretical argument. Linguistic forms, it is said, are not God-given; they are the conventional products of social/cultural habit and therefore none of them is naturally superior or uniquely “correct.”  It follows (according to this argument) that any claim of correctness is political, a matter of power not of right. “If we teach standardized, handbook grammar as if it is the only ‘correct’ form of grammar, we are teaching in cooperation with a discriminatory power system” (<a href="http://www.ncte.org/journals/ej/issues/v92-3" target="new">Patricia A. Dunn and Kenneth Lindblom, English Journal, January, 2003</a>). </p>
+<p class="story-body-text" itemprop="articleBody">Statements like this one issue from the mistake of importing a sociological/political analysis of a craft into the teaching of it. It may be true that the standard language is an instrument of power and a device for protecting the status quo, but that very truth is a reason for teaching it to students who are being prepared for entry into the world as it now is rather than the world as it might be in some utopian imagination — all dialects equal, all habit of speech and writing equally rewarded.  </p>
+<p class="story-body-text" itemprop="articleBody">You’re not going to be able to change the world if you are not equipped with the tools that speak to its present condition. You don’t strike a blow against a power structure by making yourself vulnerable to its prejudices.  Even as an exercise in political strategy, “having conversations with students about linguistic systems and democratic values” (V.F. Kinloch, “Revisiting the Promise of Students’ Right to Their Own Language,” CCC 57:1, September 2005) strikes me as an unlikely lever for bringing about change; as  a strategy for teaching writing, it is a disaster. </p>
+<p class="story-body-text" itemprop="articleBody">And if students infected with the facile egalitarianism of soft multiculturalism declare, “I have a right to my own language,” reply, “Yes , you do, and I am not here to take that language from you; I’m here to teach you another one.” (Who could object to learning a second language?) And then get on  with it.</p>
+<p class="story-body-text" itemprop="articleBody">Of course, I still haven’t explained how you get on with it. Not by consulting Strunk and White’s &#8220;The Elements of Style,&#8221; a book cited favorably by more than a few posters. I wouldn’t go as far as  <a href="http://fish.blogs.nytimes.com/2009/08/31/what-should-colleges-teach-part-2/?apage=3#comment-93203" target="new">Randy Burgess</a> does when he calls the famous little book “the worst,” but I would say that it is unhelpful because its prescriptions presuppose the knowledge most of our students don’t have. What good is it to be told, “Do not join independent clauses with a comma,” if you don’t have the slightest idea of what a clause is (and isn’t), never mind an “independent” one? And even if a beginning student were provided with the definition of a clause, the definition itself would hang in mid-air like a random piece of knowledge. It would be like being given a definition of a drop-kick in the absence of any understanding of the game in which it could be deployed.</p>
+<p class="story-body-text" itemprop="articleBody">You have to start with  a simple but deep understanding of the game, which for my purposes is the game of writing sentences. So it makes sense to begin with the question, What is a sentence anyway? My answer has two parts: (1) A sentence is an organization of items in the world. (2) A sentence is a structure of logical relationships. </p>
+<p class="story-body-text" itemprop="articleBody">The second part tells you what kind of organization a sentence is, a logical one, and in order to  pinpoint what the components of that logic are, I put a simple sentence on the table, something like  “John hit the ball” or “Jane likes cake.”  I spend an entire week on sentences like these (which are easily comprehended by students of any background), asking students to generate them, getting them to see the structure of relationships that makes them all the same on a formal level, getting them to see that the motor of meaning production is form, not content.  </p>
+<p class="story-body-text" itemprop="articleBody">Once they see that — and it is an indispensable lesson — they are ready to explore, generate and practice with the other forms that organize the world’s items in increasingly complicated ways. Basically, there is only one thing to be learned, that a sentence is a structure of logical relationships; everything else follows.</p>
+<p class="story-body-text" itemprop="articleBody">I have devised a number of exercises designed to reinforce and extend the basic insight. These include (1) asking students to make a sentence out of a random list of words, and then explain what they did; (2) asking students to turn a three-word sentence like “Jane likes cake” into a 100-word sentence without losing control of the basic structure and then explain, word-by-word, clause-by-clause, what they did; (3) asking students to replace the nonsense words in the first stanza of Lewis Carroll’s “Jabberwocky” with ordinary English words in a way that makes coherent (if silly) sense, and then explain what they did, and how they knew what kind of word to put into each “slot.” (The answer is that even in the absence of sense or content, the stanza&#8217;s formal structure tells them what to do and what not to do.)  </p>
+<p class="story-body-text" itemprop="articleBody">Notice that the exercises always come in two parts. In the first part students  are asked to do something they can do easily. In the second part they are asked to analyze their own performance. The second part is the hard one; it requires students to raise to a level of analytical conscience the operations they must perform if they are to write sentences that hang together. </p>
+<p class="story-body-text" itemprop="articleBody">In the final exercise, <a href="http://www.nytimes.com/2005/05/31/opinion/31fish.html">about which I’ve written before</a> in this space, the class is divided into groups of four or five and each group is asked to create its own  language — complete with a lexicon, and a grammar capable of conveying the distinctions (of number, tense, mood, etc.) conveyed by English grammatical forms. At the end of the semester each group presents a text in its language and teaches the class how to translate it into English, and how to translate English sentences into sentences in the new language, to which the group always gives a name and about which it is always fiercely proprietary.</p>
+<p class="story-body-text" itemprop="articleBody">To my knowledge, there are no textbooks that teach this method — <a href="http://fish.blogs.nytimes.com/2009/08/31/what-should-colleges-teach-part-2/?apage=12#comment-93647" target="new">Stephen</a> reports, “until you described it . . . I had never heard of such a course at any college” — although, in some respects, Francis Christensen’s “generative rhetoric” of sentences, now considered outmoded, comes close. </p>
+<p class="story-body-text" itemprop="articleBody">What I do is supplement the exercises described above with a standard grammar text filled with the usual terminology, a terminology that will not seem impenetrable and hostile to students who have been learning how language works at a level these texts assume but do not explicate. My current favorites are  <a href="http://www.amazon.com/English-Grammar-Dummies-Geraldine-Woods/dp/0764553224" target="new">Geraldine Woods’ &#8220;English Grammar for Dummies&#8221;</a> and <a href="http://www.amazon.com/s/ref=nb_ss?url=search-alias%3Dstripbooks&#038;field-keywords=Martha+Kolln+%22Rhetorical+Grammar%3A+Grammatical+Choice%2C+Rhetorical+Effects.%22&#038;x=0&#038;y=0" target="new">Martha Kolln’s &#8220;Rhetorical Grammar: Grammatical Choice, Rhetorical Effects.&#8221;</a> I like the first because its examples are so fanciful (“Lochness loves my singing”) that there is no danger of becoming interested in their content. I like the second because of Kolln’s emphasis on how grammatical choices fulfill and/or disappoint reader expectations. </p>
+<p class="story-body-text" itemprop="articleBody">I have also assigned <a href="http://www.amazon.com/How-Things-Words-University-Paperbacks/dp/019281205X/ref=sr_1_1?ie=UTF8&#038;s=books&#038;qid=1252258134&#038;sr=1-1" target="new">J.L. Austin’s &#8220;How to Do Things With Words,&#8221;</a> <a href="http://www.amazon.com/Handlist-Rhetorical-Terms-Richard-Lanham/dp/0520076699/ref=sr_1_1?ie=UTF8&#038;s=books&#038;qid=1252258219&#038;sr=1-1" target="new">Richard Lanham’s &#8220;A Handlist of Rhetorical Terms&#8221;</a> and <a href="http://www.amazon.com/Eats-Shoots-Leaves-Tolerance-Punctuation/dp/1592402038/ref=sr_1_1?ie=UTF8&#038;s=books&#038;qid=1252258318&#038;sr=1-1" target="new">Lynne Truss’s &#8220;Eats, Shoots &#038; Leaves,&#8221;</a> and I have flirted with using the Rhetorica Ad Herennium and parts of Quintilian and Seneca, if only to show students how old the formal teaching of writing is.</p>
+<p class="story-body-text" itemprop="articleBody">My course is entirely sentence-centered except for one exercise, when I put a sentence on the board — usually something incredibly boring like, “The first year of college presents many challenges” — and ask each student in turn to add a sentence while taking care to look backward to the narrative that has already been developed and forward to the sentences yet to be written by his or her colleagues. </p>
+<p class="story-body-text" itemprop="articleBody">At the end of the semester, I used to send my students into the class taught by Cathy Birkenstein and Gerald Graff, whose excellent book <a href="http://www.amazon.com/They-Say-Matter-Persuasive-Writing/dp/0393065456/ref=sr_1_2?ie=UTF8&#038;qid=1252258409&#038;sr=1-2" target="new">“They Say / I Say”</a> introduces students to the forms of argument in a spirit entirely compatible with my focus on the forms of sentences. (We have taught in each others&#8217; classes.)</p>
+<p class="story-body-text" itemprop="articleBody">As to the question of whether this method improves writing, I  can only cite local successes  in my  classes and the anecdotal reports of former students who have employed it in their own classes. I take heart from veteran composition teachers like Lynn Sams, who says that after many years of experimentation, she has  concluded that “the ability to analyze sentences, to understand how the parts work together to convey desired meaning,  emphasis, and effect is . . . central to the writing process.” (<a href="http://www.ncte.org/journals/ej/issues/v92-3" target="new">“How to Teach Grammar, Analytical Thinking and Writing; A Method that Works,” English Journal, January, 2003</a>). Amen.  </p>
+	</div>
+		<footer class="entry-footer">
+					<div id="sharetools-post-footer" class="sharetools theme-classic" data-shares="show-all|Share" data-url="http://fish.blogs.nytimes.com/2009/09/07/what-should-colleges-teach-part-3/" data-title="What Should Colleges Teach? Part 3" data-description="How writing should be taught in college, with specific suggestions.">
+				<div class="ad sharetools-inline-article-ad hidden"></div>
+			</div>		<div class="footer-tags">
+			<span class="categories"> </span>
+			<span class="tags"><a href="http://fish.blogs.nytimes.com/tag/colleges/" rel="tag">colleges</a>, <a href="http://fish.blogs.nytimes.com/tag/curriculum/" rel="tag">curriculum</a>, <a href="http://fish.blogs.nytimes.com/tag/reader-mail/" rel="tag">reader mail</a>, <a href="http://fish.blogs.nytimes.com/tag/writing/" rel="tag">Writing</a> </span>
+		</div>
+		</footer>
+</article><div id="respond" class="comments-closed"><p>Comments are no longer being accepted.</p></div>
+<div id="legacy-comments" class="entry-comments module">
+		<div class="the-comment alt" id="comment-94055">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">Martin Yanosek</span>
+			<span class="comment-link">
+				<a href="#comment-94055" title="Comment Permalink">
+					<span class="comment-date">September 7, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">9:57 pm</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>I think you&#8217;re right about being equipped with tools to change the world, Dr. Fish. However, if I had to create a language from scratch (even in a group of linquistic wizards), I think I&#8217;d have to take a &#8220;W&#8221; for the course. Too daunting.  Also, as far as the content vs. form controversy goes, the parables of Jesus have fascinating form, but the content goes way beyond form in significance. So in composition classes I think we have to fil up our important forms with significant content if we want to be prepared to change the world.</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment" id="comment-94057">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">Deane Yang</span>
+			<span class="comment-link">
+				<a href="#comment-94057" title="Comment Permalink">
+					<span class="comment-date">September 7, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">10:00 pm</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>Professor Fish,</p>
+<p>I&#8217;d like to thank you for three wonderful essays on teaching writing. I am a math professor, and I believe that the challenges of teaching mathematics parallel closely those of teaching writing. Much of what you wrote parallel my views on how students should learn how to do mathematics.</p>
+<p>Just as there is much confusion between the subject of English literature and the skill or craft of writing English, there is a similar confusion between the field of mathematics and the skill or craft of doing mathematics. Too many people seem to believe that if you teach students about a subject, then the students will somehow learn the underlying skills.</p>
+<p>What I also like is your willingness to explicitly confront students with the abstract structure of grammar and writing. Too many teachers today shy away from this and hope that students will somehow acquire the proper understanding of grammar and corresponding writing skills unconsciously by osmosis. The same is true in mathematics education, where we refuse to teach deductive logic explicitly to students and hope vainly that students will figure it out implicitly.</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment alt" id="comment-94059">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">Leah</span>
+			<span class="comment-link">
+				<a href="#comment-94059" title="Comment Permalink">
+					<span class="comment-date">September 7, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">10:13 pm</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>Your arguments make sense, if one wants to become a secretary. But if I want to write well, then being forced to write by the rules destroys my creativity just as much if not more than what it teaches me. Yes, writing in correct grammar would help me, but it would also destroy much of my proposed effect, as it would many authors&#8217;. It&#8217;s like forcing people to walk in shoes that don&#8217;t fit them, just because other people&#8217;s feet are built like that.  There was a good argument in a discussion on Pandalous on does objective beauty exists of how symmetry and correct form  are not necessarily objective criteria. The same argument applies here.</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment" id="comment-94061">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">EDWARD R. LEVY</span>
+			<span class="comment-link">
+				<a href="#comment-94061" title="Comment Permalink">
+					<span class="comment-date">September 7, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">11:23 pm</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>I look at the above article &#038; recall a most important &#8220;rule&#8221; from the Elements of Style.  The rule related to the question of when to use any word &#038; the rule was &#8220;every word must TELL&#8221; If it doesn&#8217;t tell something then leave it out. I had this driven home to me by my favorite teacher in graduate school when he returned a paper to me that I thought was of great quality &#038; about 20% of the words were stricken by red marks.</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment alt" id="comment-94063">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">elderly prof, again</span>
+			<span class="comment-link">
+				<a href="#comment-94063" title="Comment Permalink">
+					<span class="comment-date">September 7, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">11:27 pm</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>Hey, I like this column.  Know why?  Because instead of pontificating on a high level of generality, you&#8217;re talking about what you actually do, and are explaining with concrete examples.<br />
+What works in teaching writing depends partly on the teacher&#8217;s own style and expertise.  This works for you and, apparently, for your students.  I&#8217;m willing to try some of these practices out.</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment" id="comment-94065">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">MC</span>
+			<span class="comment-link">
+				<a href="#comment-94065" title="Comment Permalink">
+					<span class="comment-date">September 7, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">11:38 pm</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>Dear Professor Fish,</p>
+<p>  I&#8217;d like to moderate my comments from Part 1 that you cited in Part 2 (I believe you felt I was questioning your authority in composition&#8211; that is to say, you were unhappy with my assertion that &#8220;you don&#8217;t know a damn thing about teaching writing&#8221;).  For the record, my primary critique was of the pedagogy I thought you were advocating, though at that point your approach wasn&#8217;t at all clear.  Now that it&#8217;s somewhat clearer, let me congratulate you on having a tremendous amount right.  As a former teacher in the rural black public schools of the Mississippi Delta, and as veteran comp. instructor of low-income, at-risk students of color and immigrants, I commend your stand against a &#8216;soft multiculturalism&#8217; that refuses to offer students the power inherent in the language of&#8211; power.  </p>
+<p> Yet I also believe that this pedagogical approach you advocate&#8211; teaching grammar without the jargon, teaching the sentence as a logical form, teaching the importance of syntax and grammar in creating meaning, would be woefully incomplete even if your sole objective was to teach the proper sentence.  Yes, sentences lead to paragraphs, and so on and so on, only&#8230; well, that&#8217;s not how human beings communicate.  That&#8217;s perhaps how Milton has Satan communicate; that&#8217;s how an intellectual of Stanley Fish&#8217;s ability is able to understand written communication that has risen to the level of poetry.  But we&#8217;re not talking about teaching students to write timeless prose&#8230; we&#8217;re talking about teaching students rhetoric and argumentation  in blocks of 3-7 pages, ie, the college-level essay.  </p>
+<p>  I do believe there&#8217;s a place for much of the pedagogy you describe, and your focus on the sentence would work well to help students focus on the sentence as a necessary unit of meaning.  Yet the objective(s) of a composition class are   myriad.  Perhaps students ought to spend more time on a reasonable, practical, and exploratory approach to grammar that helps them comprehend the logical integrity of the sentence.  Yet composition programs are charged with teaching sustained argument&#8211; specific, analyzed examples must create an unified, focused, significant argument.  Students have opinions, but not reasons; they have experience and convictions, but lack the apparatus to express a position.  That is why good composition pedagogy attempts to do what you suggest&#8211; teach grammar and syntax, ie, the necessity of form in making meaning&#8211; while simultaneously trying to engage students in areas of their own experience to begin to create arguments.  I don&#8217;t think  that nine weeks of inventing one&#8217;s own language/grammar (the idea being that you&#8217;d learn those structures well through tedious exploration?), and a tenth week of &#8220;They Say, I Say,&#8221; is an adequate pedagogy for teaching argument to students who don&#8217;t know anything about written argument.  And your quick skirt around the connection between careful reading and careful writing is ridiculous given the research we have about the ways students learn grammar&#8230; I bet you wrote good sentences without a Catholic school teacher, or a Stanley Fish, simply because you were a prolific reader.  </p>
+<p>  There&#8217;s a reason that composition studies exist.  Have your read Mike Rose, for example?  These are complicated issues.  It&#8217;s not that silliness and idiocy and mediocrity doesn&#8217;t exist in Composition, or that the Academy more generally doesn&#8217;t consider and even nurture a lot of absurd and counterproductive foolishness.  But you&#8217;re still mostly wrong on this one.  </p>
+<p>  Michael Copperman<br />
+  University of Oregon</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment alt" id="comment-94067">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">A Professional Rhetorician</span>
+			<span class="comment-link">
+				<a href="#comment-94067" title="Comment Permalink">
+					<span class="comment-date">September 7, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">11:47 pm</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>Professor Fish, you write fine sentences yourself but I don&#8217;t think you have a clue about what a sentence is at an abstract level. &#8220;(1) A sentence is an organization of items in the world. (2) A sentence is a structure of logical relationships. &#8221; Really? This definition is uninformative, simplistic, misleading and really pretty sily. A sentence is an organization of &#8220;items in the world&#8221; -? Certainly not. words are not &#8220;items in te world&#8221;, tey are representations of concepts and relationships among concepts, perhaps, but certainly not &#8220;items&#8221; themselves. Nor is a sentence &#8220;a structure of logical relationships&#8221; unless the word&#8221;logical&#8221; is so emptied of meaning as to be useless. No, Dr. Fish, your pontifications on these matters strike this linguist, at ;east, as pompous and ill informed.  And as for spending a semester on simple sentences &#8212; you give no examples of compound let alone complex sentences &#8212;  that seems like a total waste of time to me. There are much much better ways of filling a writing course than this.</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment" id="comment-94069">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">Michael Smith</span>
+			<span class="comment-link">
+				<a href="#comment-94069" title="Comment Permalink">
+					<span class="comment-date">September 7, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">11:50 pm</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>The idea that Catholic School have some sort of lock on the education system is wrong. The nuns have a less than zero idea of how to teach the English language. Discipline is one key. The 2nd key is the Burger writing course. This system teaches fundamentals of writing as well as the confidence it takes for any person to succcessfully write. It is had to believe that in this day and age that anyone would believ that the nuns; who by the way cannot write could possibly teach anyone</p>
+<p>Michael Smith<br />
+Graduate of Catholic Schools</p>
+<p>My Father with a 4th grade education in Philadelphia taught me how to read and write</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment alt" id="comment-94071">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">Thomas Zaslavsky</span>
+			<span class="comment-link">
+				<a href="#comment-94071" title="Comment Permalink">
+					<span class="comment-date">September 7, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">11:59 pm</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>I agree with this column.  I am very sympathetic to the existence of many dialects and many languages.  At the same time I&#8217;m very sympathetic to the idea of a common language within which large numbers of people can communicate accurately and precisely.  Confining the discussion to English, the former are, for example, all the interesting dialects of English from many villages and social classes.  The latter is standard English.  For communicating effectively with one&#8217;s subgroup, their dialect is likely to be most effective.  For communicating with people of all kinds of backgrounds, as in scholarship and national or global, or even statewide, business, one has to know and use standard English.  </p>
+<p>I teach mathematics; I cannot understand a math solution written in (for example) street talk, and neither can anyone else, because the precision necessary to logical expression doesn&#8217;t exist in such dialects.  They have other virtues, but not that.</p>
+<p>Creative writing and creative use of language is wonderful, but if you cannot communicate accurately when necessary, you are handicapped.</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment" id="comment-94073">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">Hari C</span>
+			<span class="comment-link">
+				<a href="#comment-94073" title="Comment Permalink">
+					<span class="comment-date">September 8, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">12:04 am</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>I usually agree with Stanley Fish, but this part 3 seems the weakest of the three arguments.  The first two were much better articles with more of a stable foundation outlining some reasonable objections on his part.</p>
+<p>Just because&#8211;the cccc recognizes that students have a right to their own language and dialect&#8211; does not mean&#8211; that comp instructors are subverting standards or forms to the detriment of student success.  Comp instructors do try to improve their student&#8217;s standard English; that is the job.  Just because their professional organization recognizes a right of the student does not mean that comp instruction should be assumed to be fatally compromised as Stanley Fish does.</p>
+<p>Sure teaching at the sentence level is important, And, of course, if you abandon all formalities about writing then you are not preparing the students for the next class, or the writing that awaits them beyond that.  </p>
+<p>But, how do you do it?  Teach &#8220;forms&#8221;? Stanley Fish&#8217;s way more work for him, but its highly unlikely to work effectively for  others because it treats grammar outside of the context of the student&#8217;s writing.  By the way, isn&#8217;t it ironic that you goad the cccc for recognizing student rights of expression as somehow dangerous, but you waste student time by having them make up and present a fake language.  Wouldn&#8217;t they be better off doing presentations on how they revised a paper to correct or improve it at the sentence level?</p>
+<p>Teaching and requiring students to revise their own work to correct and optimize grammar with lots of individual instruction as needed is important.  Teach in whole class, small groups&#8211;and have individual tutorial assistance available for the real project of revising at least one or two major papers of the course.  </p>
+<p>Use exercises that resemble ones from papers they have written.  Teaching not only correcting grammar but combining and structuring sentences to express ideas more effectively.  Not just the names of sentence parts but the rhetorical options and manueverings that grammar allows.</p>
+<p>These kinds of teaching moves and others that make the grammar less abstract and more a part of their actual writing situation is actually the new school and better way of teaching &#8220;forms&#8221; and helping people improve at the sentence level.  </p>
+<p>Stanley&#8217;s Fish&#8217;s way sounds pretty much like rote grammar drills that have not been explained in terms of how Fish&#8217;s students apply the knowledge to their actual writing.  Researchers have empirically proven that grammar boot camp does not really work, but Stanley Fish wants us to ignore that and accept it on faith that grammar can save the student and the university if it was just taught.  Teaching grammar effectively is not as simple as Mr. Fish breaks it down to be.   </p>
+<p>Learning grammar in the context of a student&#8217;s own writing is not just a silly mantra but a really practical tool that works because the student is engaged with their own writing and not jumping through formalistic hoops, not matter how pre-eminent the person who designed the hoops is.</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment alt" id="comment-94077">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">Russell Potter, Ph.D.</span>
+			<span class="comment-link">
+				<a href="#comment-94077" title="Comment Permalink">
+					<span class="comment-date">September 8, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">12:10 am</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>Professor Fish offers this as the pith of his stalk of wisdom: &#8220;You don’t strike a blow against a power structure by making yourself vulnerable to its prejudices. &#8221;  Perhaps not.  But you certainly don&#8217;y strike any sort of blow by avoiding offense to those same prejudices.  This is a well-known fallacy, which has been exploded with particular verve by Rosina Lippi-Green, who refers to this as the &#8220;language subordination model.&#8221;  Teachers, acting on the false premise that they are, by insisting that students cowtow to a variety of groundless rhetorical prejudices (disguised as &#8220;rules&#8221;), take a vanguard role: &#8220;I am stopping you from writing/speaking this way because others will be prejudiced against you if you carry on with such usage.&#8221;  And yet, ironically, this insistance reinscribes the very &#8220;rules&#8221; that the teachers claim have external existance.</p>
+<p>Fish&#8217;a playful assignments &#8212; and I too love Austin, Truss, and Kolln &#8212; bely his underlying message, which is that some ostensible &#8220;choices&#8221; may well be judged &#8212; and harshly &#8212; and that we should accede to such judgments as a condition of &#8220;education.&#8221;  Let&#8217;s make no mistake that language and power are related &#8212; but let&#8217;s also be clear that the demands of power far exceed any rational correspondence between form and function.</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment" id="comment-94079">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">C.C.</span>
+			<span class="comment-link">
+				<a href="#comment-94079" title="Comment Permalink">
+					<span class="comment-date">September 8, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">12:12 am</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>Yes, trying to wrestle logical thoughts into sentences is very important, and your formal approach sounds effective. But it&#8217;s just as important to help students understand what an idea is if we hope to help them clarify their own thoughts in writing  and to understand the thoughts of others. Otherwise they will be confined to the rather flat world of statements and counter-statements. In expository prose most sentences &#8212; except for those written by Hegel, perhaps &#8212; are elements of larger ideas. They&#8217;re statements cruising around looking for other statements they can connect with in order to form a larger assertion or idea. For the most part, paragraphs are the smallest units able to express at least the outlines of an idea. A formal approach to paragraph building is still one of the best ways of allowing students to experience the thrill of fleshing out a cogent idea that can be debated with others objectively, without any fear of being personally criticized. </p>
+<p>Mr. Fish, in the future I hope you will discuss the love-hate relationship between sentences and paragraphs. Paragraphing is just as essential to writing as &#8220;sentencing&#8221; is. I hope you will share with us some of your suggestions for helping students to paragraph better.</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment alt" id="comment-94081">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">Mark Hammond</span>
+			<span class="comment-link">
+				<a href="#comment-94081" title="Comment Permalink">
+					<span class="comment-date">September 8, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">12:25 am</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>Resorting to numbering main points? Seems as if Mr. Fish has a problem organizing, which is a basic writing skill. </p>
+<p>The Elements of Style is filled with lots of good things, not just sentence structure. The forward of the book alone is far more inspiring that Mr. Fish. </p>
+<p>Strunk would cringe at the word choice &#8220;facile egalitarianism of soft multiculturalism&#8221; being used in the New York Times.</p>
+<p>I give this a C-</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment" id="comment-94083">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">MCM</span>
+			<span class="comment-link">
+				<a href="#comment-94083" title="Comment Permalink">
+					<span class="comment-date">September 8, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">12:28 am</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>You are absolutely right in your conclusion. The ability to analyze sentences and arguments is crucial in being able to write well. Good writing is mainly about structure and organization and secondly about verbal fluency and vocabulary. Even if one lacks fluency or a good &#8220;ear,&#8221; matters of style can easily be fixed in the editing process.</p>
+<p>I would disagree with anyone who would claim that an abundance of reading makes a good writer. It certainly doesn&#8217;t hurt, but I&#8217;ve known plenty of well-read folks who have no idea how to place a comma.</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment alt" id="comment-94085">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">Tom</span>
+			<span class="comment-link">
+				<a href="#comment-94085" title="Comment Permalink">
+					<span class="comment-date">September 8, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">12:29 am</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>Amen to all that.  I&#8217;ve been teaching writing courses since 1965, most recently [for the past decade plus] in law school.  Oddly enough, I find that most of my students in law school are not capable of analyzing what they have written.  They can parse a statute or a rule of court, to figure out what to do with it; but they can&#8217;t parse a simple sentence.  And therefore, they have trouble writing clearly.  Though it should have happened before they reached that plateau of education, I spend a good bit of time discussing sentence structures and the logic of composition.  They generally catch on after a while.  But it&#8217;s something that they should have been exposed to much earlier.  It would have made them better lawyers.</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment" id="comment-94087">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">jay fraser</span>
+			<span class="comment-link">
+				<a href="#comment-94087" title="Comment Permalink">
+					<span class="comment-date">September 8, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">12:38 am</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>That&#8217;s a grand approach to writing and one I have used time and again.  But it requires the teacher to learn the rhetoric and logic that lie behind that approach.  Most places try to &#8220;control&#8221; the composition courses by requiring textbooks, usually collections of essays, with the implicit pressure to teach reading and argument.  One practically sneaks in the rhetoric/grammar approach.  Or, one is imprisoned in a department dominated by &#8220;creative writing&#8221; where the mission is allowing students to &#8220;be creative&#8221; by the usual navel gazing for the young.  Adjuncts (who teach most of the composition classes in the U.S.) simply don&#8217;t have the control to choose your texts, and most have little training in language and rhetoric which are now rarely required in graduate school curricula.  So who will teach the teachers?</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment alt" id="comment-94089">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">Allie</span>
+			<span class="comment-link">
+				<a href="#comment-94089" title="Comment Permalink">
+					<span class="comment-date">September 8, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">12:43 am</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>You also need small writing seminars (no more than 12 students; 9 is perfect) plus an instructor prepared to do heavy, heavy editing on every piece of student prose during the first half of the term. You walk them through close readings. You coach them into detailed, considerate in-class critique.  And you have them read aloud, a lot&#8211;the ear often tells them more than the eye. You encourage, chide, challenge, reassure. And then, cunningly, you shift the burden. Peer edits, &#8216;cut-this-by-25%-good-now-cut-by-50%-and-now-by-75%&#8217; exercises&#8230;and by the tenth week you can simply put a  &#8216;x&#8217; in the margin of any piece of their prose and they&#8217;ll know what to do, or at least make a plausible  guess. But oh, the labor, if the instructor is both literate and conscientious. And oh, the pathetic paycheck.</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment" id="comment-94091">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">Tony Waters</span>
+			<span class="comment-link">
+				<a href="#comment-94091" title="Comment Permalink">
+					<span class="comment-date">September 8, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">12:44 am</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>Your points are well made.  But you leave out one thing, which is that teaching writing requires students to write, and professors (or at least a teaching assistant) to provide prompt, clear, and accurate feedback .  </p>
+<p>In a time of declining university budgets, it is easy to simply lift the caps on the writing intensive courses in English, as well as other subjects.  Ultimately this leads to a flood of papers, to which faculty respond with multiple choice tests.</p>
+<p>Caps of 20 students per faculty member are appropriate in writing intensive courses.  Alas, at least here in California, these are quickly becoming a thing of the distant past.  </p>
+<p>Tony Waters<br />
+CSU Chico</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment alt" id="comment-94093">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">Elsa Bondar</span>
+			<span class="comment-link">
+				<a href="#comment-94093" title="Comment Permalink">
+					<span class="comment-date">September 8, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">12:50 am</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>The sentence exercises are most interesting, and I think they would be fun to try.<br />
+For myself, I found the best way to understand sentences, their structure,  the function of the words within them, and how to punctuate them, is to learn to diagram them or map them.<br />
+Start with simple sentences and work up to the more complicted structures.  The process is partly visual, and rather like solving a puzzle.<br />
+The processs of diagraming easily explains parts of speech and how to use words without a lot of random memorization.<br />
+Types of sentences and their structure are easily identified.<br />
+The rationale of sentence structure becomes clear in an instant..  For example, the differnce between. what is a subject or an object becomes obvious.<br />
+Of course, the content of what you write in essays and papers would depend on your assignments, experience, study, interests, research, and passion.</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment" id="comment-94097">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">marik7</span>
+			<span class="comment-link">
+				<a href="#comment-94097" title="Comment Permalink">
+					<span class="comment-date">September 8, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">12:54 am</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>Good job, Mr. Fish&#8211;a few observations:</p>
+<p>1) Like you, I am not convinced that the key to quality writing is quantity reading.  Is there evidence that reading a lot makes people better writers, and is there evidence that reading, let’s say, graphic novels daily has made of those readers better writers? Or is it just possible that the same people who like to write like to read (tangent: remember “Classics Illustrated?).</p>
+<p>2) Experienced teachers today know that reading is not a popular activity among most students. Getting them to read “The Wolverine” or “Gossip Girls” is not the problem. Getting them to debate is even less feasible. They’re working on their social networking skills.</p>
+<p>3) As to those who wrote that“&#8230;we are teaching in cooperation with a discriminatory power system,”&#8211;well, yes. That’s the point. And if you want to get into the power system, you’d better know how to do what it wants you to do. Just as you say.</p>
+<p>The sentence=based approach you use is a good one. It would be even better if students were exposed to such a method at a much younger age, so a college teacher could deal with even more matters related to good writing&#8211;paragraphs, say.</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment alt" id="comment-94099">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">Jon Booth</span>
+			<span class="comment-link">
+				<a href="#comment-94099" title="Comment Permalink">
+					<span class="comment-date">September 8, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">12:55 am</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>I found that in high school I learned far more grammar in Spanish class than in English class. This led to a strange situation in which we were learning indirect objects and the subjunctive tense in Spanish, while many students in the class could not pick out either of these in English.</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment" id="comment-94101">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">a</span>
+			<span class="comment-link">
+				<a href="#comment-94101" title="Comment Permalink">
+					<span class="comment-date">September 8, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">12:58 am</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>Arthur Quinn, Figures of Speech: 60 Ways To Turn A Phrase!</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment alt" id="comment-94103">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">GM Pierce</span>
+			<span class="comment-link">
+				<a href="#comment-94103" title="Comment Permalink">
+					<span class="comment-date">September 8, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">12:59 am</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>If your examples are intended as a hypothetical way to teach college writing, we are doomed.</p>
+<p>I was one of those parochial school students who learned to write by the time I was in eighth grade. I did not learn writing by any such exercises as you propose. I had already learned writing by reading.</p>
+<p>If your suggested approach is actually aimed at college students, you seriously need to consider whether these people are capable of college work. </p>
+<p>If you have to provide remedial reading, you might consider locking them in a room with a large pile of books and hoping some kind of miracle happens.</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment" id="comment-94105">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">Tom Diffenbach</span>
+			<span class="comment-link">
+				<a href="#comment-94105" title="Comment Permalink">
+					<span class="comment-date">September 8, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">12:59 am</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>Can someone design a course about being concise that Stanley can take?:)</p>
+
+		</div>
+	</div><!-- #comment-## -->
+	<div class="the-comment alt" id="comment-94107">
+
+		<div class="comment-meta">
+
+			<span class="comment-author">Stephen</span>
+			<span class="comment-link">
+				<a href="#comment-94107" title="Comment Permalink">
+					<span class="comment-date">September 8, 2009</span>
+					<span class="comment-middot">&middot;</span>
+					<span class="comment-time">1:04 am</span>
+				</a>
+			</span>
+		</div>
+		<div class="comment-content" style="display:block;">
+
+			<p>While Professor Fish continues to make excellent progress in laying out what he proposes writing classes should look like, he also continues NOT to engage seriously with content-based alternatives.  The examples he points to, such as the CCC, are not hard to disagree with.  But he refuses once again to engage at all with the vast middle ground between teaching content without forms and teaching forms without content.</p>
+<p>If I were advising a student who had a choice between Professor Fish&#8217;s sentence-based course and a course that would teach them about logical arguments, use of evidence, organization, paraphrasing/summarizing, and coherence (as well as dramatically less time on sentence-level editing), I would advise almost every student I&#8217;ve ever taught to take the latter.  The sentence is simply not my highest priority.  Yes, everything else is built out of sentences, but they can be built out of mediocre sentences at need.  I&#8217;d rather have students who know how to manage content, and are weak with sentences, than students who are great with sentences, but haven&#8217;t been exposed to how to write an essay (or business memo, or any other sort of report).</p>
+<p>Professor Fish, I encourage you to write a 4th episode in this enthralling series, in which you engage the claim that there are OTHER SKILLS that firstyear composition courses can legitimately be expected to cover, and explain why you&#8217;re willing to throw all of them overboard to fixate entirely on content-less sentences.</p>
+
+		</div>
+	</div><!-- #comment-## -->
+</div> <!-- end comment text -->
+
+		<section id="whats-next" class="whats-next nocontent robots-nocontent">
+    <div class="nocontent robots-nocontent">
+        <div class="loader-container">
+            <div class="loader loader-t-logo-32x32-ecedeb-ffffff"><span class="visually-hidden">Loading...</span></div>
+        </div>
+    </div><!-- close nocontent -->
+</section>
+
+			</div><!-- end content -->
+</div><!-- end .a-column -->
+<div class="cColumn nocontent robots-nocontent">
+	<aside>
+	<div class="postNavigation">
+	<ul class="opposingFloatControl wrap">
+		<li class="element1">
+						<span class="previous">Previous Post</span>
+			<div class="arrow arrow-left">
+				<div class="arrow-conceal"></div>
+			</div>
+			<a class="postTitle" href="http://fish.blogs.nytimes.com/2009/08/31/what-should-colleges-teach-part-2/" title="What Should Colleges Teach? Part 2">
+				What Should Colleges Teach? Part 2			</a>
+					</li>
+		<li class="element2">
+						<span class="next">Next Post</span>
+			<div class="arrow arrow-right">
+				<div class="arrow-conceal"></div>
+			</div>
+			<a class="postTitle" href="http://fish.blogs.nytimes.com/2009/09/14/does-curiosity-kill-more-than-the-cat/" title="Does Curiosity Kill More Than the Cat?">
+				Does Curiosity Kill More Than the Cat?			</a>
+					</li>
+	</ul>
+</div>
+			<div class="module ad" id="XXL"></div>
+				<div class="module ad" id="MiddleRight"></div>
+        		<div class="module archivesModule clearfix nocontent">
+			<h4 class="moduleHeader">Archive</h4>			<select name="archive_chrono" onchange="window.location.href=this.value; this.selectedIndex=this.options[0]">
+				<option class="archiveform_option" value="">Select Month</option>
+					<option value='http://fish.blogs.nytimes.com/2009/11/'> November 2009 </option>
+	<option value='http://fish.blogs.nytimes.com/2009/10/'> October 2009 </option>
+	<option value='http://fish.blogs.nytimes.com/2009/09/'> September 2009 </option>
+	<option value='http://fish.blogs.nytimes.com/2009/08/'> August 2009 </option>
+	<option value='http://fish.blogs.nytimes.com/2009/07/'> July 2009 </option>
+	<option value='http://fish.blogs.nytimes.com/2009/06/'> June 2009 </option>
+	<option value='http://fish.blogs.nytimes.com/2009/05/'> May 2009 </option>
+	<option value='http://fish.blogs.nytimes.com/2009/04/'> April 2009 </option>
+	<option value='http://fish.blogs.nytimes.com/2009/03/'> March 2009 </option>
+	<option value='http://fish.blogs.nytimes.com/2009/02/'> February 2009 </option>
+	<option value='http://fish.blogs.nytimes.com/2009/01/'> January 2009 </option>
+	<option value='http://fish.blogs.nytimes.com/2008/12/'> December 2008 </option>
+	<option value='http://fish.blogs.nytimes.com/2008/11/'> November 2008 </option>
+	<option value='http://fish.blogs.nytimes.com/2008/10/'> October 2008 </option>
+	<option value='http://fish.blogs.nytimes.com/2008/09/'> September 2008 </option>
+			</select>
+		</div>
+        <div id="recentposts-2" class="module nocontent widget_recentposts"><h4 class="moduleHeader">Recent Posts</h4>				<div class="entry">
+						<h5><a href="http://fish.blogs.nytimes.com/2009/11/16/words-you-hate-to-hear/" title="Read: Can I Put You On Hold?">Can I Put You On Hold?</a>
+								<span class="postMetaHeaderCommentCount commentCount">
+					<i class="icon"></i>
+					<a href="http://fish.blogs.nytimes.com/2009/11/16/words-you-hate-to-hear/#comments"
+					   class="commentCountLink commentCountNumberOnly"
+					   title="Can I Put You On Hold?">(1,122)</a>
+					</span>
+							</h5>
+			<p class="summary">
+			We&#8217;re surrounded by maddening words and expressions, all of them seemingly designed to make us miserable, or at least grumpy.<a href="http://fish.blogs.nytimes.com/2009/11/16/words-you-hate-to-hear/" class="more-link">Read&#160;more&#8230;</a></p>
+		</div>
+					<div class="entry">
+						<h5><a href="http://fish.blogs.nytimes.com/2009/10/26/1153/" title="Read: "></a>
+								<span class="postMetaHeaderCommentCount commentCount">
+					<i class="icon"></i>
+					<a href="http://fish.blogs.nytimes.com/2009/10/26/1153/#comments"
+					   class="commentCountLink commentCountNumberOnly"
+					   title="">(2)</a>
+					</span>
+							</h5>
+			<p class="summary">
+			Stanley Fish is away this week.<a href="http://fish.blogs.nytimes.com/2009/10/26/1153/" class="more-link">Read&#160;more&#8230;</a></p>
+		</div>
+					<div class="entry">
+						<h5><a href="http://fish.blogs.nytimes.com/2009/10/19/academics-under-siege/" title="Read: Academics Under Siege">Academics Under Siege</a>
+								<span class="postMetaHeaderCommentCount commentCount">
+					<i class="icon"></i>
+					<a href="http://fish.blogs.nytimes.com/2009/10/19/academics-under-siege/#comments"
+					   class="commentCountLink commentCountNumberOnly"
+					   title="Academics Under Siege">(253)</a>
+					</span>
+							</h5>
+			<p class="summary">
+			Reader responses and further debate on the issue of academic freedom and the law.<a href="http://fish.blogs.nytimes.com/2009/10/19/academics-under-siege/" class="more-link">Read&#160;more&#8230;</a></p>
+		</div>
+					<div class="entry">
+						<h5><a href="http://fish.blogs.nytimes.com/2009/10/12/the-rise-and-fall-of-academic-abstinence/" title="Read: The Rise and Fall of Academic Abstention">The Rise and Fall of Academic Abstention</a>
+								<span class="postMetaHeaderCommentCount commentCount">
+					<i class="icon"></i>
+					<a href="http://fish.blogs.nytimes.com/2009/10/12/the-rise-and-fall-of-academic-abstinence/#comments"
+					   class="commentCountLink commentCountNumberOnly"
+					   title="The Rise and Fall of Academic Abstention">(137)</a>
+					</span>
+							</h5>
+			<p class="summary">
+			A new book examines the growing impact of the law on academic freedom.<a href="http://fish.blogs.nytimes.com/2009/10/12/the-rise-and-fall-of-academic-abstinence/" class="more-link">Read&#160;more&#8230;</a></p>
+		</div>
+					<div class="entry">
+						<h5><a href="http://fish.blogs.nytimes.com/2009/10/05/the-andes-chronicles/" title="Read: The Andes Chronicles">The Andes Chronicles</a>
+								<span class="postMetaHeaderCommentCount commentCount">
+					<i class="icon"></i>
+					<a href="http://fish.blogs.nytimes.com/2009/10/05/the-andes-chronicles/#comments"
+					   class="commentCountLink commentCountNumberOnly"
+					   title="The Andes Chronicles">(196)</a>
+					</span>
+							</h5>
+			<p class="summary">
+			A postcard from an unusual small town that, against all odds, works.<a href="http://fish.blogs.nytimes.com/2009/10/05/the-andes-chronicles/" class="more-link">Read&#160;more&#8230;</a></p>
+		</div>
+		</div><!-- end Recent Posts side tool -->
+    		<div class="module ad" id="Box1"></div>
+        <div id="nyt_blog_social_media-3" class="module nocontent widget_nyt_blog_social_media"><!-- begin #blog-follow-widget -->
+<div id="blog-follow-widget" class="blog-fw-single ">
+<h4 class="">
+<span class="blog-fw-generic-followmessage">Follow <span class="blog-fw-desk">Stanley Fish on</span></span>
+</h4>
+<ul>
+</ul>
+</div> <!-- end #blog-follow-widget -->
+</div>	</aside>
+</div>		<div class="clear"></div>
+	</div><!-- end blog wrap -->
+	<div class="hideContent"></div>
+
+	
+<!-- Google Analytics start -->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-4406282-57',  { 'alwaysSendReferrer': true } );
+ga('send', 'pageview');
+</script>
+<!-- Google Analytics end -->
+		<div id="mobilebanner2" class="ad mobilebanner2"></div>
+		<div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div>
+<div id="SponLink" class="text-ad bottom-left-ad nocontent robots-nocontent"></div>
+
+		<div id="Top5" class="ad top5-ad hidden nocontent robots-nocontent"></div>
+
+					</div>
+			<div class="search-overlay"></div>
+		</main><!-- close main -->
+		<section id="site-index" class="site-index">
+    <header class="section-header">
+        <p class="user-action"><a href="http://www.nytimes.com/">Go to Home Page &raquo;</a></p>
+        <h2 class="section-heading">
+            <span class="visually-hidden">Site Index</span>
+            <a id="site-index-branding-link" href="http://www.nytimes.com/">
+                <span class="visually-hidden">The New York Times</span>
+            </a>
+        </h2>
+        <script>window.magnum.writeLogo('small', 'http://a1.nyt.com/assets/blogs/20150806-124338/images/foundation/logos/', '', '', 'standard', 'site-index-branding-link');</script>
+    </header>
+
+    <nav id="site-index-navigation" class="site-index-navigation" role="navigation">
+
+        <div class="split-6-layout layout">
+
+                                                                                    
+                    <div class="column">
+                        <h3 class="menu-heading">News</h3>
+                        <ul class="menu">
+
+                                                                                                                                                                                                                                                
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/world/index.html">World</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/politics/index.html">Politics</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y.</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/technology/index.html">Tech</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/education/index.html">Education</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/obituaries/index.html">Obituaries</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Opinion</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html">Today's Opinion</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#columnists">Op-Ed Columnists</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#editorials">Editorials</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#contributing">Contributing Writers</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#op-ed">Op-Ed Contributors</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#opinionator">Opinionator</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#letters">Letters</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#sundayreview">Sunday Review</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#takingNote">Taking Note</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/roomfordebate/">Room for Debate</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://topics.nytimes.com/top/opinion/thepubliceditor/index.html">Public Editor</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/video/opinion/">Video: Opinion</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Arts</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/index.html">Today's Arts</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/design/index.html">Art & Design</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://artsbeat.blogs.nytimes.com/">ArtsBeat</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/books/index.html">Books</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/dance/index.html">Dance</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/movies/index.html">Movies</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/music/index.html">Music</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/television/index.html">Television</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/theater/index.html">Theater</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/video-games/index.html">Video Games</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/video/arts/">Video: Arts</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Living</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/automobiles/index.html">Automobiles</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/crosswords/">Crossword</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/dining/index.html">Food</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/education/index.html">Education</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/fashion/index.html">Fashion & Style</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/garden/index.html">Home & Garden</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/section/jobs">Jobs</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/magazine/index.html">Magazine</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/t-magazine/index.html">T Magazine</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/fashion/weddings/index.html">Weddings & Celebrations</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Listings & More</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/ref/classifieds/">Classifieds</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/marketing/tools-and-services/">Tools & Services</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/topics/">Times Topics</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://topics.nytimes.com/top/opinion/thepubliceditor/index.html">Public Editor</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://tvlistings.nytimes.com/tvlistings/ZCGrid.do?aid=nyt">TV Listings</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/interactive/blogs/directory.html">Blogs</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://wordplay.blogs.nytimes.com/cartoons/">Cartoons</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/multimedia/index.html">Multimedia</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://lens.blogs.nytimes.com/">Photography</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/video/">Video</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/store/?&t=qry542&utm_source=nytimes&utm_medium=HPB&utm_content=hp_browsetree&utm_campaign=NYT-HP&module=SectionsNav&action=click&region=TopBar&version=BrowseTree&contentCollection=NYT%20Store&contentPlacement=2&pgtype=Homepage">NYT Store</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/times-journeys/?utm_source=nytimes&utm_medium=HPLink&utm_content=hp_browsetree&utm_campaign=NYT-HP">Times Journeys</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/seeallnav">Subscribe</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/membercenter">Manage My Account</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                            
+            <div class="column last-column">
+                
+<h3 class="menu-heading">Subscribe</h3>
+
+<ul class="menu primary-menu">
+    <li class="menu-label">Subscribe</li>
+    <li class="times-premier">
+        <i class="icon sprite-icon"></i>
+        <a href="http://www.nytimes.com/tpnav">Times Premier</a>
+    </li>
+
+    <li class="home-delivery">
+        <i class="icon sprite-icon"></i>
+                    <a href="http://www.nytimes.com/hdleftnav">Home Delivery</a>
+            </li>
+    <li class="digital-subscriptions">
+        <i class="icon sprite-icon"></i>
+                    <a href="http://www.nytimes.com/digitalleftnav">Digital Subscriptions</a>
+            </li>
+    <li class="nyt-opinion">
+        <i class="icon sprite-icon"></i>
+        <a href="http://www.nytimes.com/opinionindex">NYT Opinion</a>
+    </li>
+    <li class="nyt-crossword last-item">
+        <i class="icon sprite-icon"></i>
+        <a id="nyt-crossword" href="http://www.nytimes.com/crosswords/index.html">Crossword</a>
+    </li>
+
+</ul>
+
+<ul class="menu secondary-menu">
+
+    <li>
+        <a href="http://www.nytimes.com/marketing/newsletters">Email Newsletters</a>
+    </li>
+    <li>
+        <a href="https://myaccount.nytimes.com/mem/tnt.html">Alerts</a>
+    </li>
+    <li>
+                    <a href="http://www.nytimes.com/giftleftnav">Gift Subscriptions</a>
+            </li>
+    <li>
+                    <a href="http://www.nytimes.com/corporateleftnav">Corporate Subscriptions</a>
+            </li>
+    <li>
+                    <a href="http://www.nytimes.com/educationleftnav">Education Rate</a>
+            </li>
+
+</ul>
+<ul class="menu secondary-menu">
+    <li>
+        <a href="http://www.nytimes.com/services/mobile/index.html">Mobile Applications</a>
+    </li>
+    <li>
+                    <a href="http://eedition.nytimes.com/cgi-bin/signup.cgi?cc=37FYY">Replica Edition</a>
+            </li>
+                <li>
+            <a href="http://subscribe.inyt.com">International New York Times</a>
+        </li>
+    
+</ul>
+
+            </div><!-- close column -->
+
+        </div><!-- close split-6-layout -->
+
+    </nav><!-- close nav -->
+
+</section><!-- close site-index -->
+				<footer id="page-footer" class="page-footer" role="contentinfo">
+    <nav>
+         <ul>
+             <li>
+                <a href="http://www.nytco.com" itemprop="copyrightNotice">
+                    &copy; <span itemprop="copyrightYear">2015</span>
+					<span itemprop="copyrightHolder provider sourceOrganization" itemscope
+						itemtype="http://schema.org/Organization"
+						itemid="http://www.nytimes.com">
+						<span itemprop="name"> The New York Times Company</span>
+						<meta itemprop="tickerSymbol" content="NYSE NYT"/>
+					</span>
+                </a>
+            </li>
+            <li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+            <li><a href="http://www.nytco.com/careers">Work With Us</a></li>
+            <li><a href="http://www.nytimes.whsites.net/mediakit">Advertise</a></li>
+            <li><a href="http://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html#pp">Your Ad Choices</a></li>
+            <li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+            <li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html" itemprop="usageTerms">Terms of Service</a></li>
+            <li class="last-item"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+         </ul>
+    </nav>
+    <nav class="last-nav">
+        <ul>
+            <li><a href="http://spiderbites.nytimes.com">Site Map</a></li>
+            <li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+            <li><a href="https://myaccount.nytimes.com/membercenter/feedback.html">Site Feedback</a></li>
+            <li class="last-item"><a href="http://www.nytimes.com/subscriptions/Multiproduct/lp5558.html?campaignId=37WXW">Subscriptions</a></li>
+        </ul>
+    </nav>
+</footer>		</div><!-- close shell -->
+	<script>
+require(['foundation/main'], function () {
+    require(['blogs/main']);
+    require(['jquery/nyt', 'foundation/views/page-manager'], function ($, pageManager) {
+        if (window.location.search.indexOf('disable_tagx') > 0) {
+            return;
+        }
+        $(document).ready(function () {
+            require(['http://graphics8.nytimes.com/bi/js/tagx/tagx.js'], function () {
+                pageManager.trackingFireEventQueue();
+            });
+        });
+    });
+});
+</script>
+
+	<div id="Inv1" class="ad inv1-ad hidden"></div>
+<div id="Inv2" class="ad inv2-ad hidden"></div>
+<div id="Inv3" class="ad inv3-ad hidden"></div>
+<div id="ab1" class="ad ab1-ad hidden"></div>
+<div id="ab2" class="ad ab2-ad hidden"></div>
+<div id="ab3" class="ad ab3-ad hidden"></div>
+<div id="prop1" class="ad prop1-ad hidden"></div>
+<div id="prop2" class="ad prop2-ad hidden"></div>
+<div id="Anchor" class="ad anchor-ad hidden"></div>
+		<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b5bcf2eba4","applicationID":"5164608","transactionName":"YwFXZhRYVhAEVUZcX1pLYEAPFlkTFRtQWV9TFxtCDkk=","queueTime":0,"applicationTime":55,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body>
+</html>

@@ -1,0 +1,1256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>The Reading Brain in the Digital Age: Why Paper Still Beats Screens - Scientific American</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="E-readers and tablets are becoming more popular as such technologies improve, but reading on paper still has its advantages">
+<meta name="keywords" content="ipads, tablets, computers, communications, technology, technologies, eyes, reading, kindle, nook, amazon, barnes and noble, screen, paper, letters, easier, which is, healthier, contrast, resolution">
+<meta name="parsely-metadata" content='{"contentid": "C9D8EDE6-9D24-56B2-A5561A8F050069B9"}'>
+<meta property="og:url" content="http://www.scientificamerican.com/article/the-reading-brain-in-the-digital-age-why-paper-still-beats-screens/"/>
+<meta property="og:title" content="The Reading Brain in the Digital Age: Why Paper Still Beats Screens" />
+<meta property="vr:published_time" content="2013-11-01T00:004:00">
+<meta property="og:description" content="E-readers and tablets are becoming more popular as such technologies improve, but reading on paper still has its advantages" />
+<meta name="citation_doi" content="10.1038/scientificamerican1113-48">
+<meta property="og:type" content="article"/>
+<meta property="og:image" content="http://www.scientificamerican.com/sciam/cache/file/DE4652F7-F2F4-46A0-B3D068EEA394DE76.jpg" />
+<link rel="stylesheet" href="/sciam/includes/themes/sciam/compiled/theme.min.8E7C6BEBE68D0A56275C524617BD81B2.css" media="all" />
+<link rel="shortcut icon" href="/sciam/includes/themes/sciam/images/ico/favicon.ico">
+<link rel="alternate" type="application/rss+xml" title="Scientific American - Global RSS Feed" href="http://rss.sciam.com/ScientificAmerican-Global">
+<link rel="stylesheet" type="text/css" href="/sciam/includes/themes/sciam/assets/mejs/mediaelementplayer.min.css">
+<script src="/sciam/jquery/jquery.js"></script>
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<link rel="stylesheet" type="text/css" href="/sciam/includes/themes/sciam/css/theme/webfonts.css">
+<link rel="stylesheet" type="text/css" href="/sciam/includes/themes/sciam/css/theme/elusive-webfonts.css">
+<![endif]-->
+<script src="//cdn.optimizely.com/js/2007700279.js"></script>
+<!-- BEGIN Krux Control Tag for "Scientific American" -->
+<!-- Source: /snippet/controltag?confid=Jn7TXKj3&site=Scientific%20American&edit=1 -->
+<script class="kxct" data-id="Jn7TXKj3" data-timing="async" data-version="1.9" type="text/javascript">
+window.Krux||((Krux=function()
+{Krux.q.push(arguments)}
+).q=[]);
+(function(){
+var k=document.createElement('script');k.type='text/javascript';k.async=true;
+var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :(location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=Jn7TXKj3";
+var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+}());
+</script>
+<!-- END Krux Controltag -->
+<!-- BEGIN KRUX INTERCHANGE GPT -->
+<script>
+window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]); (function(){
+function retrieve(n){
+var m, k='kx'+n;
+if (window.localStorage) {
+return window.localStorage[k] || "";
+} else if (navigator.cookieEnabled) {
+m = document.cookie.match(k+'=([^;]*)'); return (m && unescape(m[1])) || "";
+} else {
+return '';
+} }
+Krux.user = retrieve('user');
+Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+})();
+</script>
+<!-- END KRUX INTERCHANGE GPT -->
+<!-- BEGIN KRUX INTERCHANGE DFP LEGACY -->
+<script class="kxint" type="text/javascript">
+window.Krux || ((Krux = function() {
+Krux.q.push(arguments);
+}).q = []);
+(function() {
+function retrieve(n) {
+var m, k = 'kx' + n;
+if (window.localStorage) {
+return window.localStorage[k] || "";
+} else if (navigator.cookieEnabled) {
+m = document.cookie.match(k + '=([^;]*)');
+return (m && unescape(m[1])) || "";
+} else {
+return '';
+}
+}
+Krux.user = retrieve('user');
+Krux.segments = retrieve('segs') ? retrieve('segs').split(',') : [];
+var dfpp = [];
+if (Krux.user) {
+dfpp.push('kuid=' + Krux.user);
+}
+for (var i = 0; i < Krux.segments.length; i++) {
+dfpp.push('ksg=' + Krux.segments[i]);
+}
+Krux.dfppKeyValues = dfpp.length ? dfpp.join(';') + ';' : '';
+})();
+</script>
+<!-- END KRUX INTERCHANGE DFP LEGACY -->
+<!-- Start: GPT Async -->
+<script type='text/javascript'>
+var gptadslots=[];
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function(){ var gads = document.createElement('script');
+gads.async = true; gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<script type=""text/javascript"">
+googletag.cmd.push(function() {
+gptadslots[1]= googletag.defineSlot('/67238587/sciam.com/technology', [[728,90],[970,90]],'div-gpt-ad-top-1').setTargeting('position',['top']).addService(googletag.pubads());
+gptadslots[2]= googletag.defineSlot('/67238587/sciam.com/technology', [[300,250],[300,600],[300,1050]],'div-gpt-ad-right1-1').setTargeting('position',['right1']).addService(googletag.pubads());
+gptadslots[3]= googletag.defineSlot('/67238587/sciam.com/technology', [300,250],'div-gpt-ad-right2-1').setTargeting('position',['right2']).addService(googletag.pubads());
+gptadslots[4] = googletag.defineOutOfPageSlot('/67238587/sciam.com/technology', 'div-gpt-ad-interstitial-1').addService(googletag.pubads());
+gptadslots[5] = googletag.defineSlot('/67238587/sciam.com/technology', [300,100],'div-gpt-ad-right4-1').setTargeting('position',['right4']).addService(googletag.pubads());
+gptadslots[6] = googletag.defineSlot('/67238587/sciam.com/technology', [300,100],'div-gpt-ad-right5-1').setTargeting('position',['right5']).addService(googletag.pubads());
+// All page-level DFP Custom Tagging goes here
+googletag.pubads()
+.setTargeting('section', '11-01')
+.setTargeting('type', 'article')
+.setTargeting('primary-cat', 'technology')
+.setTargeting('topic', ['basic-science','society-and-policy','mind-and-brain','language-linguistics','technology','communications','computing','consumer-electronics'])
+.setTargeting('title', 'the-reading-brain-in-the-digital-age-why-paper-still-beats-screens')
+.setTargeting('tags', '')
+.setTargeting('author', 'ferris-jabr')
+.setTargeting('ref-url', 'http://www.smccd.net/accounts/danielson/Phil.100/');
+googletag.pubads().setTargeting("ksg", Krux.segments);
+googletag.pubads().setTargeting("kuid", Krux.user);
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableAsyncRendering();
+googletag.enableServices();
+});
+</script>
+<!-- End: GPT -->
+<!--CACHE:MISS-->
+<link rel="alternate" hreflang="es" href="http://www.scientificamerican.com/espanol/" />
+<meta name="google-site-verification" content="cDwbrdn8RhmAHrXPmkrv_Vknai9yXuYdvHSKGI32QdA" />
+<script type="text/javascript">
+var dtExample="11/10/2018";
+var dtCh="/";
+var dtFormat =[0,1,2];
+var dtLocale="en-US";
+</script>
+<script type="text/javascript" src="/sciam/js/global.min.js"></script>
+<script type="text/javascript">
+var loginURL="?display=login";
+var siteid="sciam";
+var sitedomain="www.scientificamerican.com";
+var siteID="sciam";
+var context="";
+var jslib="jquery";
+var assetpath="/sciam";
+var themepath="/sciam/includes/themes/sciam";
+var htmlEditorType="";
+var rb="en";
+</script>
+<script src="/sciam/includes/display_objects/custom/comments/js/comments-jquery.js" type="text/javascript"></script></head>
+<body id="magazine" class="sysArticleBarrier">
+<div>
+<section id="bannerContain">
+<div class="bannerAd">
+<div class="text">ADVERTISEMENT</div>
+<div id="div-gpt-ad-top-1" class="adSpace">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("div-gpt-ad-top-1");
+});
+</script>
+</div>
+</div>
+</section>
+<header id="site-header">
+<div id="headerLogo" style="float:left;">
+<a href="http://www.scientificamerican.com/">
+<img src="/sciam/includes/themes/sciam/images/logo.jpg" alt="Scientific American">
+</a>
+</div>
+<ul id="header-nav">
+<esi:remove>
+<li>
+<div class="myProfile">
+<div id="myProfileContainer">
+<span class="myProfileLinks">
+<ul>
+<li><a href="http://www.scientificamerican.com/my-account/login/" title="Sign In">Sign In</a> | <a href="http://www.scientificamerican.com/my-account/register/" title="Register">Register</a></li>
+<li><a href="http://www.scientificamerican.com/store/shopping-cart/" id="cartIcon"></a></li>
+<li class="badgeIcon"><a href="http://www.scientificamerican.com/store/shopping-cart/"><span class="badge">0</span></a></li>
+</ul>
+</span>
+</div>
+</div>
+</li>
+</esi:remove>
+<!--esi
+<esi:include src="/sciam/esi_header-user.cfm" />
+-->
+</ul>
+<div id="mainSearch">
+<form action="http://www.scientificamerican.com/search/" onsubmit="return checkSiteSearch(this)" id="searchForm">
+<div id="input-border">
+<input name="q" type="text" id="textfield" placeholder="Search ScientificAmerican.com" onfocus="this.style.color='#222222';" maxlength="200"/>
+</div>
+<div id="sbmt-border">
+<input id="searchButton" type="image" src="/sciam/includes/themes/sciam/images/global/icon_search.png" alt="Search" width="17" height="17" />
+</div>
+<input type="hidden" name="display" value="search"/>
+</form>
+</div>
+<div id="subscriptionCenter">
+<h3>Subscription Center</h3>
+<div class="subCenterRollover" id="hover1" style="display:none;">Every Issue. Every Year. 1845-Present. <img alt="" src="/sciam/includes/themes/sciam/images/global/subunits/subcenter-arrow.png" /></div>
+<div class="subCenterRollover" id="hover2" style="display:none;">Save up to 65% when you subscribe today. <img alt="" src="/sciam/includes/themes/sciam/images/global/subunits/subcenter-arrow.png" /></div>
+<div class="subCenterRollover" id="hover3" style="display:none;">The perfect gift for any holiday or occasion. <img alt="" src="/sciam/includes/themes/sciam/images/global/subunits/subcenter-arrow.png" /></div>
+<!---<div id="hover4" style="display:none;" class="subCenterRollover">Best deal on print subscription plus Tablet Edition for iPad <img src="/sciam/includes/themes/sciam/images/global/subunits/subcenter-arrow.png" /></div>--->
+<ul>
+<li><a href="https://www.scientificamerican.com/store/subscribe/scientific-american-all-access/?WT.mc_id=SA_Webstore_SCA_AllAccess_SubCenter&amp;responseKey=W3S03RD00" target="_blank">Subscribe to All Access <span class="red">&raquo;</span></a></li>
+<li><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=SCA&cds_page_id=185258&cds_response_key=I5S03R00B" target="_blank">Subscribe to Print <span class="red">&raquo;</span></a></li>
+<li><a href="https://w1.buysub.com/pubs/SC/SCA/google-SCA-gift.jsp?cds_page_id=136785&amp;cds_mag_code=SCA&amp;cds_response_key=I5S03G000" target="_blank">Give a Gift <span class="red">&raquo;</span></a></li>
+<li><a href="/magazine/sa/current">View the Latest Issue <span class="red">&raquo;</span></a></li>
+</ul>
+<div id="cover-ipad"><img alt="" src="/media/cover/current.jpg" /></div>
+<img alt="" id="cover-print" src="/media/cover/current.jpg" /></div>
+<nav class="navbar navbar-inverse span12">
+<div class="navbar-inner">
+<div>
+<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</a>
+<div class="nav-collapse collapse">
+<nav class="navbar navbar-inverse span12">
+<ul id="navPrimary" class="nav">
+<li id="navSubscribe">
+<a href="http://www.scientificamerican.com/subscribe/" target="_blank">Subscribe</a>
+</li>
+<li id="navsection" class="dropdown">
+<a href="http://www.scientificamerican.com/" class="dropdown-toggle">News & Features</a>
+<ul class="dropdown-menu" style="display:none;">
+<li id="navlateststories" class="first"><a href="http://www.scientificamerican.com/section/lateststories/" target="_self">Latest Stories</a></li>
+<li id="navask-the-experts" ><a href="http://www.scientificamerican.com/section/ask-the-experts/" target="_self">Ask the Experts</a></li>
+<li id="navfact-or-fiction" ><a href="http://www.scientificamerican.com/section/fact-or-fiction/" target="_self">Fact or Fiction</a></li>
+<li id="navextreme-tech" ><a href="http://www.scientificamerican.com/section/extreme-tech/" target="_self">Extreme Tech</a></li>
+<li id="navweb-features" ><a href="http://www.scientificamerican.com/section/web-features/" target="_self">Features</a></li>
+<li id="navonline-forum" ><a href="http://www.scientificamerican.com/section/online-forum/" target="_self">Forum</a></li>
+<li id="navin-depth-reports" ><a href="http://www.scientificamerican.com/section/in-depth-reports/" target="_self">In-Depth Reports</a></li>
+<li id="navinteractive-features" ><a href="http://www.scientificamerican.com/section/interactive-features/" target="_self">Interactive Features</a></li>
+<li id="navmind-matters" ><a href="http://www.scientificamerican.com/section/mind-matters/" target="_self">Mind Matters</a></li>
+<li id="navnews" ><a href="http://www.scientificamerican.com/section/news/" target="_self">News</a></li>
+<li id="navscience-images" ><a href="http://www.scientificamerican.com/section/science-images/" target="_self">Science Images</a></li>
+<li id="navslideshow" ><a href="http://www.scientificamerican.com/section/slideshow/" target="_self">Slide shows</a></li>
+</ul>
+</li>
+<li id="navTopics" class="dropdown">
+<a href="http://www.scientificamerican.com/topics/" class="dropdown-toggle">Topics</a>
+<ul class="dropdown-menu" style="display:none;">
+<li id="navenergy-and-sustainability" class="first"><a href="http://www.scientificamerican.com/energy-and-sustainability/">Energy & Sustainability</a></li>
+<li id="navevolution" ><a href="http://www.scientificamerican.com/evolution/">Evolution</a></li>
+<li id="navhealth-and-medicine" ><a href="http://www.scientificamerican.com/health-and-medicine/">Health</a></li>
+<li id="navmind-and-brain" ><a href="http://www.scientificamerican.com/mind-and-brain/">Mind & Brain</a></li>
+<li id="navspace" ><a href="http://www.scientificamerican.com/space/">Space</a></li>
+<li id="navtechnology" ><a href="http://www.scientificamerican.com/technology/">Technology</a></li>
+<li id="navbasic-science" ><a href="http://www.scientificamerican.com/basic-science/">More Science</a></li>
+<li id="navBiology" class="subNavItem"><a href="http://www.scientificamerican.com/biology/">Biology</a></li>
+<li id="navChemistry" class="subNavItem"><a href="http://www.scientificamerican.com/chemistry/">Chemistry</a></li>
+<li id="navPhysics" class="subNavItem"><a href="http://www.scientificamerican.com/physics/">Physics</a></li>
+<li id="navAllTopics" class="allTopics"><a href="http://www.scientificamerican.com/topics/">All topics</a></li>
+</ul>
+</li>
+<li id="navBlogs" class="dropdown">
+<a href="http://blogs.scientificamerican.com/" class="dropdown-toggle">Blogs</a>
+</li>
+<li id="navmultimedia" class="dropdown">
+<a href="http://www.scientificamerican.com/multimedia/" class="dropdown-toggle">Videos & Podcasts</a>
+<ul class="dropdown-menu" style="display:none;">
+<li id="navvideo" class="first"><a href="http://www.scientificamerican.com/video/" target="_self">Video</a></li>
+<li id="navsas-the-countdown" ><a href="http://www.scientificamerican.com/multimedia/sas-the-countdown/" target="_self">SA's The Countdown</a></li>
+<li id="nav60-second-science" ><a href="http://www.scientificamerican.com/podcast/60-second-science/" target="_self">60-Second Science Podcast</a></li>
+<li id="nav60-second-earth" ><a href="http://www.scientificamerican.com/podcast/60-second-earth/" target="_self">60-Second Earth Podcast</a></li>
+<li id="nav60-second-health" ><a href="http://www.scientificamerican.com/podcast/60-second-health/" target="_self">60-Second Health Podcast</a></li>
+<li id="nav60-second-mind" ><a href="http://www.scientificamerican.com/podcast/60-second-mind/" target="_self">60-Second Mind Podcast</a></li>
+<li id="nav60-second-space" ><a href="http://www.scientificamerican.com/podcast/60-second-space/" target="_self">60-Second Space Podcast</a></li>
+<li id="nav60-second-tech" ><a href="http://www.scientificamerican.com/podcast/60-second-tech/" target="_self">60-Second Tech Podcast</a></li>
+<li id="navscience-talk" ><a href="http://www.scientificamerican.com/podcast/science-talk/" target="_self">Science Talk Podcast</a></li>
+</ul>
+</li>
+<li id="naveducation" class="dropdown">
+<a href="http://www.scientificamerican.com/education/" class="dropdown-toggle">Education</a>
+<ul class="dropdown-menu" style="display:none;">
+<li id="navscientific-american-at-the-google-science-fair" class="first"><a href="http://www.scientificamerican.com/education/scientific-american-at-the-google-science-fair/" target="_self">SA at the Google Science Fair</a></li>
+<li id="navbring-science-home" ><a href="http://www.scientificamerican.com/education/bring-science-home/" target="_self">Bring Science Home</a></li>
+<li id="navcitizen-science-link" ><a href="http://www.scientificamerican.com/education/citizen-science-link/" target="_self">Citizen Science</a></li>
+<li id="navdigital-education-report" ><a href="http://www.scientificamerican.com/education/digital-education-report/" target="_self">Digital Education Report</a></li>
+<li id="navprofessional-learning" ><a href="http://www.scientificamerican.com/education/professional-learning/" target="_self">Professional Learning</a></li>
+<li id="nav1000-scientists-in-1000-days" ><a href="http://www.scientificamerican.com/education/1000-scientists-in-1000-days/" target="_self">1,000 Scientists in 1,000 Days</a></li>
+<li id="navsearch-for-scientistseducators" class="subNavItem"><a href="http://www.scientificamerican.com/education/1000-scientists-in-1000-days/search-for-scientistseducators/">Search for Scientists/Educators</a></li>
+<li id="navscientist-sign-up" class="subNavItem"><a href="http://www.scientificamerican.com/education/1000-scientists-in-1000-days/scientist-sign-up/">Scientist Sign Up</a></li>
+<li id="naveducator-sign-up" class="subNavItem"><a href="http://www.scientificamerican.com/education/1000-scientists-in-1000-days/educator-sign-up/">Educator Sign Up</a></li>
+<li id="navparticipant-dashboard" class="subNavItem"><a href="http://www.scientificamerican.com/education/1000-scientists-in-1000-days/participant-dashboard/">Participant Dashboard</a></li>
+<li id="navscitable" ><a href="http://www.scientificamerican.com/education/scitable/" target="_blank">Scitable</a></li>
+<li id="naveducation-resources" ><a href="http://www.scientificamerican.com/education/education-resources/" target="_self">Education Resources</a></li>
+</ul>
+</li>
+<li id="navcitizen-science" class="dropdown">
+<a href="http://www.scientificamerican.com/citizen-science/" class="dropdown-toggle">Citizen Science</a>
+<ul class="dropdown-menu" style="display: none;">
+<li id="navsolve-innovation-challenges" class="first"><a href="http://www.scientificamerican.com/citizen-science/solve-innovation-challenges/">Solve Innovation Challenges</a></li>
+</ul>
+</li>
+<li id="navsa" class="dropdown">
+<a href="http://www.scientificamerican.com/magazine/sa/" class="dropdown-toggle">SA Magazine</a>
+<ul class="dropdown-menu" style="display:none;">
+<li class="coverButton">
+<a href="http://www.scientificamerican.com/magazine/sa/2015/08-01/">
+<img src="http://www.scientificamerican.com/media/cover/current.jpg?s=full" alt="cover image" width="192" height="254">
+</a>
+<div class="magLinks">
+<a href="http://www.scientificamerican.com/store/subscribe/scientific-american-magazine/?WT.mc_id=SA_Webstore_SCA_MultiControl_Nav_Self" target="_blank" class="redLink">Subscribe</a>
+<a href="https://w1.buysub.com/pubs/SC/SCA/google-SCA-gift.jsp?cds_page_id=136785&cds_mag_code=SCA&cds_response_key=I5S04G000" target="_blank" class="redLink">Give as a Gift</a>
+<a href="http://www.scientificamerican.com/magazine/sa/?WT.mc_id=SA_Webstore_SCA_Nav_BuySingleIssue" target="_blank" class="greyLink">Buy Single Issues</a>
+</div>
+</li>
+<li class="magNav first">
+<b><a class="first" href="http://www.scientificamerican.com/magazine/sa/2015/08-01/">Inside the Latest Issue</a></b>
+<ul id="SAMagUL">
+<li><a href="http://www.scientificamerican.com/department/feature-articles/">Features</a></li>
+<li><a href="http://www.scientificamerican.com/department/advances/">Advances</a></li>
+<li><a href="http://www.scientificamerican.com/department/50-100-and-150-years-ago/">50, 100 & 150 Years Ago</a></li>
+<li><a href="http://www.scientificamerican.com/department/antigravity/">Anti Gravity</a></li>
+<li><a href="http://www.scientificamerican.com/department/forum/">Forum</a></li>
+<li><a href="http://www.scientificamerican.com/department/graphic-science/">Graphic Science</a></li>
+<li><a href="http://www.scientificamerican.com/department/the-science-agenda/">The Science Agenda</a></li>
+<li><a href="http://www.scientificamerican.com/department/the-science-of-health/">The Science of Health</a></li>
+<li><a href="http://www.scientificamerican.com/department/skeptic/">Skeptic</a></li>
+<li><a href="http://www.scientificamerican.com/department/technofiles/">TechnoFiles</a></li>
+<li><a href="http://www.scientificamerican.com/department/recommendations/">Recommended</a></li>
+<li><a href="http://www.scientificamerican.com/magazine/sa/">Archive</a></li>
+<li><a href="http://www.scientificamerican.com/magazine/special-editions/">Special Editions</a></li>
+</ul>
+</li>
+<li class="magExtras">
+<span class="moreFromSA">
+More from SA:
+</span>
+<ul>
+<li>
+<a href="http://www.scientificamerican.com/magazine/sa-classics/">
+<img src="/sciam/cache/file/B94584FC-BB1D-4F84-9214B7D23DD2AE8D_W76_H100.jpg" class="magCover">
+<span class="title">
+Classics
+</span>
+</a>
+</li>
+<li>
+<a href="http://www.scientificamerican.com/store/subscribe/briefings/briefings-overview/">
+<img src="/sciam/cache/file/1BF398D2-F1DA-4C37-A92A705E6E253CB5_W76_H100.jpg" class="magCover">
+<span class="title">
+Briefings
+</span>
+</a>
+</li>
+<li>
+<a href="http://www.scientificamerican.com/page/mobile/">
+<img src="/sciam/includes/themes/sciam/images/global/saMagNavMobile.jpg">
+<span class="title">
+Mobile
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="navmind" class="dropdown">
+<a href="http://www.scientificamerican.com/magazine/mind/" class="dropdown-toggle">SA Mind</a>
+<ul class="dropdown-menu" style="display:none;">
+<li class="coverButton">
+<a href="http://www.scientificamerican.com/magazine/mind/2015/07-01/">
+<img src="http://www.scientificamerican.com/media/cover/current.jpg?s=full&mag=mind" alt="cover image" width="192" height="254">
+</a>
+<div class="magLinks">
+<a href="http://www.scientificamerican.com/store/subscribe/scientific-american-mind-magazine/?WT.mc_id=SA_Webstore_MND_MultiControl_Nav_Self" target="_blank" class="redLink">Subscribe</a>
+<a href="https://w1.buysub.com/pubs/SC/MND/google-MND-gift.jsp?cds_page_id=136804&cds_mag_code=MND&cds_response_key=I5M04G000" target="_blank" class="redLink">Give as a Gift</a>
+<a href="http://www.scientificamerican.com/magazine/mind/?WT.mc_id=SA_Webstore_MND_Nav_BuySingleIssue" target="_blank" class="greyLink">Buy Single Issues</a>
+</div>
+</li>
+<li class="magNav first">
+<b><a class="first" href="http://www.scientificamerican.com/magazine/mind/home/">SA Mind Home Page</a></b>
+<b><a href="http://blogs.scientificamerican.com/mind">SA Mind Blog Network</a></b>
+<b><a href="http://www.scientificamerican.com/magazine/mind/2015/07-01/">Inside the Latest Issue</a></b>
+<ul id="SAMindUL">
+<li><a href="http://www.scientificamerican.com/department/feature-articles/">Features</a></li>
+<li><a href="http://www.scientificamerican.com/department/head-lines/">Head Lines</a></li>
+<li><a href="http://www.scientificamerican.com/department/ask-the-brains/">Ask the Brains</a></li>
+<li><a href="http://www.scientificamerican.com/department/consciousness-redux/">Consciousness Redux</a></li>
+<li><a href="http://www.scientificamerican.com/department/facts-and-fictions-in-mental-health/">Facts and Fictions in Mental Health</a></li>
+<li><a href="http://www.scientificamerican.com/department/illusions/">Illusions</a></li>
+<li><a href="http://www.scientificamerican.com/department/mind-in-pictures/">Mind in Pictures</a></li>
+<li><a href="http://www.scientificamerican.com/department/perspectives/">Perspectives</a></li>
+<li><a href="http://www.scientificamerican.com/department/were-only-human/">We're Only Human</a></li>
+<li><a href="http://www.scientificamerican.com/department/mind-reviews/">Reviews and Recommendations</a></li>
+<li><a href="http://www.scientificamerican.com/magazine/mind/">Archive</a></li>
+<li><a href="http://www.scientificamerican.com/magazine/special-editions/">Special Editions</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="navbooks" class="dropdown">
+<a href="http://books.scientificamerican.com/sa-ebooks/landing/" class="dropdown-toggle">Books</a>
+<ul class="dropdown-menu" style="display:none;">
+<li id="navsafsg-books" class="first"><a href="http://www.scientificamerican.com/books/safsg-books/" target="_self">SA/FSG Books</a></li>
+<li id="navscientific-american-ebooks" ><a href="http://www.scientificamerican.com/books/scientific-american-ebooks/" target="_self">Scientific American eBooks</a></li>
+</ul>
+</li>
+<li id="navEspanol" class="dropdown">
+<a href="http://www.scientificamerican.com/espanol/">
+SA en español
+</a>
+</li>
+<li id="stickyNavSearch">
+<img src="/sciam/includes/themes/sciam/images/global/stickyNavSearch.jpg">
+</li>
+<div id="stickySearchDrop">
+<img src="/sciam/includes/themes/sciam/images/global/search-arrow.png">
+<form action="http://www.scientificamerican.com/search/" onsubmit="return checkSiteSearch(this)">
+<input name="q" type="text" id="textfield" value="Enter search term(s)..." onfocus="this.value=''; this.style.color='#222222';" maxlength="200"/>
+<input type="image" src="/sciam/includes/themes/sciam/images/global/stickyNavSearchButton.jpg" alt="Search" width="26" height="26" id="searchbtn" />
+</form>
+</div>
+</ul>
+</nav>
+</div><!--/.nav-collapse -->
+</div><!-- .container -->
+</div><!-- /.navbar-inner -->
+</nav><!-- /.navbar -->
+</header>
+<div id="bodyWrap">
+<div class="row-fluid">
+<section class="span9 content">
+<article class="article slatwallArticle">
+<section class="article-meta">
+<div class="breadcrumbs">
+<div itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="/technology" itemprop="url">
+<span itemprop="title">Technology</span>
+</a>
+<span>&raquo;</span>
+</div>
+<div itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="/magazine/sa/2013/11-01/" itemprop="url">
+<span itemprop="title">Scientific American Volume 309, Issue 5</span>
+</a>
+</div>
+</div>
+<ul id="flairBar">
+<li id="commentsFlair"><a class="tinyCommentCount" data-id="C9D8EDE6-9D24-56B2-A5561A8F050069B9" href="#comments"></a></li>
+<li id="emailFlair">
+<a href="#" class="overlay-controller" id="emailForm" data-title="The Reading Brain in the Digital Age: Why Paper Still Beats Screens" data-url="http://www.scientificamerican.com/article/the-reading-brain-in-the-digital-age-why-paper-still-beats-screens/" data-summary="E-readers and tablets are becoming more popular as such technologies improve, but reading on paper still has its advantages">Email</a>
+</li>
+<li id="printFlair">
+<a href="http://www.scientificamerican.com/article/the-reading-brain-in-the-digital-age-why-paper-still-beats-screens/?print=true" rel="nofollow">Print</a>
+</li>
+</ul>
+</section>
+<header class="article-header">
+<h1 class="article-title">
+The Reading Brain in the Digital Age: Why Paper Still Beats Screens
+</h1>
+<div class="article-dek">
+E-readers and tablets are becoming more popular as such technologies improve, but reading on paper still has its advantages
+</div>
+<div class="article-author article-date">
+By <a href="http://www.scientificamerican.com/author/ferris-jabr">Ferris Jabr</a>
+</div>
+<div class="article-socialVertical">
+<div id="shareFloat">
+<a target="_blank" href="https://twitter.com/intent/tweet?url=http://www.scientificamerican.com/article/the-reading-brain-in-the-digital-age-why-paper-still-beats-screens/&amp;text=The Reading Brain in the Digital Age: Why Paper Still Beats Screens"><i class="icon-twitter icon-large"></i></a>
+<a target="_blank" href="http://www.facebook.com/sharer/sharer.php?p[url]=http://www.scientificamerican.com/article/the-reading-brain-in-the-digital-age-why-paper-still-beats-screens/"><i class="icon-facebook icon-large"></i></a>
+<a target="_blank" href="https://plus.google.com/share?url=http://www.scientificamerican.com/article/the-reading-brain-in-the-digital-age-why-paper-still-beats-screens/"><i class="icon-googleplus icon-large"></i></a>
+<a target="_blank" class="reddit" href="http://www.reddit.com/submit" onclick="window.open('http://www.reddit.com/submit?url=http://www.scientificamerican.com/article/the-reading-brain-in-the-digital-age-why-paper-still-beats-screens/&newwindow=1', 'external'); return false"><i class="icon-reddit"></i></a>
+<a href="#" class="overlay-controller" id="emailForm" data-title="The Reading Brain in the Digital Age: Why Paper Still Beats Screens" data-url="http://www.scientificamerican.com/article/the-reading-brain-in-the-digital-age-why-paper-still-beats-screens/" data-summary="E-readers and tablets are becoming more popular as such technologies improve, but reading on paper still has its advantages"><i class="icon-envelope"></i></a>
+<a href="http://www.scientificamerican.com/article/the-reading-brain-in-the-digital-age-why-paper-still-beats-screens/?print=true" rel="nofollow"><i class="icon-print"></i></a>
+</div>
+<script type="text/javascript">
+if(document.location.href.indexOf("/espanol") > -1){
+$(function() {
+var offset = $("#shareFloat").offset();
+var topPadding = 135;
+$(window).scroll(function() {
+if ($(window).scrollTop() > (offset.top - '55') ) {
+$('#shareFloat').css('top', $(window).scrollTop() - offset.top + topPadding);
+} else {
+$('#shareFloat').css('top','47px').css('left','-55px');
+};
+});
+});
+} else {
+$(function() {
+var offset = $("#shareFloat").offset();
+var topPadding = 45;
+$(window).scroll(function() {
+if ($(window).scrollTop() > (offset.top - '5')) {
+$('#shareFloat').css('top', $(window).scrollTop() - offset.top + topPadding);
+} else {
+$('#shareFloat').css('top','47px').css('left','-55px');
+};
+});
+});
+}
+</script>
+</div>
+</header>
+<section class="articlePaywallTop">
+<span>
+<strong>
+THIS IS A PREVIEW.
+</strong>
+</span>
+<form action="/store/shopping-cart/" method="post">
+<input type="hidden" name="slatAction" value="public:cart.addOrderItem" />
+<input type="hidden" name="skuID" value="ff8080814205bdc101420f19137f0001" />
+<button type="submit" class="paywallButton" data-sku="SI-SCA-20131101">Buy this digital issue</button>
+</form>
+<span>
+or <a href="http://www.scientificamerican.com/store/subscribe/scientific-american-magazine-subscriptions/?WT.mc_id=SA_Webstore_SCA_MultiControl_ViewLatestIssue?WT.ac=SA_ecom_UC_Article_upOfferURLTop" class="paywallButton">subscribe</a>
+to access the full article.
+</span>
+<p class="signIn">
+Already a subscriber or purchased this issue?
+<a href="/my-account/login/?returnURL=http%3A%2F%2Fwww%2Escientificamerican%2Ecom%2Farticle%2Fthe%2Dreading%2Dbrain%2Din%2Dthe%2Ddigital%2Dage%2Dwhy%2Dpaper%2Dstill%2Dbeats%2Dscreens%2F">Sign In</a>
+</p>
+</section>
+<section class="article-complementary article-complementarySlatwall" >
+<div class="article-complementaryNode moreToExplore">
+<h3>More on this Topic</h3>
+<ul class="directoryList">
+<li>
+<img src="/sciam/cache/file/864F574B-5149-4765-8E87365A42F76C89_small.jpg" alt="Do You Prefer to Read on Paper or Screens? [Poll]">
+<h4><a href="/article/read-poll-do-you-prefer-paper-or-screens/">Do You Prefer to Read on Paper or Screens? [Poll]</a></h4>
+</li>
+<li class="infographic">
+<a href="#noaccess" class="thickbox" title="book" data-caption="This image is only available to qualifying subscribers.">
+<img src="/sciam/cache/file/E10E79E7-6C3E-4E2A-A32FDF6D5A68449E_small.jpg" alt="book">
+<span class="eyebrow">Infographic</span>
+<h4>book</h4>
+</a>
+</li>
+</ul>
+</div>
+</section>
+<section class="article-content">
+<p><p><strong>One of the most provocative</strong> viral YouTube videos in the past two years begins mundanely enough: a one-year-old girl plays with an iPad, sweeping her fingers across its touch screen and shuffling groups of icons. In following scenes, she appears to pinch, swipe and prod the pages of paper magazines as though they, too, are screens. Melodramatically, the video replays these gestures in close-up.</p></p>
+<p><p>For the girl's father, the video&mdash;<i>A Magazine Is an iPad That Does Not Work</i>&mdash;is evidence of a generational transition. In an accompanying description, he writes, &ldquo;Magazines are now useless and impossible to understand, for digital natives&rdquo;&mdash;that is, for people who have been interacting with digital technologies from a very early age, surrounded not only by paper books and magazines but also by smartphones, Kindles and iPads.</p></p>
+</section>
+<div id="paywallOverlay">
+<div class="paywallClose" style="text-align: right;">
+<a class="simplemodal-close">X</a>
+</div>
+<div id="paywallOverlayContent">
+<p class="intro">
+"The Reading Brain in the Digital Age: Why Paper Still Beats Screens" is available in the following issues, please make a selection below
+</p>
+<div class="paywallOverlayProduct first">
+<figure>
+<a href="/magazine/sa/2013/11-01">
+<img src="/sciam/cache/file/8A2F852D-C391-46CF-A8A1ED52730257CD_article.jpg" alt="Scientific American Volume 309, Issue 5" width="134" height="175">
+</a>
+</figure>
+<div class="skuLabel">
+Scientific American Volume 309, Issue 5 -
+$5.99
+</div>
+<form action="/store/shopping-cart/" method="post">
+<input type="hidden" name="slatAction" value="public:cart.addOrderItem" />
+<input type="hidden" name="skuID" value="ff8080814205bdc101420f19137f0001" />
+<button class="shoppingCartBtn shoppingCartBlue">Add to Cart</button>
+</form>
+</div>
+<div class="paywallOverlayProduct">
+</br>
+</div>
+</div>
+</div>
+<section class="articlePaywallBottom">
+<div class="offerCopy">
+<span>
+<strong>
+THIS IS A PREVIEW.
+</strong>
+</span>
+<button type="submit" class="paywallButton openMultiIssue" data-sku="SI-SCA-20131101">Buy Digital Issue</button>
+<span>
+or <a href="http://www.scientificamerican.com/store/subscribe/scientific-american-magazine-subscriptions/?WT.mc_id=SA_Webstore_SCA_MultiControl_ViewLatestIssue?WT.ac=SA_ecom_UC_Article_upOfferURLTop" class="paywallButton">subscribe</a>
+to access the full article.
+</span>
+<p class="signIn">
+Already a subscriber or purchased this issue?
+<a href="/my-account/login/?returnURL=http%3A%2F%2Fwww%2Escientificamerican%2Ecom%2Farticle%2Fthe%2Dreading%2Dbrain%2Din%2Dthe%2Ddigital%2Dage%2Dwhy%2Dpaper%2Dstill%2Dbeats%2Dscreens%2F">Sign In</a>
+</p>
+</div>
+<div class="issueUC">
+<div class="cover">
+<a href="/magazine/sa/2013/11-01">
+<img src="/sciam/cache/file/8A2F852D-C391-46CF-A8A1ED52730257CD_article.jpg" alt="Scientific American Volume 309, Issue 5" width="90" height="120">
+</a>
+</div>
+<div class="UCOffers">
+<div class="singleIssue">
+<span class="offerTitle">
+Buy Digital Issue
+</span>
+<span class="offerPrice">
+$5.99
+</span>
+<form action="/store/shopping-cart/" method="post">
+<input type="hidden" name="slatAction" value="public:cart.addOrderItem" />
+<input type="hidden" name="skuID" value="ff8080814205bdc101420f19137f0001" />
+<button type="submit" class="paywallButton" data-sku="SI-SCA-20131101">Add To Cart</button>
+</form>
+</div>
+<div class="subscription">
+<span class="offerTitle">
+Digital Issue + Subscription
+</span>
+<span class="offerPrice">
+$39.99
+</span>
+<a class="paywallButton" href="/store/subscribe/scientific-american-digital/?WT.ac=SA_ecom_UC_Article_upOfferBox">
+Subscribe
+</a>
+</div>
+</div>
+</div>
+</section>
+<footer class="article-footer">
+<div class="article-reprintsLink">
+<span>
+<script>
+function RightsLinkPopUp() {
+var url = "https://s100.copyright.com/AppDispatchServlet";
+var location = url
++ "?publisherName=" + encodeURI('sciam')
++ "&publication=" + encodeURI('sciam')
++ "&title=" + encodeURI('The Reading Brain in the Digital Age: Why Paper Still Beats Screens')
++ "&publicationDate=" + encodeURI('2013-11-01')
++ "&author=" + encodeURI('Ferris Jabr')
++ "&contentID=" + encodeURI('C9D8EDE6-9D24-56B2-A5561A8F050069B9')
++ "&volumeNum=" + encodeURI('')
++ "&issueNum=" + encodeURI('')
++ "&startPage=" + encodeURI('48')
++ "&endPage=" + encodeURI('53')
++ "&copyright=" + encodeURI('Copyright 2013 ')
++ "&orderBeanReset=true";
+PopUp = window.open( location,'RightsLink','location=no,toolbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=650,height=550');
+return false;
+}
+</script>
+<a href="#" onClick="RightsLinkPopUp(); return false;" class="rightsPermissions">
+<img src="/sciam/includes/themes/sciam/images/global/rightsPermsIcon.png"> Rights &amp; Permissions
+</a>
+</span>
+</div>
+<div class="article-socialHorizontal">
+<div id="shareHorizontal">
+<span>Share this Article:</span>
+<a target="_blank" href="http://www.facebook.com/sharer/sharer.php?p[url]=http://www.scientificamerican.com/article/the-reading-brain-in-the-digital-age-why-paper-still-beats-screens/"><i class="icon-facebook icon-large"></i></a>
+<a target="_blank" href="https://twitter.com/intent/tweet?url=http://www.scientificamerican.com/article/the-reading-brain-in-the-digital-age-why-paper-still-beats-screens/&amp;text=The Reading Brain in the Digital Age: Why Paper Still Beats Screens"><i class="icon-twitter icon-large"></i></a>
+<a target="_blank" href="https://plus.google.com/share?url=http://www.scientificamerican.com/article/the-reading-brain-in-the-digital-age-why-paper-still-beats-screens/"><i class="icon-googleplus icon-large"></i></a>
+<a target="_blank" class="reddit" href="http://www.reddit.com/submit" onclick="window.open('http://www.reddit.com/submit?url=' + window.location.href + '&newwindow=1', 'external'); return false"><i class="icon-reddit"></i></a>
+<a target="_blank" href="http://www.tumblr.com/share"><i class="icon-tumblr icon-large"></i></a>
+<a target="_blank" href="https://www.linkedin.com/cws/share?url=http://www.scientificamerican.com/article/the-reading-brain-in-the-digital-age-why-paper-still-beats-screens/"><i class="icon-linkedin icon-large"></i></a>
+<a target="_blank" href="http://www.stumbleupon.com/submit?url=http://www.scientificamerican.com/article/the-reading-brain-in-the-digital-age-why-paper-still-beats-screens/"><i class="icon-stumbleupon"></i></a>
+<a target="_blank" href="http://digg.com/submit?phase=2&url=http://www.scientificamerican.com/article/the-reading-brain-in-the-digital-age-why-paper-still-beats-screens/&title=The Reading Brain in the Digital Age: Why Paper Still Beats Screens"><i class="icon-digg"></i></a>
+</div>
+</div>
+<div class="article-comments">
+<div id="svComments" >
+<a name="comments"></a>
+<h3>Comments</h3>
+<div id="commentsSort">
+<select id="sortDirectionSelector" name="sortDirection" label="sort">
+<option value="asc">Oldest - Newest</option>
+<option value="desc">Newest - Oldest</option>
+</select>
+</div>
+<div id="commentsPage" data-contentid="C9D8EDE6-9D24-56B2-A5561A8F050069B9" data-siteid="sciam"></div>
+<div id="postcomment-form" >
+<a name="postcomment"></a>
+<span id="postcomment-comment" style="display: none"><a class="btn" href="#postcomment">New Comment</a></span>
+<span id="signedInConfirm">You must <a href="http://www.scientificamerican.com/my-account/login/">sign in</a> or <a href="http://www.scientificamerican.com/my-account/register/">register</a> as a ScientificAmerican.com member to submit a comment.</span>
+</div>
+</div>
+</div>
+</footer>
+</article>
+</section>
+<aside class="span3 sidebar">
+<div id="subCol" class="subColNew sidebar-default">
+<div id="shopCenter">
+<h3 id="shopSA">More from Scientific American</h3>
+<div id="shopSlider">
+<div id="shopContainer">
+<div id="mind" class="subUnits">
+<a target="_blank" href="/store/subscribe/scientific-american-mind-magazine/?WT.mc_id=SA_Webstore_MND_MultiControl_Carousel">
+<img class="logo" src="/sciam/includes/themes/sciam/images/global/subunits/mind-subunit-logo.png">
+<img class="cover" src="/media/cover/current.jpg?mag=mind">
+</a>
+</div>
+<div id="classics" class="subUnits">
+<a target="_blank" href="/magazine/sa-classics/?WT.mc_id=SA_Webstore_SAClassics_Carousel">
+<img class="logo" src="/sciam/includes/themes/sciam/images/global/subunits/classics-subunit-logo.png">
+<img class="cover" src="" >
+</a>
+</div>
+<div id="digital" class="subUnits">
+<a target="_blank" href="/store/subscribe/scientific-american-digital/?WT.mc_id=SA_Webstore_SAD_Carousel&responseKey=W3D07RE00">
+<img class="logo" src="/sciam/includes/themes/sciam/images/global/subunits/digital-subunit-logo.png">
+<img src="/sciam/includes/themes/sciam/images/global/subunits/subunit-digital.png">
+<img class="burst" src="/sciam/includes/themes/sciam/images/global/subunits/digital-burst.png">
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="bannerAd">
+ADVERTISEMENT
+<div id="div-gpt-ad-right1-1">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("div-gpt-ad-right1-1");
+});
+</script>
+</div>
+</div>
+<div class="rightNavSocial subColNewWidget">
+<div class="sciamFollowList">
+<h3 class="rightNavTitle">Follow Us:</h3>
+<ul id="chicletLinks">
+<li class="facebook">
+<a href="http://www.facebook.com/scientificamerican" title="Facebook" target="_blank">
+<i class="icon-facebook icon-2x"></i>
+</a>
+</li>
+<li class="twitter">
+<a href="http://www.twitter.com/sciam" class="aptureNoEnhance" title="Twitter" target="_blank">
+<i class="icon-twitter icon-2x"></i>
+</a>
+</li>
+<li class="googlePlus"><a href="https://plus.google.com/107538622122068192565/posts" title="Google+">
+<i class="icon-googleplus icon-2x"></i>
+</a>
+</li>
+<li class="youtube">
+<a href="http://www.youtube.com/sciamerican" title="YouTube" target="_blank" >
+<i class="icon-youtube icon-2x"></i>
+</a>
+</li>
+<li class="rss"><a href="http://www.scientificamerican.com/sitemap/" title="RSS">
+<i class="icon-rss icon-2x"></i>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="rightNavMostPopular subColNewWidget">
+<h3 class="rightNavTitle">
+Most Popular
+</h3>
+<ul id="mostRead" data-vr-zone="Most Read">
+<li class="first" data-vr-contentbox="">
+<a href="/article/ban-killer-robots-before-they-become-weapons-of-mass-destruction/">
+<img src="/sciam/cache/file/F0EC2AA6-31CD-4183-A8A51CC41C93106B_small.jpg">
+<h3>Ban Killer Robots before They Become Weapons of Mass Destruction</h3>
+</a>
+</li>
+<li data-vr-contentbox="">
+<a href="/article/how-the-brain-purges-bad-memories/">
+<img src="/sciam/cache/file/4FD917A9-D157-46FC-8F54FD68CF9774D0_small.jpg">
+<h3>How the Brain Purges Bad Memories</h3>
+</a>
+</li>
+<li data-vr-contentbox="">
+<a href="/article/how-to-make-graphene-in-your-kitchen-blender/">
+<img src="/sciam/cache/file/7772EFAD-5E04-4F0F-90C14F42603DFD90_small.jpg">
+<h3>How to Make Graphene in Your Kitchen Blender</h3>
+</a>
+</li>
+<li data-vr-contentbox="">
+<a href="/article/some-stis-are-beneficial-and-may-have-boosted-evolutionary-promiscuity/">
+<img src="/sciam/cache/file/079A5C7B-2765-40BB-AF87F0226F044999_small.jpg">
+<h3>Some STIs Are Beneficial, and May Have Boosted Evolutionary Promiscuity</h3>
+</a>
+</li>
+<li data-vr-contentbox="">
+<a href="/article/war-in-space-may-be-closer-than-ever/">
+<img src="/sciam/cache/file/FAADBC07-C2BC-4E78-8AF7A7001B8E3DEC_small.jpg">
+<h3>War in Space May Be Closer Than Ever</h3>
+</a>
+</li>
+</ul>
+</div><!--CACHE:HIT-->
+<div id="innovationChallenges" class="sideList subColNewWidget">
+<h3 class="rightNavTitle"><a href="/openinnovation/">Solve Innovation Challenges</a></h3>
+<ul>
+<li>
+<a href="http://www.innocentive.com/ar/challenge/9933755?cc=SciAm9933755&utm_source=SciAm&utm_medium=pavilion&utm_campaign=challenges">Ideas to Impact: Recycling Liquid Petroleum Gas Cylinders Across Sub-Saharan Africa</a>
+<img src="data:image/png;base64,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" height="48" width="48" />
+<p class="info">
+Deadline: Sep 07 2015 <br />
+Reward: <strong>$40,000 USD</strong>
+</p>
+<p><p> Access to safe, clean and reliable sources of energy has a significant impact on health, quality of life, education and economic product</p>
+</li>
+<li>
+<a href="http://www.innocentive.com/ar/challenge/9933646?cc=SciAm9933646&utm_source=SciAm&utm_medium=pavilion&utm_campaign=challenges">New Concepts for Remote Fish Detection</a>
+<img src="data:image/png;base64,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" height="48" width="48" />
+<p class="info">
+Deadline: Aug 26 2015 <br />
+Reward: <strong>$20,000 USD</strong>
+</p>
+<p><p> The ability to track individual or groups of fish is central to efforts to recover threatened and endangered fish species, and to reduce</p>
+</li>
+</ul>
+<a href="/openinnovation/" class="moreLink">More Challenges&nbsp;<span class="linkArrow">&raquo;</span></a>
+<p>Powered By: <img src="/sciam/includes/themes/sciam/images/global/innocentive_logo_small.gif" alt="Innocentive"></p>
+</div><!--CACHE:HIT-->
+<div class="bannerAd">
+ADVERTISEMENT
+<div id="div-gpt-ad-right4-1">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("div-gpt-ad-right4-1");
+});
+</script>
+</div>
+</div>
+<div class="subColNewWidget rightNavLatestBlogs" data-vr-zone="Latest From SA Blog Network">
+<h3 class="rightNavTitle">Latest from SA Blog Network</h3>
+<ul class="sidebarList rightNavLatestBlogs">
+<li data-vr-contentbox="">
+<a href="http://blogs.scientificamerican.com/illusion-chasers/another-da-vinci-smile-has-been-discovered/">A Second da Vinci Smile Has Been Discovered</a>
+<span class="eyebrow">
+<a href="http://blogs.scientificamerican.com/illusion-chasers/">Illusion Chasers</a><span class="metaDataDivider">|</span>August 9, 2015
+</span>
+</li>
+<li data-vr-contentbox="">
+<a href="http://blogs.scientificamerican.com/cocktail-party-physics/physics-week-in-review-august-8-2015/">Physics Week in Review: August 8, 2015</a>
+<span class="eyebrow">
+<a href="http://blogs.scientificamerican.com/cocktail-party-physics/">Cocktail Party Physics</a><span class="metaDataDivider">|</span>August 8, 2015
+</span>
+</li>
+<li data-vr-contentbox="">
+<a href="http://blogs.scientificamerican.com/tetrapod-zoology/books-on-palaeoart-bats-primates-and-crocodylians/">Books of the TetZooniverse: of Paleoart, Bats, Primates and Crocodylians</a>
+<span class="eyebrow">
+<a href="http://blogs.scientificamerican.com/tetrapod-zoology/">Tetrapod Zoology</a><span class="metaDataDivider">|</span>August 8, 2015
+</span>
+</li>
+<li data-vr-contentbox="">
+<a href="http://blogs.scientificamerican.com/extinction-countdown/ring-tailed-lemurs-pet-trade/">Ring-Tailed Lemurs Threatened by Illegal Pet Trade</a>
+<span class="eyebrow">
+<a href="http://blogs.scientificamerican.com/extinction-countdown/">Extinction Countdown</a><span class="metaDataDivider">|</span>August 7, 2015
+</span>
+</li>
+<li data-vr-contentbox="">
+<a href="http://blogs.scientificamerican.com/anecdotes-from-the-archive/a-year-of-war-1915/">A Year of War, 1915</a>
+<span class="eyebrow">
+<a href="http://blogs.scientificamerican.com/anecdotes-from-the-archive/">Anecdotes from the Archive</a><span class="metaDataDivider">|</span>August 7, 2015
+</span>
+</li>
+</ul>
+</div><!--CACHE:HIT-->
+<div class="subColNewWidget rightNavPartnersNews" data-vr-zone="News From Our Partners">
+<h3 class="rightNavTitle bottomBorder">News From Our Partners</h3>
+<ul class="sidebarList noTopBorder sideBarNewsPartners">
+<li data-vr-contentbox="">
+<img src="/sciam/cache/file/E6E79F87-E084-43E0-B5D2562D8081A22B.jpg" border="0" alt="Reuters"><br>
+<a href="/article/wastewater-spill-from-colorado-gold-mine-triples-in-volume/">Wastewater Spill from Colorado Gold Mine Triples in Volume</a>
+</li>
+<li data-vr-contentbox="">
+<img src="/sciam/cache/file/0B7181C3-6E7C-4BD5-A1A80CEB25D6B4BB.gif" border="0" alt="Nature"><br>
+<a href="/article/caution-urged-over-editing-dna-in-wildlife/">Caution Urged over Editing DNA in Wildlife</a>
+</li>
+<li data-vr-contentbox="">
+<img src="/sciam/cache/file/46F44107-F495-4FE8-80550C5C182F9957.jpg" border="0" alt="TechMediaNetwork"><br>
+<a href="/article/astronauts-take-first-bites-of-lettuce-grown-in-space/">Astronauts Take First Bites of Lettuce Grown in Space</a>
+</li>
+<li data-vr-contentbox="">
+<img src="/sciam/cache/file/157D9521-0EE0-4E3F-80A2F9972337EE7B.jpg" border="0" alt="Climatewire"><br>
+<a href="/article/deadly-typhoon-smashes-into-china-after-damaging-taiwan/">Deadly Typhoon Smashes into China after Damaging Taiwan</a>
+</li>
+</ul>
+</div><!--CACHE:HIT-->
+<div class="bannerAd">
+ADVERTISEMENT
+<div id="div-gpt-ad-right2-1">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("div-gpt-ad-right2-1");
+});
+</script>
+</div>
+</div>
+<div class="bannerAd">
+ADVERTISEMENT
+<div id="div-gpt-ad-right5-1">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("div-gpt-ad-right5-1");
+});
+</script>
+</div>
+</div>
+<div class="subColNewWidget natureJobs">
+<h3 class="rightNavTitle bottomBorder">Science Jobs of the Week</h3>
+<ul class="sidebarList noTopBorder">
+<li>
+<a href="/naturejobs/?method=job&amp;id=536555">Professor / Associate Professor in Environmental Chemistry</a>
+<span class="jobOrg">Norwegian University of Science and Technology (NTNU)</span>
+<span class="jobLoc"></span>
+</li>
+<li>
+<a href="/naturejobs/?method=job&amp;id=536491">Research Fellow in Tissue Engineering & Regenerative Medicine</a>
+<span class="jobOrg">National Cancer Centre Singapore (NCCS)</span>
+<span class="jobLoc"></span>
+</li>
+<li>
+<a href="/naturejobs/?method=job&amp;id=536489">PhD Scholarships: Department of Biological Sciences, Faculty of Science and Engineering, Macquarie University</a>
+<span class="jobOrg">Macquarie University</span>
+<span class="jobLoc"></span>
+</li>
+</ul>
+<a href="/naturejobs/" class="moreLink">More jobs from Naturejobs.com&nbsp;<span class="linkArrow">&raquo;</span></a>
+</div><!--CACHE:HIT-->
+</div>
+</aside>
+</div>
+<footer id="site-footer">
+<div class="subOffer">
+<div class="subscriptionForm">
+<img class="title" src="/sciam/includes/themes/sciam/images/global/riskfree_title.gif" alt="risk free title graphic" />
+<p><b>YES!</b> Send me a free issue of Scientific American with no obligation to continue the subscription. If I like it, I will be billed for the one-year subscription.</p>
+<img class="cover" src="/media/cover/current.jpg" alt="cover image" width="90" height="120" />
+<a id="footerSubscribe" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=SCA&cds_page_id=185258&cds_response_key=I5S09R00B" target="_blank">Subscribe Now</a>
+</div>
+</div>
+<div id="bottomNav">
+<span id="copyright">
+&copy; 2015 Scientific American, a Division of Nature America, Inc.</span>
+<br /><br />
+<a href="./?mobileFormat=true" rel="nofollow" class="viewMobileSite" style="display: none">View Mobile Site</a>
+<span id="rights">All Rights Reserved.</span>
+<br /><br />
+<div class="footer-links">
+<ul class="footerLinks">
+<li><a href="/mediakit/" rel="nofollow" target="_blank">Advertise</a></li>
+<li><a href="/ad-sections" rel="nofollow" target="_blank">Special Ad Sections</a></li>
+<li><a href="/page/custom-media-and-partnerships/" rel="nofollow" target="_blank">SA Custom Media and Partnerships</a></li>
+<li><a href="/naturejobs/">Science Jobs</a></li>
+<li><a href="/partners/" rel="nofollow">Partner Network</a></li>
+<li><a href="/page/international">International Editions</a></li>
+<li><a href="http://www.scientificamerican.com/travel" target="_blank">Travel</a></li>
+</ul>
+<ul class="footerLinks">
+<li><a href="/pressroom/about-scientific-american/">About Scientific American</a></li>
+<li><a href="/pressroom/" rel="nofollow">Press Room</a></li>
+<li><a href="/sitemap">Site Map</a></li>
+<li><a href="/page/terms-of-use/" rel="nofollow">Terms of Use </a></li>
+<li><a href="/page/privacy-policy/" rel="nofollow">Privacy Policy</a></li>
+<li style="float: right"><a href="/page/use-of-cookies/" rel="nofollow">Use of Cookies</a></li>
+</ul>
+<ul class="footerLinks"><li><a href="/store/subscribe/scientific-american-magazine/?WT.mc_id=SA_Webstore_SCA_MultiControl_SAMag_Footer_Self" rel="nofollow" target="_blank">Subscribe</a></li>
+<li><a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=SCA" rel="nofollow" target="_blank">Renew Your Print Subscription</a></li>
+<li><a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=SCA" rel="nofollow" target="_blank">Print Subscriber Customer Service</a></li>
+<li><a href="/page/buy-back-issues/" rel="nofollow" target="_blank">Buy Back Issues</a></li>
+<li><a href="/page/frequently-asked-questions/">FAQs</a></li>
+<li style="float: right"><a href="/page/contact-us/" rel="nofollow">Contact Us</a></li>
+</ul>
+<style type="text/css">#site-footer #bottomNav{display:inline-block !important;float:none !important;}</style>
+</div>
+</div>
+</footer>
+<div class="toasterAd" style="width: 325px;">
+<div class="magLeft"><img alt="" height="154" src="/sciam/assets/Image/Store%20Images/Special%20Promotional%20Images/170anniversary_toaster.png" width="113" /></div>
+<div class="magRight">
+<h3 style="font-size: 17px">Celebrate our 170th Anniversary with us!</h3>
+<p style="width:210px; text-align: left !important;">Get 2 years of All Access for just $170</p>
+<p style="text-align: left !important;"><a href="https://www.scientificamerican.com/store/offer/scientific-american-all-access-2yr-anniversary-offer/?WT.mc_id=SA_Webstore_anniversary-2yr-offer-Toaster" style="font-size: 12px !important; align: left !important;" target="_blank">Save $28 now!</a><span class="red">&nbsp;&gt;</span></p>
+<span class="closer">X</span></div>
+</div>
+<!-- email overlay -->
+<div id="overlay-emailForm" class="overlay">
+<h3>Email this Article</h3>
+<h4></h4>
+<form id="emailer" link="http://www.scientificamerican.com/sciam/remote/misc.cfc?WSDL&method=sendToFriend&siteId=sciam" action="http://www.scientificamerican.com/sciam/remote/misc.cfc?WSDL&method=sendToFriend&siteId=sciam" class="asyncForm">
+<input type="hidden" name="title" id="emailForm-title" value="">
+<input type="hidden" name="url" id="emailForm-url" value="">
+<input type="hidden" name="summary" id="emailForm-summary" value="">
+<div id="cfformprotect">
+</div>
+<fieldset>
+<label for="your_name">
+Your Name
+<input type="input" id="your_name" name="your_name" value="">
+</label>
+<label for="from_address">
+Your Email Address
+<input type="email" id="from_address" name="from_address" value="">
+</label>
+<label for="to_address">
+Recipient's Email Address (separate multiple addresses with a comma)
+<input type="text" id="to_address" name="to_address" value="">
+</label>
+<label for="comment">
+Comment (optional)
+<textarea id="comment" name="comment"></textarea>
+</label>
+</fieldset>
+<input type="submit" value="Send">
+</form>
+<span class="closer">X</span>
+</div><!--CACHE:HIT-->
+</div>
+</div>
+<div id="overlay" style="display: none;"></div>
+<script type="text/javascript" src="/sciam/includes/themes/sciam/js/theme/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/sciam/includes/themes/sciam/js/theme/jquery.simplemodal.1.4.4.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+$('section.article-slatwallPayWall div.articleButtons button.paywallButton').mousedown(function(){
+var WTSku = $(this).attr('data-sku');
+dcsMultiTrack('DCS.dcssip', document.location.hostname ,'DCS.dcsuri','/store/shopping-cart/','WT.action','ecom_digital issue_article preview_buy','WT.ndl','1','WT.dl','1','WT.pn_sku', WTSku ,'WT.tx_u','1','WT.tx_e','a');
+});
+$('.articleComplementaryWrap').cycle({
+fx: 'scrollLeft',
+timeout: 0,
+speed: 300,
+next: '#articleComplementaryNext',
+prev: '#articleComplementaryPrev'
+});
+$('.openMultiIssue').click(function() {
+$("#paywallOverlay").modal({
+overlayId: 'overlay',
+overlayClose: true,
+escClose: true,
+closeHTML: ''
+});
+});
+// SLBU Funcions
+var url = "/sciam/remote/misc.cfc?method=checkNatureAccess";
+$.post(url, {doi: '10.1038/scientificamerican1113-48' }, function(json) {
+if (!(json.error) && (json.authorized)) {
+$("body").append('<div id="slbuConfirm"></div>');
+$("#slbu_redirect_url").val(json.url);
+$("#slbu_redirect_companyname").val(json.companyname);
+$("#institutionAccess").show();
+/* dcsMultiTrack('DCS.dcssip','www.scientificamerican.com','DCS.dcsuri','/page/slbu/','WT.ti','SA site license overlay','WT.es','/article/the-reading-brain-in-the-digital-age-why-paper-still-beats-screens','WT.ndl','1', 'WT.dl','1', 'WT.action','SA Site License Request','WT.source','Article','WT.destination','SA site license confirmation'); */
+}
+}, "json");
+});
+</script>
+<script type="text/javascript" src="/sciam/js/thickbox.js"></script>
+<link rel="stylesheet" href="/sciam/css/thickbox.css">
+<script type="text/javascript" src="/sciam/includes/themes/sciam/assets/mejs/mediaelement-and-player.min.js"></script>
+<script type="text/javascript" src="/sciam/includes/themes/sciam/compiled/theme.min.8C364CB8387787EAF545811F4514730E.js"></script><!--CACHE:HIT-->
+<script type="text/javascript">(function( $ ){$.slatwall = new Hibachi({"timeFormat":"hh:mm tt","dateFormat":"mmm dd, yyyy","action":"slatAction","baseURL":"\/Slatwall"});})( jQuery );</script>
+<!-- START OF SmartSource Data Collector TAG v10.4.12 -->
+<!-- Copyright (c) 2013 Webtrends Inc. All rights reserved. -->
+<script>
+setTimeout(function() {
+window.webtrendsAsyncInit=function(){
+var onSiteDomains = 'nature.com,connotea.org,labanimal.com,natureasia.com,naturechina.com.cn,neuroscience-gateway.org,palgrave-connect.com,www.econolog.net,www.palgrave-journals.com,www.rikenresearch.riken.jp,www.scitable.com,www.natureprotocols.com,scientificamerican.com,sciam.com';
+window.dcs = new Webtrends.dcs().init({
+dcsid:"dcszbiart00000oiar2s6w5ud_4y9j",
+domain:"statse.webtrendslive.com",
+timezone:-5,
+downloadtypes:"xls,doc,pdf,txt,csv,zip,docx,xlsx",
+navigationtag:"div,table",
+trackevents:true,
+enabled:true,
+i18n:false,
+adimpressions:true,
+adsparam:"WT.ac",
+offsite: true,
+paidsearchparams:"gclid",
+splitvalue:"",
+preserve:true,
+cookieTypes:"all",
+metanames:"Access,citation_authors,citation_title,citation_journal_title,citation_date,citation_volume,citation_issue,citation_doi",
+onsitedoms: {
+doms: onSiteDomains,
+test: function(host) {
+if (onSiteDomains.length > 0) {
+var doms = onSiteDomains.split(",");
+var len = doms.length;
+var pattern;
+for (var i = 0; i < len; i++) {
+doms[i] = doms[i].replace(/^\s*/, "").replace(/\s*$/, "");
+pattern = new RegExp(doms[i] + '$');
+if (host.search(pattern) != -1) {
+return true;
+}
+}
+}
+return false;
+}
+},
+fpcdom:".scientificamerican.com",
+plugins:{
+hm:{src:"//s.webtrends.com/js/webtrends.hm.js"},
+WT_Nature_ndl: {
+src: function (_window) {
+_window = _window || window;
+if (!_window.Webtrends)
+return;
+function doTransform(d, o) {
+var e = o.element || {};
+var evt = o.event || {};
+var getDl = function() {
+if (o && o.argsa) {
+for (var i = 0; i < o.argsa.length - 1; i += 2) {
+if (o.argsa[i] === 'WT.dl') {
+return o.argsa[i + 1];
+}
+}
+}
+return d.WT.dl;
+};
+var _dl = getDl() || '0';
+// Begin test for offsite.
+if (e.hostname && !d.dcsIsOnsite(e.hostname, d._onsitedoms) && !d._isRightClick(evt)) {
+_dl = '24';
+}
+// End test for offsite
+// Start testing for downloads
+if ((e.pathname) && d.dcsTypeMatch(e.pathname, d._downloadtypes) && !d._isRightClick(evt)) {
+_dl = '20';
+}
+// End testing for downloads
+o.argsa.push("WT.ndl", _dl);
+if (d.DCS.dcsuri.substr(d.DCS.dcsuri.length-4)=='.pdf') {
+_dl = '0';
+}
+d.WT.ndl = _dl;
+}
+function regTransform() {
+_window.Webtrends.addTransform(doTransform, 'all');
+}
+Webtrends.registerPlugin("WT_Nature_ndl", regTransform);
+}
+}
+}
+});
+dcs.WT.cg_n = "Scientific American";
+dcs.WT.cg_s = "SA Magazine: ";
+dcs.WT.sa_cat = "";
+dcs.WT.sa_cattop = "";
+dcs.WT.sa_author = "Ferris Jabr";
+dcs.WT.sa_pubdate = "2013/11/01";
+dcs.WT.sa_access_status = "paywall";
+dcs.WT.sa_cstatus_registrant = "0"
+dcs.WT.sa_cstatus_customer = "0";
+dcs.WT.sa_cstatus_subscriber = "0";
+if ( $('#slbuConfirm').length != 0 ){
+dcs.WT.sa_cstatus_sitelicense = "1";
+} else{
+dcs.WT.sa_cstatus_sitelicense = "0";
+}
+dcs.WT.z_cg_ecollection = "";
+dcs.WT.sa_article_id = "C9D8EDE6-9D24-56B2-A5561A8F050069B9";
+dcs.WT.sa_issue = "Scientific American Volume 309, Issue 5";
+dcs.WT.z_css = "desktop";
+if ( $("form#createAccountForm").length != 0){
+dcs.WT.si_n = "SA_CheckOutScenario";
+dcs.WT.si_x = "1";
+dcs.WT.tx_e = "a";
+dcs.WT.tx_u = "";
+dcs.WT.pn_sku = "";
+}
+if ( $("form#fulfillmentForm").length != 0){
+dcs.WT.si_n = "SA_CheckOutScenario";
+dcs.WT.si_x = "2";
+dcs.WT.tx_u = "";
+dcs.WT.pn_sku = "";
+}
+if ( $("form#billingForm").length != 0){
+dcs.WT.si_n = "SA_CheckOutScenario;SA_CheckOutScenario_v2";
+dcs.WT.si_x = "3;1";
+dcs.WT.tx_u = "";
+dcs.WT.pn_sku = "";
+}
+if( $("form#placeOrderForm").length != 0){
+dcs.WT.si_n = "SA_CheckOutScenario;SA_CheckOutScenario_v2";
+dcs.WT.si_x = "4;2";
+dcs.WT.tx_u = "";
+dcs.WT.pn_sku = "";
+}
+dcs.track();
+};
+(function(){
+var s=document.createElement("script"); s.src="/sciam/includes/themes/sciam/js/trackingScripts/WT10/webtrends.js";
+var s2=document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s,s2);
+}());
+}, 2000);
+</script>
+<noscript><img alt="dcsimg" id="dcsimg" width="1" height="1" src="//statse.webtrendslive.com/dcszbiart00000oiar2s6w5ud_4y9j/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.4.12&amp;dcssip=www.sciam.com"/></noscript>
+<!-- END OF SmartSource Data Collector TAG v10.4.12 -->
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+_qevents.push({
+qacct:"p--bdWkk8TkNGBU",
+labels: "Topics.Technology,SA Magazine"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p--bdWkk8TkNGBU.gif?labels=Topics.Technology,SA+Magazine" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+<noscript>
+<div>
+<img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-403331h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" />
+</div>
+</noscript>
+<!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display: none">
+<div id="parsely-cfg" data-parsely-site="scientificamerican.com"></div>
+</div>
+<script>
+(function(s, p, d) {
+var h=d.location.protocol, i=p+"-"+s,
+e=d.getElementById(i), r=d.getElementById(p+"-root"),
+u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+:"static."+p+".com";
+if (e) return;
+e = d.createElement(s); e.id = i; e.async = true;
+e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+<!-- END Parse.ly Include -->
+<script type="application/ld+json">
+{"thumbnailUrl":"http://www.scientificamerican.com/sciam/cache/file/DE4652F7-F2F4-46A0-B3D068EEA394DE76_small.jpg","keywords":["Features","More Science","Society & Policy","Mind & Brain","Language & Linguistics","Technology","Communications","Computing","Consumer Electronics"],"creator":["Ferris Jabr"],"@context":"http://schema.org","@type":"NewsArticle","headline":"The Reading Brain in the Digital Age: Why Paper Still Beats Screens","articleSection":"SA Magazine: ","url":"http://www.scientificamerican.com/article/the-reading-brain-in-the-digital-age-why-paper-still-beats-screens/","dateCreated":"2013-10-04T10:56:28Z-0400"}
+</script>
+<script type="text/javascript" src="//nexus.ensighten.com/npg/prod-sa/Bootstrap.js"></script>
+<div id='div-gpt-ad-interstitial-1'>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.display("div-gpt-ad-interstitial-1");
+});
+</script>
+</div>
+</body>
+</html>

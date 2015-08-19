@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js"> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Connected - The Moxie Institute</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="http://moxieinstitute.nationbuilder.com/themes/1/55199a2cebad642b53000001/0/attachments/14295630501436879821/default/theme.scss" type="text/css"/>
+<link rel="stylesheet" href="http://moxieinstitute.nationbuilder.com/themes/1/55199a2cebad642b53000001/0/attachments/14295630501436879821/default/tablet-and-desktop.scss" type="text/css" media="screen and (min-width: 768px)"/>
+ 
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Ovo::latin', 'Crimson+Text:400,600,400italic,600italic:latin', 'Exo+2:100,400,700,400italic,700italic:latin',  'Source+Sans+Pro:200,400,700,400italic,700italic:latin', 'Tinos:400,700,400italic,700italic:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+ 
+<!--[if IE 8]>
+    <link rel="stylesheet" href="http://moxieinstitute.nationbuilder.com/themes/1/55199a2cebad642b53000001/0/attachments/14295630501436879821/default/tablet-and-desktop.scss" type="text/css" />
+  <![endif]-->
+<!--[if IE]>
+  <link rel="stylesheet" href="http://moxieinstitute.nationbuilder.com/themes/1/55199a2cebad642b53000001/0/attachments/14295630501436879821/default/ie.scss" type="text/css" />
+  <![endif]-->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<meta content="authenticity_token" name="csrf-param"/>
+<meta content="8kELQRxMyRd69UFG0KLhUCpgYQ9lvhQgF1TYN9/13dE=" name="csrf-token"/>
+<link rel="canonical" href="http://www.moxieinstitute.org/connected"/>
+<meta name="Title" content="Connected - The Moxie Institute">
+<meta property="og:title" content="The Moxie Institute Film Studio + Lab"/>
+<meta property="og:url" content="http://www.moxieinstitute.org/connected">
+<meta property="og:description" content="Films+Conversation=Change">
+<meta property="og:type" content="article">
+<link rel="image_src" href="http://d3n8a8pro7vhmx.cloudfront.net/moxieinstitute/sites/1/meta_images/original/MoxieLogo.jpg?1429663847"/>
+<meta property="og:image" content="http://d3n8a8pro7vhmx.cloudfront.net/moxieinstitute/sites/1/meta_images/original/MoxieLogo.jpg?1429663847"/>
+<meta property="og:site_name" content="The Moxie Institute"/>
+<script type="text/javascript">
+  var NB = NB || {};
+
+  NB.environment = "production";
+  NB.pageId = "55";
+  NB.Liquid = NB.Liquid || {};
+</script>
+<script type="text/javascript">
+		//<![CDATA[
+			window._auth_token_name = "authenticity_token";
+			window._auth_token = "8kELQRxMyRd69UFG0KLhUCpgYQ9lvhQgF1TYN9/13dE=";
+		//]]>
+</script>
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css" type="text/css" media="all">
+<link rel="icon" type="image/x-icon" href="http://d3n8a8pro7vhmx.cloudfront.net/moxieinstitute/sites/1/favicon_images/original/Moxie_Logo_Surfers.jpeg?1396036371"/>
+<script src="//d3n8a8pro7vhmx.cloudfront.net/assets/liquid/main-d8a7e2e8fa2d1a64dd8aabea23a61478.js" type="text/javascript"></script>
+<script type="text/javascript">
+  window.twttr = (function (d,s,id) {
+    var t, js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+    js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+    return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+  }(document, "script", "twitter-wjs"));
+</script>
+<script type="text/javascript">
+  NB.FBAppId = '126739610711965';
+</script>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = '//apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-36466467-1']);
+   	_gaq.push(['_setDomainName', 'none']);
+    _gaq.push(['_setAllowLinker', true]);
+      _gaq.push(['_setCustomVar', 1, 'Parent', 'connected_redirect', 3]);
+      _gaq.push(['_setCustomVar', 1, 'UGC', 'false', 3]);
+      _gaq.push(['_setCustomVar', 1, 'Page type', 'Basic', 3]);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_trackPageLoadTime']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+<script type="text/javascript">
+    var _qevents = _qevents || [];
+
+    (function() {
+     var elem = document.createElement('script');
+
+     elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+     elem.async = true;
+     elem.type = "text/javascript";
+     var scpt = document.getElementsByTagName('script')[0];
+     scpt.parentNode.insertBefore(elem, scpt);
+    })();
+  </script>
+<script type="text/javascript" src="http://moxieinstitute.nationbuilder.com/themes/1/55199a2cebad642b53000001/0/attachments/14295630501436879821/default/jquery.ui.effect.min.js"></script>
+<script type="text/javascript" src="http://moxieinstitute.nationbuilder.com/themes/1/55199a2cebad642b53000001/0/attachments/14295630501436879821/default/jquery.ui.effect-slide.min.js"></script>
+<script type="text/javascript" src="http://moxieinstitute.nationbuilder.com/themes/1/55199a2cebad642b53000001/0/attachments/14295630501436879821/default/presence.js"></script>
+<script type="text/javascript">
+    NB.appConfig.userIsLoggedIn = false;
+    
+    
+  </script>
+<link rel="stylesheet" href="http://moxieinstitute.nationbuilder.com/themes/1/55199a2cebad642b53000001/0/attachments/14295630501436879821/default/videolightbox.css" type="text/css"/>
+<link rel="stylesheet" href="http://moxieinstitute.nationbuilder.com/themes/1/55199a2cebad642b53000001/0/attachments/14295630501436879821/default/overlay-minimal.css" type="text/css"/>
+<script src="http://moxieinstitute.nationbuilder.com/themes/1/55199a2cebad642b53000001/0/attachments/14295630501436879821/default/swfobject.js" type="text/javascript"></script>
+</head>
+<body class="aware-theme v2-theme page-type-basic    has-features has-logo js">
+<div id="pattern" class="pattern">
+<div class="wrap" id="wrap">
+<div id="body" class="page-pages-show-basic-wide">
+<div class="nav-wrap">
+ 
+<nav id="menu" role="navigation" class="width-container">
+<div class="navlogo">
+<a href="/"><img src="http://d3n8a8pro7vhmx.cloudfront.net/moxieinstitute/sites/1/meta_images/original/MoxieLogo.jpg?1429663847"></a>
+</div>
+<ul id="topnav" class="topnav desktop-nav">
+<li>
+<a href="/">Home</a>
+</li>
+<li class=" drop">
+<a href="/about">ABOUT <i class="icon-angle-down"></i></a>
+<ul class="sub">
+<li class="show-parent mobile-visible"><a href="/about">ABOUT</a></li>
+<li><a href="/tiffanyshlain">Tiffany Shlain</a></li>
+<li><a href="/team">THE TEAM</a></li>
+<li><a href="/awards_and_distinctions">AWARDS AND DISTINCTIONS</a></li>
+<li><a href="/partners">PARTNERS & SUPPORTERS</a></li>
+<li><a href="/job_opportunities">JOB OPPORTUNITIES</a></li>
+<li><a href="/contact_us">CONTACT US</a></li>
+</ul>
+</li>
+<li class="active drop">
+<a href="/films">FILMS <i class="icon-angle-down"></i></a>
+<ul class="sub">
+<li class="show-parent mobile-visible"><a href="/films">FILMS</a></li>
+<li><a href="/thefuturestartshere">THE FUTURE STARTS HERE (SERIES)</a></li>
+<li><a href="/connected_redirect">CONNECTED</a></li>
+<li><a href="/facing_the_future">THE FRIENDSHIP</a></li>
+<li><a href="/tribe">THE TRIBE</a></li>
+<li><a href="/yelp">YELP</a></li>
+<li><a href="/lifeliberty">Life, Liberty and the Pursuit of Happiness</a></li>
+<li><a href="/mill_valley_redux">MILL VALLEY REDUX</a></li>
+<li><a href="/let_it_ripple">LET IT RIPPLE SERIES</a></li>
+<li><a href="/projects_redirect">OTHER PROJECTS</a></li>
+<li><a href="/behind_the_scenes">BEHIND THE SCENES</a></li>
+</ul>
+</li>
+<li class=" drop">
+<a href="/press_highlights">Press <i class="icon-angle-down"></i></a>
+<ul class="sub">
+<li class="show-parent mobile-visible"><a href="/press_highlights">Press</a></li>
+<li><a href="/presshighlights">Press Highlights</a></li>
+<li><a href="/articles">ALL ARTICLES</a></li>
+<li><a href="/published_articles">PUBLISHED ARTICLES</a></li>
+<li><a href="/newsletters">NEWSLETTERS</a></li>
+<li><a href="/interviews_with_the_director">INTERVIEWS WITH THE DIRECTOR</a></li>
+<li><a href="/google_hangouts_with_tiffany">GOOGLE HANGOUTS WITH TIFFANY SHLAIN</a></li>
+</ul>
+</li>
+<li class=" drop">
+<a href="/talks">TALKS <i class="icon-angle-down"></i></a>
+<ul class="sub">
+<li class="show-parent mobile-visible"><a href="/talks">TALKS</a></li>
+<li><a href="/upcomingtalks">Upcoming Talks</a></li>
+<li><a href="/keynote_videos">Keynote Videos</a></li>
+<li><a href="/pasttalks">Past Talks</a></li>
+<li><a href="/topics">Topics</a></li>
+<li><a href="/testimonials">Testimonials</a></li>
+</ul>
+</li>
+<li>
+<a href="/store">STORE</a>
+</li>
+</ul>
+</nav>
+<a href="#menu" class="menu-link"><i class="icon-menu"></i></a>
+ 
+</div>
+<div class="fullwidth clearfix site-logo-wrap">
+ 
+<div id="page-features" class="page-features" style="max-height: 250px">
+<div id="feature-slides" class="feature-slides">
+<img src="/assets/loading.gif" alt="loading" class="slider-loading" style:"display:block !important;">
+
+    <ul class="slides clearfix" >
+
+      
+      <li>
+        <a href="/articles">
+          <img src="https://d3n8a8pro7vhmx.cloudfront.net/moxieinstitute/pages/55/features/original/NYT_Quote.jpg?1397516359" height="250" width="650"/>
+        </a>
+        
+      </li>
+      
+      <li>
+        <a href="/connected">
+          <img src="https://d3n8a8pro7vhmx.cloudfront.net/moxieinstitute/pages/55/features/original/Logo.jpg?1398877956" height="250" width="650"/>
+        </a>
+        
+        <a class="features-headline desktop-visible" href="/connected">Click the links below to WATCH NOW</a>
+        <a href="/connected" class="submit-link desktop-visible">Learn More</a>
+        
+      </li>
+      
+      <li>
+        <a href="/educators_edition">
+          <img src="https://d3n8a8pro7vhmx.cloudfront.net/moxieinstitute/pages/55/features/original/Edu_Kit2.jpg?1396466427" height="250" width="650"/>
+        </a>
+        
+        <a class="features-headline desktop-visible" href="/educators_edition">Check out the "Connected" Educator's Edition Kit</a>
+        <a href="/educators_edition" class="submit-link desktop-visible">Learn More</a>
+        
+      </li>
+      
+      <li>
+        <a href="/the_filmmakers">
+          <img src="https://d3n8a8pro7vhmx.cloudfront.net/moxieinstitute/pages/55/features/original/Redwoods2.jpg?1396466534" height="250" width="650"/>
+        </a>
+        
+        <a class="features-headline desktop-visible" href="/the_filmmakers">The team behind the film</a>
+        <a href="/the_filmmakers" class="submit-link desktop-visible">Learn More</a>
+        
+      </li>
+      
+      <li>
+        <a href="/tiffanyshlain">
+          <img src="https://d3n8a8pro7vhmx.cloudfront.net/moxieinstitute/pages/55/features/original/Tiffany.jpg?1396465969" height="250" width="650"/>
+        </a>
+        
+        <a class="features-headline desktop-visible" href="/tiffanyshlain">Learn more about Director Tiffany Shlain</a>
+        <a href="/tiffanyshlain" class="submit-link desktop-visible">Learn More</a>
+        
+      </li>
+      
+      <li>
+        <a href="/leonard_shlain">
+          <img src="https://d3n8a8pro7vhmx.cloudfront.net/moxieinstitute/pages/55/features/original/Leonard.jpg?1396465358" height="250" width="650"/>
+        </a>
+        
+        <a class="features-headline desktop-visible" href="/leonard_shlain">Learn more about Leonard Shlain</a>
+        <a href="/leonard_shlain" class="submit-link desktop-visible">Learn More</a>
+        
+      </li>
+      
+      <li>
+        <a href="/host_a_screening">
+          <img src="https://d3n8a8pro7vhmx.cloudfront.net/moxieinstitute/pages/55/features/original/Fingers.jpg?1396465259" height="250" width="650"/>
+        </a>
+        
+        <a class="features-headline desktop-visible" href="/host_a_screening">Want your community to see this film? Host your own screening.</a>
+        <a href="/host_a_screening" class="submit-link desktop-visible">Learn More</a>
+        
+      </li>
+      
+
+    </ul>
+  </div>
+  
+  
+<!--
+  
+    <div class="site-logo header-wrap">
+      <header><a href="/"><img src="http://d3n8a8pro7vhmx.cloudfront.net/moxieinstitute/sites/1/meta_images/original/MoxieLogo.jpg?1429663847"></a></header>
+    </div>
+  
+-->
+  
+</div>
+
+
+
+
+<!-- /_features.html -->
+
+              <hr class="header-rule"/>
+            
+
+            
+
+          </div>
+          <!-- .width-container -->
+
+        
+        <!-- .header-container -->
+        
+        
+
+        <div class="main-container" id="middle">
+          <div class="main width-container clearfix">
+
+            
+            
+<!-- _columns_1.html -->
+<div class="onecolumn-container clearfix">
+
+  <div class="columns-1-flash"><div id="flash_container">
+
+
+</div>
+</div>
+
+  <div class="content-pages-show-basic-wide">
+    
+
+
+
+<div id="content">
+
+  <div id="intro" class="intro">
+    <div class="text-content">
+      <p style="text-align: center;"><a href="http://www.moxieinstitute.org/about_connected" target="_self">ABOUT FILM</a>  |  <a href="http://www.moxieinstitute.org/host_a_screening" target="_self">HOST A SCREENING</a>  |  <a href="http://www.moxieinstitute.org/educators_edition" target="_self">EDUCATOR'S EDITION</a></p>
+<p style="text-align: center;"><iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.reelhouse.org%2Fconnectedfilm%2Fconnected%2Fupdatevideo%3Fembed%3Dtrue&amp;url=https%3A%2F%2Fwww.reelhouse.org%2Fconnectedfilm%2Fconnected%2Fupdatevideo&amp;image=https%3A%2F%2Frhdev_images.s3.amazonaws.com%2Fimages_video_51f7ff7f781bbb0a0000000d_custom_thumb_516635525.png.620x348.jpeg&amp;key=e1208cbfb854483e8443b1ed081912ee&amp;type=text%2Fhtml&amp;schema=reelhouse" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align: center;"> <a style="text-align: center;" rel="attachment wp-att-10819" href="http://dvd.netflix.com/Movie/Connected-An-Autoblogography-About-Love-Death-Technology/70166245?strkid=1491231690_0_0&amp;strackid=26fbb55948083099_0_srl&amp;trkid=222336" target="_blank"><img class="wp-image-10819 aligncenter" src="https://d3n8a8pro7vhmx.cloudfront.net/moxieinstitute/pages/55/attachments/original/1393533861/CONNECTED2-NetflixIcon.jpeg?1393533861" alt="CONNECTED2-NetflixIcon.jpeg" width="134" /></a>  <a style="text-align: center;" rel="attachment wp-att-10861" href="http://www.amazon.com/Connected-Tiffany-Shlain/dp/B00AALVHQU/ref=sr_1_1?ie=UTF8&amp;qid=1363216308&amp;sr=8-1&amp;keywords=Connected+tiffany+shlain" target="_blank"><img class="aligncenter" src="https://d3n8a8pro7vhmx.cloudfront.net/moxieinstitute/pages/55/attachments/original/1438035478/avod-logo-260.gif?1438035478" alt="avod-logo-260.gif" width="253" /></a> </p>
+    </div>
+  </div>
+
+  
+
+  
+
+  <div class="like-page">
+    <strong>Do you like this page?</strong>
+    
+<!-- _like_page.html -->
+<div class="sharetable padtopless clearfix">
+  <div class="facebook-cell">
+    
+    <div class="desktop-visible">
+      <fb:like href="http://www.moxieinstitute.org/connected" show_faces="false" width="300" colorscheme="light" send="true" action="like"></fb:like>
+    </div>
+    <div class="mobile-visible">
+      <fb:like href="http://www.moxieinstitute.org/connected" show_faces="false" width="200" colorscheme="light" send="false" action="like"></fb:like>
+    </div>
+    
+  </div>
+  <div class="twitter-cell">
+    <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-text="Connected" data-via="tiffanyshlain">Tweet</a>
+  </div>
+  <div class="gplus-cell"><g:plusone count="false" size="medium"></g:plusone></div>
+</div>
+
+<!-- /_like_page.html -->
+
+  </div>
+
+  
+
+</div>
+  </div>
+
+</div>
+<!-- /onecolumn-container -->
+<!-- /_columns_1.html -->
+
+            
+
+          </div>
+          <!-- .main -->
+        </div>
+        <!-- .main-container -->
+
+        <div class="footer-wrap">
+          <footer class="clearfix width-container">
+
+            <div id="fb-root"></div>
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : 126739610711965,
+      channelUrl : "//moxieinstitute.nationbuilder.com/channel.html",
+      status     : true,
+      version    : "v2.3",
+      cookie     : true,
+      xfbml      : true
+    });
+  };
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s);
+    js.id = id;
+    js.async = true;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+
+
+
+<script src="//d3n8a8pro7vhmx.cloudfront.net/assets/liquid-acf8fe97acdb7af585c6f45e6ee28bd1.js" type="text/javascript"></script>
+<script src="//d3n8a8pro7vhmx.cloudfront.net/assets/tinymce-jquery-b16bb09336f0e7f04e5e1d9228b0b6e8.js" type="text/javascript"></script>
+
+	<iframe src="http://www.moxieinstitute.org/session_pair_phase_1?iframe=1" width="1" height="1" style="display: none;"></iframe>
+
+
+  <script type="text/javascript">
+  _qevents.push(
+  	{ qacct:"p-5ftmjaPECGTTU" }
+  	);
+  </script>
+
+  <noscript>
+  <div style="display: none;"><img src="//pixel.quantserve.com/pixel?a.1=p-5ftmjaPECGTTU" height="1" width="1" alt="Quantcast"/></div>
+  </noscript>
+
+
+
+            
+            <div class="footer-text"><div class="navsocialbox" style="text-align: right;">
+<a href="https://www.facebook.com/tiffanyshlainfilms" target="_blank"><img src="http://d3n8a8pro7vhmx.cloudfront.net/themes/55199a2cebad642b53000001/attachments/original/1429820851/facebook.png?1429820851" alt="1" width="36"></a> <a href="https://twitter.com/tiffanyshlain" target="_blank"><img src="http://d3n8a8pro7vhmx.cloudfront.net/themes/55199a2cebad642b53000001/attachments/original/1429820861/twitter.png?1429820861" alt="" width="36"></a> <a href="http://www.youtube.com/tiffanyshlainfilms" target="_blank"><img src="http://d3n8a8pro7vhmx.cloudfront.net/themes/55199a2cebad642b53000001/attachments/original/1429820870/youtube.png?1429820870" alt="" width="36"></a>
+</div></div>
+            
+
+            <div class="row-fluid">
+
+              <div class="span7 footer-left left-column textnarrow">
+                
+                  Sign in with <a href="http://moxieinstitute.nationbuilder.com/users/facebook/connect?page_id=55&scope=public_profile%2Cemail">Facebook</a>, <a
+                      href="/users/twitter/connect?page_id=55">Twitter</a> or <a href="/login">email</a>.
+                
+              </div>
+              <div class="span5 footer-right right-column">
+                <!-- The NationBuilder link below is required. If it is removed, we may add it back ourselves.
+                     You can style it or move it in different ways, but please leave it in the footer. -->
+                <a href="http://nationbuilder.com/"></a>
+              </div>
+
+            </div>
+          </footer>
+        </div>
+        <!-- .width-container -->
+
+      </div>
+      <!-- #body -->
+    </div>
+    <!-- #wrap -->
+  </div>
+  <!-- #pattern -->
+
+
+
+</body>
+</html>
+
+
